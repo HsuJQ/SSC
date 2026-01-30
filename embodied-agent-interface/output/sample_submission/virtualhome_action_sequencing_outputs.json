@@ -1,0 +1,1370 @@
+[
+    {
+        "identifier": "27_2",
+        "llm_output": "{\n  \"FIND\": [\"soap\", \"1002\"],\n  \"PUTBACK\": [\"soap\", \"1002\", \"bathroom\", \"1\"],\n  \"PUTIN\": [\"soap\", \"1002\", \"clothes_jacket\", \"1003\"],\n  \"CLOSE\": [\"washing_machine\", \"1001\"],\n  \"OPEN\": [\"washing_machine\", \"1001\"],\n  \"FIND\": [\"clothes_jacket\", \"1003\"],\n  \"PUTIN\": [\"clothes_jacket\", \"1003\", \"soap\", \"1002\"]\n}"
+    },
+    {
+        "identifier": "417_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"washing_machine\", \"1000\"],\n  \"OPEN\": [\"washing_machine\", \"1000\"],\n  \"CLOSE\": [\"washing_machine\", \"1000\"],\n  \"PLUGGED_IN\": [\"washing_machine\", \"1000\"],\n  \"ON\": [\"washing_machine\", \"1000\"],\n  \"CLOSED\": [\"washing_machine\", \"1000\"],\n  \"ON\": [\"washing_machine\", \"1000\"],\n  \"PLUGGED_IN\": [\"washing_machine\", \"1000\"],\n  \"ON\": [\"washing_machine\", \"1000\"],\n  \"ON\": [\"soap\", \"1005\"]\n}\n```"
+    },
+    {
+        "identifier": "850_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"washing_machine\", \"washing_machine_id\"],\n  \"PUTBACK\": [\"clothes_pants\", \"clothes_pants_id\", \"washing_machine\", \"washing_machine_id\"]\n}\n```"
+    },
+    {
+        "identifier": "954_2",
+        "llm_output": "{\n  \"FIND\": [\"washing_machine\", \"1001\"],\n  \"PUTBACK\": [\"soap\", \"1006\", \"washing_machine\", \"1001\"],\n  \"PUTIN\": [\"clothes_shirt\", \"1002\", \"washing_machine\", \"1001\"],\n  \"PUTIN\": [\"clothes_pants\", \"1003\", \"washing_machine\", \"1001\"],\n  \"PUTIN\": [\"clothes_underwear\", \"1005\", \"washing_machine\", \"1001\"],\n  \"PUTIN\": [\"clothes_dress\", \"1004\", \"washing_machine\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "11_1",
+        "llm_output": "{\n  \"FIND\": [\"floor_lamp\", \"1000\"],\n  \"PUTBACK\": [\"floor_lamp\", \"1000\", \"bedroom\", \"67\"]\n}"
+    },
+    {
+        "identifier": "120_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"light\"],\n  \"PUTBACK\": [\"floor_lamp\", \"floor_lamp\", \"light\", \"light\"]\n}\n```"
+    },
+    {
+        "identifier": "125_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"light_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"light_id\"]\n}"
+    },
+    {
+        "identifier": "150_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"411\"],\n  \"PUTBACK\": [\"light\", \"411\", \"bathroom\", \"1\"]\n}"
+    },
+    {
+        "identifier": "160_1",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"light\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"light_id\"]\n}"
+    },
+    {
+        "identifier": "180_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"245\"],\n  \"PUTBACK\": [\"light\", \"245\", \"bathroom\", \"1\"]\n}"
+    },
+    {
+        "identifier": "205_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"169\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"169\"]\n}\n```"
+    },
+    {
+        "identifier": "222_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"light\"],\n  \"PUTBACK\": [\"light\", \"light\", \"dining_room\", \"dining_room\"]\n}\n```"
+    },
+    {
+        "identifier": "232_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"245\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"bathroom\", \"1\"]\n}"
+    },
+    {
+        "identifier": "310_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"169\"],\n  \"PUTBACK\": [\"light\", \"169\", \"bedroom\", \"67\"]\n}\n```"
+    },
+    {
+        "identifier": "311_1",
+        "llm_output": "{\n  \"FIND\": [\"floor_lamp\", \"1000\"],\n  \"OPEN\": [\"floor_lamp\", \"1000\"],\n  \"FIND\": [\"bathroom\", \"1\"],\n  \"OPEN\": [\"bathroom\", \"1\"],\n  \"FIND\": [\"home_office\", \"319\"],\n  \"OPEN\": [\"home_office\", \"319\"]\n}"
+    },
+    {
+        "identifier": "331_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"411\"],\n  \"OPEN\": [\"light\", \"411\"],\n  \"TOUCH\": [\"light\", \"411\"],\n  \"SET\": [\"light\", \"411\"]\n}"
+    },
+    {
+        "identifier": "339_1",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"sink_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}"
+    },
+    {
+        "identifier": "345_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"411\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"411\"]\n}\n```"
+    },
+    {
+        "identifier": "392_1",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"64\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"64\"]\n}"
+    },
+    {
+        "identifier": "394_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"245\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"245\"]\n}"
+    },
+    {
+        "identifier": "432_1",
+        "llm_output": "{\n  \"FIND\": [\"floor_lamp\", \"1000\"],\n  \"PUTBACK\": [\"floor_lamp\", \"1000\", \"bathroom\", \"1\"]\n}"
+    },
+    {
+        "identifier": "443_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"floor_lamp\", \"1000\"],\n  \"OPEN\": [\"floor_lamp\", \"1000\"],\n  \"FIND\": [\"bedroom\", \"67\"],\n  \"OPEN\": [\"bedroom\", \"67\"],\n  \"FIND\": [\"dining_room\", \"201\"],\n  \"OPEN\": [\"dining_room\", \"201\"]\n}\n```"
+    },
+    {
+        "identifier": "445_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"light\"],\n  \"OPEN\": [\"light\", \"light\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}\n```"
+    },
+    {
+        "identifier": "511_1",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"light_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"light_id\"]\n}"
+    },
+    {
+        "identifier": "585_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"411\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"bathroom\", \"1\"]\n}\n```"
+    },
+    {
+        "identifier": "604_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"64\"],\n  \"PUTBACK\": [\"light\", \"64\", \"light\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "616_1",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"64\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"64\"]\n}"
+    },
+    {
+        "identifier": "627_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"floor_lamp\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"floor_lamp\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "705_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"floor_lamp\", \"1000\"],\n  \"OPEN\": [\"floor_lamp\", \"1000\"],\n  \"SWITCHON\": [\"floor_lamp\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "708_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"169\"],\n  \"OPEN\": [\"light\", \"169\"],\n  \"PUTIN\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}\n```"
+    },
+    {
+        "identifier": "715_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"light\"],\n  \"PUTBACK\": [\"floor_lamp\", \"floor_lamp\", \"light\", \"light\"]\n}"
+    },
+    {
+        "identifier": "737_2",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"411\"],\n  \"PUTBACK\": [\"light\", \"411\"]\n}"
+    },
+    {
+        "identifier": "780_1",
+        "llm_output": "{\n  \"FIND\": [\"light\", \"245\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"bedroom\", \"67\"]\n}"
+    },
+    {
+        "identifier": "812_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"169\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"169\"]\n}\n```"
+    },
+    {
+        "identifier": "835_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"floor_lamp\", \"1000\"],\n  \"OPEN\": [\"floor_lamp\", \"1000\"],\n  \"SWITCHON\": [\"floor_lamp\", \"1000\"],\n  \"PUTBACK\": [\"floor_lamp\", \"1000\", \"dining_room\", \"201\"]\n}\n```"
+    },
+    {
+        "identifier": "85_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"245\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"light\", \"245\"]\n}\n```"
+    },
+    {
+        "identifier": "874_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"light\", \"169\"],\n  \"PUTBACK\": [\"light\", \"169\"],\n  \"OPEN\": [\"light\", \"169\"],\n  \"CLOSE\": [\"light\", \"169\"]\n}\n```"
+    },
+    {
+        "identifier": "491_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"toothbrush\", \"1000\"],\n  \"PUTBACK\": [\"toothbrush\", \"1000\", \"bathroom\", \"1\"]\n}\n```"
+    },
+    {
+        "identifier": "696_1",
+        "llm_output": "{\n  \"FIND\": [\"tooth_paste\", \"1000\"],\n  \"PUTBACK\": [\"toothbrush\", \"1001\", \"tooth_paste\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "1003_2",
+        "llm_output": "{\n  \"FIND\": [\"chair\", \"chair_id\"],\n  \"PUTBACK\": [\"mouse\", \"mouse_id\", \"chair\", \"chair_id\"]\n}"
+    },
+    {
+        "identifier": "115_2",
+        "llm_output": "{\n  \"TYPE\": [\"keyboard\", \"keyboard_id\"],\n  \"TYPE\": [\"computer\", \"computer_id\"]\n}"
+    },
+    {
+        "identifier": "407_1",
+        "llm_output": "{\n  \"TYPE\": [\"keyboard\", \"keyboard_id\"],\n  \"TYPE\": [\"address_book\", \"address_book_id\"]\n}"
+    },
+    {
+        "identifier": "430_1",
+        "llm_output": "{\n  \"TYPE\": [\"keyboard\", \"keyboard_id\"],\n  \"TYPE\": [\"mousepad\", \"mousepad_id\"]\n}"
+    },
+    {
+        "identifier": "481_2",
+        "llm_output": "```json\n{\n  \"TYPE\": [\"keyboard\", \"415\"],\n  \"TYPE\": [\"mouse\", \"413\"],\n  \"SWITCHOFF\": [\"button\", \"1001\"],\n  \"SWITCHOFF\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "622_1",
+        "llm_output": "{\n  \"TYPE\": [\"keyboard\", \"keyboard_id\"],\n  \"TYPE\": [\"mouse\", \"mouse_id\"]\n}"
+    },
+    {
+        "identifier": "699_1",
+        "llm_output": "{\n  \"TYPE\": [\"keyboard\", \"keyboard_id\"],\n  \"TYPE\": [\"check\", \"check_id\"]\n}"
+    },
+    {
+        "identifier": "824_1",
+        "llm_output": "{\n  \"TYPE\": [\"keyboard\", \"keyboard_id\"],\n  \"TYPE\": [\"mouse\", \"mouse_id\"]\n}"
+    },
+    {
+        "identifier": "87_2",
+        "llm_output": "{\n  \"TYPE\": [\"computer\", \"computer_id\"],\n  \"TYPE\": [\"laptop\", \"laptop_id\"]\n}"
+    },
+    {
+        "identifier": "986_2",
+        "llm_output": "{\n  \"TYPE\": [\"keyboard\", \"415\"],\n  \"TYPE\": [\"keyboard\", \"415\"],\n  \"SWITCHOFF\": [\"computer\", \"417\"],\n  \"SWITCHOFF\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "996_2",
+        "llm_output": "```json\n{\n  \"TYPE\": [\"computer\", \"computer_id\"],\n  \"TYPE\": [\"keyboard\", \"keyboard_id\"]\n}\n```"
+    },
+    {
+        "identifier": "1004_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"PUTBACK\": [\"food_food\", \"1000\", \"freezer\", \"289\"]\n}\n```"
+    },
+    {
+        "identifier": "152_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"PUTBACK\": [\"food_food\", \"1000\", \"freezer\", \"289\"]\n}\n```"
+    },
+    {
+        "identifier": "298_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"PUTBACK\": [\"food_food\", \"1000\", \"freezer\", \"289\"]\n}\n```"
+    },
+    {
+        "identifier": "609_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"PUTBACK\": [\"food_food\", \"1000\", \"freezer\", \"289\"]\n}\n```"
+    },
+    {
+        "identifier": "703_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"PUTBACK\": [\"food_food\", \"1000\", \"freezer\", \"289\"]\n}\n```"
+    },
+    {
+        "identifier": "772_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"PUTBACK\": [\"milk\", \"1000\", \"bathroom\", \"1\"]\n}\n```"
+    },
+    {
+        "identifier": "837_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"freezer_id\"],\n  \"PUTBACK\": [\"colander\", \"colander_id\", \"freezer\", \"freezer_id\"]\n}\n```"
+    },
+    {
+        "identifier": "158_1",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"sink_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}"
+    },
+    {
+        "identifier": "323_2",
+        "llm_output": "{\n  \"FIND\": [\"toilet\", \"37\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"toilet\", \"37\"]\n}"
+    },
+    {
+        "identifier": "430_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"sink_id\"],\n  \"PUTBACK\": [\"soap\", \"soap_id\", \"sink\", \"sink_id\"]\n}\n```"
+    },
+    {
+        "identifier": "478_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"toilet\", \"37\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"toilet\", \"37\"]\n}\n```"
+    },
+    {
+        "identifier": "496_1",
+        "llm_output": "{\n  \"FIND\": [\"toilet\", \"37\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"toilet\", \"37\"]\n}"
+    },
+    {
+        "identifier": "624_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"toilet\", \"1000\"],\n  \"PUTBACK\": [\"toilet_paper\", \"1001\", \"toilet\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "188_1",
+        "llm_output": "{\n  \"TOUCH\": [\"television\", \"television_id\"],\n  \"TOUCH|PUSH\": [\"remote_control\", \"remote_control_id\", \"television\", \"television_id\"]\n}"
+    },
+    {
+        "identifier": "803_2",
+        "llm_output": "{\n  \"TOUCH|PUSH\": [\n    \"television\", \"television_id\",\n    \"remote_control\", \"remote_control_id\"\n  ]\n}"
+    },
+    {
+        "identifier": "960_2",
+        "llm_output": "{\n  \"TOUCH\": [\"television\", \"410\"],\n  \"TOUCH|PUSH\": [\"remote_control\", \"1000\", \"television\", \"410\"]\n}"
+    },
+    {
+        "identifier": "101_2",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "1068_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "153_2",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"OPEN\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "196_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "198_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"OPEN\": [\"computer\", \"417\"],\n  \"TOUCH\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "201_2",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "232_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "234_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"PUTON\": [\"powersocket\", \"412\", \"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "343_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"170\"],\n  \"SWITCHON\": [\"computer\", \"170\"]\n}\n```"
+    },
+    {
+        "identifier": "373_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\", \"switch\", \"switch_id\"]\n}"
+    },
+    {
+        "identifier": "406_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"170\"],\n  \"SWITCHON\": [\"computer\", \"170\"]\n}\n```"
+    },
+    {
+        "identifier": "409_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "419_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"PUTBACK\": [\"mouse\", \"413\", \"chair\", \"356\"]\n}"
+    },
+    {
+        "identifier": "433_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"computer_id\"],\n  \"SWITCHON\": [\"computer\", \"computer_id\"]\n}\n```"
+    },
+    {
+        "identifier": "437_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"OPEN\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "440_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"computer_id\"],\n  \"SWITCHON\": [\"computer\", \"computer_id\"]\n}"
+    },
+    {
+        "identifier": "453_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\", \"HAS_SWITCH\"]\n}\n```"
+    },
+    {
+        "identifier": "46_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"PUTIN\": [\"mouse\", \"413\", \"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "475_2",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "503_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"PUTBACK\": [\"mouse\", \"413\", \"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "670_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "719_2",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\", \"HAS_SWITCH\"]\n}"
+    },
+    {
+        "identifier": "757_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"computer_id\"],\n  \"SWITCHON\": [\"computer\", \"computer_id\"]\n}\n```"
+    },
+    {
+        "identifier": "787_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "795_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"computer_id\"],\n  \"SWITCHON\": [\"computer\", \"computer_id\"]\n}"
+    },
+    {
+        "identifier": "819_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "874_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"OPEN\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "910_1",
+        "llm_output": "{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}"
+    },
+    {
+        "identifier": "91_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"PUTIN\": [\"mouse\", \"413\", \"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "93_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "962_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"computer\", \"417\"],\n  \"SWITCHON\": [\"computer\", \"417\"]\n}\n```"
+    },
+    {
+        "identifier": "190_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"dishwasher\", \"1001\"],\n  \"PUTBACK\": [\"dishwasher\", \"1001\", \"bowl\", \"201\"],\n  \"PUTBACK\": [\"dishwasher\", \"1001\", \"plate\", \"1002\"],\n  \"PUTBACK\": [\"dishwasher\", \"1001\", \"dish_soap\", \"1003\"]\n}\n```"
+    },
+    {
+        "identifier": "201_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"dish_soap\", \"1002\", \"dishwasher\", \"1000\"],\n  \"OPEN\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "223_2",
+        "llm_output": "{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"dishwasher\", \"dishwasher_id\", \"dish_soap\", \"dish_soap_id\"]\n}"
+    },
+    {
+        "identifier": "327_2",
+        "llm_output": "{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"plate\", \"plate_id\", \"dishwasher\", \"dishwasher_id\"]\n}"
+    },
+    {
+        "identifier": "383_1",
+        "llm_output": "{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"plate\", \"plate_id\", \"dishwasher\", \"dishwasher_id\"]\n}"
+    },
+    {
+        "identifier": "417_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"OPEN\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"FIND\": [\"dishwasher\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "487_1",
+        "llm_output": "{\n  \"FIND\": [\"plate\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"1003\", \"dishwasher\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "650_2",
+        "llm_output": "{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"SWITCHON\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTIN\": [\"dishwasher\", \"dishwasher_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTON\": [\"dishwasher\", \"dishwasher_id\"],\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"]\n}"
+    },
+    {
+        "identifier": "783_1",
+        "llm_output": "{\n  \"FIND\": [\"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"plate\", \"1004\", \"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"plate\", \"1005\", \"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"plate\", \"1002\", \"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"plate\", \"1003\", \"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"plate\", \"1001\", \"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"1006\", \"dishwasher\", \"1000\"],\n  \"PUTBACK\": [\"dish_soap\", \"1007\", \"dishwasher\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "815_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"plate\", \"plate_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"OPEN\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTIN\": [\"dishwasher\", \"dishwasher_id\", \"plate\", \"plate_id\", \"dishwasher_id\"],\n  \"PUTON\": [\"dishwasher\", \"dishwasher_id\"]\n}\n```"
+    },
+    {
+        "identifier": "826_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"plate\", \"plate_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"spoon\", \"spoon_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"knife\", \"knife_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"]\n}\n```"
+    },
+    {
+        "identifier": "856_1",
+        "llm_output": "{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"dish_soap\", \"dish_soap_id\", \"dishwasher\", \"dishwasher_id\"],\n  \"OPEN\": [\"dishwasher\", \"dishwasher_id\"],\n  \"OPEN\": [\"dishwasher\", \"dishwasher_id\"]\n}"
+    },
+    {
+        "identifier": "911_1",
+        "llm_output": "{\n  \"FIND\": [\"dishwasher\", \"dishwasher_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"dishwasher\", \"dishwasher_id\"]\n}"
+    },
+    {
+        "identifier": "1027_2",
+        "llm_output": "{\n  \"FIND\": [\"bed\", \"105\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"bed\", \"67\"]\n}"
+    },
+    {
+        "identifier": "181_1",
+        "llm_output": "{\n  \"FIND\": [\"bed\", \"105\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"bed\", \"105\"]\n}"
+    },
+    {
+        "identifier": "244_2",
+        "llm_output": "{\n  \"FIND\": [\"bed\", \"105\"],\n  \"SWITCHON\": [\"bed\", \"bed_id\"],\n  \"SLEEP\": [\"bed\", \"105\"],\n  \"SLEEP\": [\"bed\", \"105\"]\n}"
+    },
+    {
+        "identifier": "269_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"bed\", \"105\"],\n  \"SLEEP\": [\"character\", \"65\"]\n}\n```"
+    },
+    {
+        "identifier": "509_2",
+        "llm_output": "{\n  \"FIND\": [\"bed\", \"bed_id\"],\n  \"PUTBACK\": [\"sheets\", \"sheets_id\", \"bed\", \"bed_id\"]\n}"
+    },
+    {
+        "identifier": "875_1",
+        "llm_output": "{\n  \"FIND\": [\"bed\", \"bed_id\"],\n  \"PUTBACK\": [\"mat\", \"mat_id\", \"bed\", \"bed_id\"]\n}"
+    },
+    {
+        "identifier": "102_1",
+        "llm_output": "{\n  \"RINSE\": [\"sink\", \"sink_id\"],\n  \"WASH\": [\"sink\", \"sink_id\"]\n}"
+    },
+    {
+        "identifier": "154_2",
+        "llm_output": "{\n  \"RINSE\": [\"soap\", \"1000\"],\n  \"WASH\": [\"soap\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "176_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"soap\", \"1000\"],\n  \"RINSE\": [\"soap\", \"1000\", \"bathroom_counter\", \"41\"],\n  \"WASH\": [\"soap\", \"1000\", \"bathroom_counter\", \"41\"]\n}\n```"
+    },
+    {
+        "identifier": "214_1",
+        "llm_output": "{\n  \"RINSE\": [\"soap\", \"soap_id\"],\n  \"WASH\": [\"soap\", \"soap_id\"]\n}"
+    },
+    {
+        "identifier": "258_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"soap\", \"1000\", \"sink\", \"231\"],\n  \"RINSE|WASH\": [\"water\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "499_1",
+        "llm_output": "{\n  \"RINSE\": [\"water\", \"1000\"],\n  \"WASH\": [\"water\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "517_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"42\"],\n  \"PUTBACK\": [\"soap\", \"1000\", \"sink\", \"42\"]\n}\n```"
+    },
+    {
+        "identifier": "549_2",
+        "llm_output": "```json\n{\n  \"RINSE\": [\"soap\", \"soap_id\"],\n  \"WASH\": [\"soap\", \"soap_id\"]\n}\n```"
+    },
+    {
+        "identifier": "562_1",
+        "llm_output": "{\n  \"FIND\": [\"water\", \"1000\"],\n  \"PUTBACK\": [\"hands_both\", \"1001\", \"water\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "580_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"42\"],\n  \"RINSE|WASH\": [\"soap\", \"1001\", \"sink\", \"42\"]\n}\n```"
+    },
+    {
+        "identifier": "657_1",
+        "llm_output": "{\n  \"RINSE\": [\"soap\", \"soap_id\"],\n  \"WASH\": [\"soap\", \"soap_id\"]\n}"
+    },
+    {
+        "identifier": "660_1",
+        "llm_output": "{\n  \"RINSE\": [\"soap\", \"soap_id\"],\n  \"WASH\": [\"soap\", \"soap_id\"]\n}"
+    },
+    {
+        "identifier": "672_1",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"sink_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}"
+    },
+    {
+        "identifier": "710_1",
+        "llm_output": "{\n  \"RINSE\": [\"water\", \"1000\"],\n  \"WASH\": [\"water\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "741_1",
+        "llm_output": "{\n  \"RINSE\": [\"soap\", \"1000\"],\n  \"WASH\": [\"soap\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "750_2",
+        "llm_output": "{\n  \"FIND\": [\"soap\", \"1000\"],\n  \"PUTBACK\": [\"soap\", \"1000\", \"sink\", \"42\"]\n}"
+    },
+    {
+        "identifier": "805_1",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"42\"],\n  \"PUTBACK\": [\"soap\", \"1000\", \"sink\", \"42\"]\n}"
+    },
+    {
+        "identifier": "80_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"42\"],\n  \"RINSE\": [\"soap\", \"1000\"],\n  \"WASH\": [\"soap\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "813_2",
+        "llm_output": "```json\n{\n  \"RINSE\": [\"water\", \"1000\"],\n  \"WASH\": [\"water\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "928_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"42\"],\n  \"RINSE\": [\"sink\", \"42\"],\n  \"WASH\": [\"sink\", \"42\"]\n}\n```"
+    },
+    {
+        "identifier": "995_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"soap\", \"1000\"],\n  \"RINSE\": [\"soap\", \"1000\", \"bathroom\"],\n  \"WASH\": [\"soap\", \"1000\", \"bathroom\"]\n}\n```"
+    },
+    {
+        "identifier": "1035_1",
+        "llm_output": "{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "113_2",
+        "llm_output": "{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "12_2",
+        "llm_output": "{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\", \"character\", \"65\"]\n}"
+    },
+    {
+        "identifier": "137_2",
+        "llm_output": "{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "203_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\", \"hair\", \"2014\"]\n}\n```"
+    },
+    {
+        "identifier": "220_2",
+        "llm_output": "{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\", \"bathroom\", \"1\"]\n}"
+    },
+    {
+        "identifier": "242_1",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "279_2",
+        "llm_output": "{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\", \"character\", \"65\"]\n}"
+    },
+    {
+        "identifier": "287_1",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "292_1",
+        "llm_output": "{\n  \"TOUCH\": [\"hair\", \"hair_id\"]\n}"
+    },
+    {
+        "identifier": "297_1",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "381_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\", \"bathroom\", \"1\"]\n}\n```"
+    },
+    {
+        "identifier": "388_2",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "38_1",
+        "llm_output": "{\n  \"TOUCH\": [\"face\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "429_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "437_1",
+        "llm_output": "{\n  \"TOUCH\": [\"hair\", \"2013\"]\n}"
+    },
+    {
+        "identifier": "451_1",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "469_2",
+        "llm_output": "```json\n{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "479_2",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "502_1",
+        "llm_output": "{\n  \"FIND\": [\"cat\", \"1000\"],\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "612_1",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "856_2",
+        "llm_output": "{\n  \"TOUCH\": [\"cat\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "384_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"keyboard\", \"415\"],\n  \"LOOKAT|WATCH\": [\"keyboard\", \"415\", \"walllamp\", \"351\"]\n}"
+    },
+    {
+        "identifier": "540_1",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"phone\", \"id: 1000\"],\n  \"LOOKAT|WATCH\": [\"phone\", \"id: 1000\"]\n}\n```"
+    },
+    {
+        "identifier": "60_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"keyboard\", \"415\"],\n  \"LOOKAT|WATCH\": [\"keyboard\", \"415\"]\n}"
+    },
+    {
+        "identifier": "71_2",
+        "llm_output": "{\n  \"LOOKAT\": [\"keyboard\", \"415\"],\n  \"LOOKAT|WATCH\": [\"keyboard\", \"415\", \"walllamp\", \"351\"]\n}"
+    },
+    {
+        "identifier": "7_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"mouse\", \"413\"],\n  \"LOOKAT|WATCH\": [\"mouse\", \"413\"]\n}"
+    },
+    {
+        "identifier": "1070_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"toothbrush\", \"1001\"],\n  \"PUTBACK\": [\"toothbrush\", \"1001\", \"toothbrush_holder\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "313_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"tooth_paste\", \"1000\"],\n  \"PUTBACK\": [\"toothbrush\", \"1001\", \"sink\", \"42\"]\n}\n```"
+    },
+    {
+        "identifier": "689_1",
+        "llm_output": "{\n  \"FIND\": [\"toothbrush\", \"1002\"],\n  \"PUTBACK\": [\"toothbrush_holder\", \"1000\", \"toothbrush\", \"1002\"]\n}"
+    },
+    {
+        "identifier": "718_1",
+        "llm_output": "{\n  \"FIND\": [\"tooth_paste\", \"1000\"],\n  \"PUTBACK\": [\"toothbrush\", \"1001\", \"tooth_paste\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "1049_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"dvd_player\", \"1000\"],\n  \"PUTBACK\": [\"dvd_player\", \"1000\", \"bathroom\", \"1\"]\n}\n```"
+    },
+    {
+        "identifier": "113_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cd_player\", \"cd_player_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"cd_player\", \"cd_player_id\"]\n}\n```"
+    },
+    {
+        "identifier": "161_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"PUTBACK\": [\"stereo\", \"1000\", \"dining_room\", \"201\"]\n}\n```"
+    },
+    {
+        "identifier": "173_1",
+        "llm_output": "{\n  \"FIND\": [\"cd_player\", \"1000\"],\n  \"PUTBACK\": [\"headset\", \"1001\", \"cd_player\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "23_1",
+        "llm_output": "{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"stereo\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "263_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"stereo\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "305_2",
+        "llm_output": "{\n  \"FIND\": [\"stereo\", \"stereo_id\"],\n  \"PUTBACK\": [\"mouse\", \"mouse_id\", \"stereo\", \"stereo_id\"]\n}"
+    },
+    {
+        "identifier": "363_2",
+        "llm_output": "{\n  \"FIND\": [\"dvd_player\", \"1001\"],\n  \"PUTBACK\": [\"chair\", \"356\", \"bedroom\", \"67\"]\n}"
+    },
+    {
+        "identifier": "385_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cd_player\", \"1000\"],\n  \"PUTBACK\": [\"cd_player\", \"1000\", \"cd_player\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "403_1",
+        "llm_output": "{\n  \"FIND\": [\"hair\", \"2004\"],\n  \"PUTBACK\": [\"hair\", \"2004\", \"stereo\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "415_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"headset\", \"1000\"],\n  \"PUTBACK\": [\"phone\", \"247\", \"headset\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "462_2",
+        "llm_output": "{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"PUTBACK\": [\"chair\", \"103\", \"bedroom\", \"67\"]\n}"
+    },
+    {
+        "identifier": "463_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"PUTBACK\": [\"stereo\", \"1000\", \"bedroom\", \"67\"]\n}\n```"
+    },
+    {
+        "identifier": "503_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cd_player\", \"cd_player_id\"],\n  \"PUTBACK\": [\"chair\", \"chair_id\", \"cd_player\", \"cd_player_id\"]\n}\n```"
+    },
+    {
+        "identifier": "59_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"headset\", \"1001\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"dining_room\", \"201\"]\n}\n```"
+    },
+    {
+        "identifier": "737_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"OPEN\": [\"stereo\", \"1000\"],\n  \"CLOSE\": [\"stereo\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "773_1",
+        "llm_output": "{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"PUTBACK\": [\"stereo\", \"1000\", \"sink\", \"sink_id\"]\n}"
+    },
+    {
+        "identifier": "910_2",
+        "llm_output": "{\n  \"FIND\": [\"stereo\", \"1000\"],\n  \"PUTBACK\": [\"stereo\", \"1000\", \"bedroom\", \"67\"]\n}"
+    },
+    {
+        "identifier": "953_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cd_player\", \"cd_player_id\"],\n  \"PUTBACK\": [\"cd_player\", \"cd_player_id\", \"bathroom\", \"bathroom_id\"]\n}\n```"
+    },
+    {
+        "identifier": "1057_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"television\", \"television_id\"]\n}"
+    },
+    {
+        "identifier": "117_1",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}\n```"
+    },
+    {
+        "identifier": "134_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}"
+    },
+    {
+        "identifier": "170_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}"
+    },
+    {
+        "identifier": "197_2",
+        "llm_output": "{\n  \"LOOKAT|WATCH\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"remote_control\", \"1000\"],\n  \"LOOKAT|WATCH\": [\"chair\", \"356\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"remote_control\", \"1000\"],\n  \"LOOKAT|WATCH\": [\"chair\", \"356\"]\n}"
+    },
+    {
+        "identifier": "21_2",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}"
+    },
+    {
+        "identifier": "225_2",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}"
+    },
+    {
+        "identifier": "259_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"television\", \"television_id\"]\n}"
+    },
+    {
+        "identifier": "307_2",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}\n```"
+    },
+    {
+        "identifier": "329_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}"
+    },
+    {
+        "identifier": "342_2",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"character\", \"65\"]\n}"
+    },
+    {
+        "identifier": "377_2",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}\n```"
+    },
+    {
+        "identifier": "383_2",
+        "llm_output": "```json\n{\n  \"LOOKAT|WATCH\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"character\", \"character_id\"]\n}\n```"
+    },
+    {
+        "identifier": "411_1",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"television\", \"television_id\"]\n}"
+    },
+    {
+        "identifier": "454_2",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"character\", \"character_id\", \"television\", \"television_id\"]\n}"
+    },
+    {
+        "identifier": "459_1",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}\n```"
+    },
+    {
+        "identifier": "548_2",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"television\", \"television_id\"]\n}\n```"
+    },
+    {
+        "identifier": "595_1",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"television\", \"television_id\"]\n}\n```"
+    },
+    {
+        "identifier": "684_2",
+        "llm_output": "{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}"
+    },
+    {
+        "identifier": "74_1",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"television\", \"410\"]\n}\n```"
+    },
+    {
+        "identifier": "806_1",
+        "llm_output": "```json\n{\n  \"LOOKAT\": [\"television\", \"television_id\"],\n  \"LOOKAT|WATCH\": [\"television\", \"television_id\"]\n}\n```"
+    },
+    {
+        "identifier": "98_1",
+        "llm_output": "{\n  \"LOOKAT|WATCH\": [\"television\", \"410\"],\n  \"LOOKAT|WATCH\": [\"remote_control\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "1064_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"water_glass\", \"1000\"],\n  \"DRINK\": [\"water_glass\", \"1000\"],\n  \"DRINK\": [\"water_glass\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "156_1",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"sink_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}"
+    },
+    {
+        "identifier": "171_2",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"cup\", \"1000\", \"sink\", \"231\"]\n}"
+    },
+    {
+        "identifier": "175_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"cup\", \"1000\", \"sink\", \"231\"]\n}\n```"
+    },
+    {
+        "identifier": "181_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"water_glass\", \"1000\"],\n  \"DRINK\": [\"water_glass\", \"1000\", \"water\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "26_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"1000\", \"faucet\", \"232\"],\n  \"DRINK\": [\"cup\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "286_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"water_glass\", \"1000\"],\n  \"DRINK\": [\"water_glass\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "291_1",
+        "llm_output": "```json\n{\n  \"DRINK\": [\"water_glass\", \"water_glass_id\"],\n  \"DRINK\": [\"water_glass\", \"water_glass_id\"]\n}\n```"
+    },
+    {
+        "identifier": "317_2",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"cup\", \"1001\", \"sink\", \"231\"]\n}"
+    },
+    {
+        "identifier": "488_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cup\", \"1000\"],\n  \"DRINK\": [\"cup\", \"1000\", \"sink\", \"231\"]\n}\n```"
+    },
+    {
+        "identifier": "510_1",
+        "llm_output": "{\n  \"DRINK\": [\"drinking_glass\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "528_1",
+        "llm_output": "{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"DRINK\": [\"drinking_glass\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "532_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"231\"],\n  \"DRINK\": [\"drinking_glass\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "589_1",
+        "llm_output": "{\n  \"FIND\": [\"cup\", \"1000\"],\n  \"DRINK\": [\"cup\", \"1000\", \"water\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "600_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"freezer\", \"289\"],\n  \"DRINK\": [\"water_glass\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "662_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"water_glass\", \"1000\"],\n  \"DRINK\": [\"water_glass\", \"water\"],\n  \"PUTBACK\": [\"water_glass\", \"1000\", \"water\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "688_1",
+        "llm_output": "{\n  \"FIND\": [\"water_glass\", \"1000\"],\n  \"DRINK\": [\"water_glass\", \"1000\", \"water\"],\n  \"DRINK\": [\"water_glass\", \"1000\", \"water\"]\n}"
+    },
+    {
+        "identifier": "787_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"231\"],\n  \"DRINK\": [\"water_glass\", \"1000\", \"water\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "788_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"231\"],\n  \"DRINK\": [\"drinking_glass\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "814_1",
+        "llm_output": "{\n  \"FIND\": [\"water\", \"water_id\"],\n  \"DRINK\": [\"water\", \"water_id\", \"cupboard\", \"cupboard_id\"]\n}"
+    },
+    {
+        "identifier": "850_2",
+        "llm_output": "{\n  \"DRINK\": [\"water_glass\", \"water_glass_id\"],\n  \"DRINK\": [\"water_glass\", \"water_glass_id\"]\n}"
+    },
+    {
+        "identifier": "861_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"cup\", \"1000\"],\n  \"DRINK\": [\"cup\", \"1000\", \"sink\", \"231\"]\n}\n```"
+    },
+    {
+        "identifier": "878_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"water_glass\", \"1000\"],\n  \"DRINK\": [\"water\", \"1001\", \"cupboard\", \"229\"]\n}\n```"
+    },
+    {
+        "identifier": "1073_1",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}\n```"
+    },
+    {
+        "identifier": "1088_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"1000\"],\n  \"LOOKAT\": [\"novel\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "15_2",
+        "llm_output": "```json\n{\n  \"READ\": [\"address_book\", \"1000\"],\n  \"LOOKAT\": [\"address_book\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "163_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"chair\", \"chair_id\"]\n}"
+    },
+    {
+        "identifier": "16_2",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}"
+    },
+    {
+        "identifier": "192_1",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"1000\"],\n  \"LOOKAT\": [\"novel\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "208_2",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"hair\", \"hair_id\"]\n}\n```"
+    },
+    {
+        "identifier": "221_2",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"1001\"],\n  \"LOOKAT\": [\"novel\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "241_2",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"1000\"],\n  \"LOOKAT\": [\"novel\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "341_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}"
+    },
+    {
+        "identifier": "484_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"chair\", \"chair_id\"]\n}"
+    },
+    {
+        "identifier": "504_2",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"1000\"],\n  \"LOOKAT\": [\"novel\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "508_2",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"1000\"],\n  \"LOOKAT\": [\"novel\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "544_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"1000\"],\n  \"LOOKAT\": [\"novel\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "57_1",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}\n```"
+    },
+    {
+        "identifier": "617_2",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}"
+    },
+    {
+        "identifier": "628_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}"
+    },
+    {
+        "identifier": "688_2",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}"
+    },
+    {
+        "identifier": "693_2",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"chair\", \"chair_id\"]\n}"
+    },
+    {
+        "identifier": "821_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"chair\", \"chair_id\"]\n}"
+    },
+    {
+        "identifier": "86_1",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}"
+    },
+    {
+        "identifier": "896_2",
+        "llm_output": "{\n  \"READ\": [\"novel\", \"1000\"],\n  \"LOOKAT\": [\"novel\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "897_2",
+        "llm_output": "```json\n{\n  \"READ\": [\"novel\", \"novel_id\"],\n  \"LOOKAT\": [\"novel\", \"novel_id\"]\n}\n```"
+    },
+    {
+        "identifier": "1083_2",
+        "llm_output": "{\n  \"FIND\": [\"oven\", \"295\"],\n  \"OPEN\": [\"oven\", \"295\"],\n  \"PUTIN\": [\"pot\", \"1000\", \"oven\", \"295\"]\n}"
+    },
+    {
+        "identifier": "392_2",
+        "llm_output": "{\n  \"FIND\": [\"oven\", \"oven_id\"],\n  \"PUTBACK\": [\"pot\", \"pot_id\", \"oven\", \"oven_id\"]\n}"
+    },
+    {
+        "identifier": "755_2",
+        "llm_output": "{\n  \"FIND\": [\"oven\", \"295\"],\n  \"OPEN\": [\"oven\", \"295\"],\n  \"PUTON\": [\"sauce_pan\", \"1003\", \"oven\", \"295\"],\n  \"PUTIN\": [\"pasta\", \"1001\", \"oven\", \"295\"],\n  \"TOUCH\": [\"oven\", \"295\"]\n}"
+    },
+    {
+        "identifier": "124_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"hair\", \"2006\", \"couch\", \"352\"],\n  \"SWITCHON\": [\"television\", \"410\"]\n}\n```"
+    },
+    {
+        "identifier": "137_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}\n```"
+    },
+    {
+        "identifier": "204_2",
+        "llm_output": "{\n  \"FIND\": [\"character\", \"65\"],\n  \"PUTBACK\": [\"coffee\", \"1000\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "268_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}\n```"
+    },
+    {
+        "identifier": "297_2",
+        "llm_output": "{\n  \"FIND\": [\"character\", \"65\"],\n  \"PUTBACK\": [\"pillow\", \"405\", \"character\", \"65\"]\n}"
+    },
+    {
+        "identifier": "299_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "300_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "321_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"water_glass\", \"1000\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "332_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}\n```"
+    },
+    {
+        "identifier": "379_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "387_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"id: 352\"],\n  \"PUTBACK\": [\"cup\", \"id: 410\", \"couch\", \"id: 352\"]\n}\n```"
+    },
+    {
+        "identifier": "390_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "3_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}\n```"
+    },
+    {
+        "identifier": "416_1",
+        "llm_output": "{\n  \"FIND\": [\"character\", \"character_id\"],\n  \"PUTBACK\": [\"couch\", \"couch_id\", \"character\", \"character_id\"]\n}"
+    },
+    {
+        "identifier": "438_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "442_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "447_2",
+        "llm_output": "{\n  \"FIND\": [\"novel\", \"novel_id\"],\n  \"PUTBACK\": [\"couch\", \"couch_id\", \"novel\", \"novel_id\"]\n}"
+    },
+    {
+        "identifier": "449_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"remote_control\", \"1000\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "455_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"202\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "456_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"1\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "473_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"sheets\", \"1000\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "490_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "563_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"character\"],\n  \"PUTBACK\": [\"couch\", \"id: 352\"]\n}\n```"
+    },
+    {
+        "identifier": "567_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "570_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"1\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "674_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}\n```"
+    },
+    {
+        "identifier": "6_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "742_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "762_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "793_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"id: 352\"],\n  \"PUTBACK\": [\"cup\", \"id: 410\", \"couch\", \"id: 352\"]\n}\n```"
+    },
+    {
+        "identifier": "798_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"id: 352\"],\n  \"PUTBACK\": [\"cup\", \"id: 1\", \"couch\", \"id: 352\"]\n}"
+    },
+    {
+        "identifier": "932_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "941_2",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"410\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "96_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"id: 352\"],\n  \"PUTBACK\": [\"cup\", \"id: 410\", \"couch\", \"id: 352\"]\n}"
+    },
+    {
+        "identifier": "976_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}\n```"
+    },
+    {
+        "identifier": "149_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"food_food\", \"2003\", \"couch\", \"352\"]\n}\n```"
+    },
+    {
+        "identifier": "154_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"phone\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "180_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"hair\", \"2005\"],\n  \"PUTBACK\": [\"hair\", \"2005\", \"trashcan\", \"99\"]\n}\n```"
+    },
+    {
+        "identifier": "195_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"dining_room\", \"201\"]\n}"
+    },
+    {
+        "identifier": "211_1",
+        "llm_output": "{\n  \"FIND\": [\"drawing\", \"drawing_238\"],\n  \"PUTBACK\": [\"trashcan\", \"trashcan_99\", \"trashcan_99\"]\n}"
+    },
+    {
+        "identifier": "241_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"drawing\", \"drawing_id\"],\n  \"PUTBACK\": [\"trashcan\", \"trashcan_id\", \"character\", \"character_id\"]\n}\n```"
+    },
+    {
+        "identifier": "264_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"character\", \"65\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"desk\", \"357\"]\n}\n```"
+    },
+    {
+        "identifier": "265_2",
+        "llm_output": "{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"bathroom\", \"1\"]\n}"
+    },
+    {
+        "identifier": "287_2",
+        "llm_output": "{\n  \"FIND\": [\"drawing\", \"drawing_id\"],\n  \"PUTBACK\": [\"trashcan\", \"trashcan_id\", \"character\", \"character_id\"]\n}"
+    },
+    {
+        "identifier": "352_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"character\", \"65\"],\n  \"PUTBACK\": [\"table\", \"226\", \"character\", \"65\"]\n}\n```"
+    },
+    {
+        "identifier": "360_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"phone\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "388_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"phone\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "431_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"bedroom\", \"67\"]\n}\n```"
+    },
+    {
+        "identifier": "436_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"bathroom\", \"1\"]\n}\n```"
+    },
+    {
+        "identifier": "442_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"drawing\", \"drawing_id\"],\n  \"PUTBACK\": [\"trashcan\", \"trashcan_id\", \"character\", \"character_id\"]\n}\n```"
+    },
+    {
+        "identifier": "474_2",
+        "llm_output": "{\n  \"FIND\": [\"drawing\", \"drawing_id\"],\n  \"PUTBACK\": [\"trashcan\", \"trashcan_id\", \"character\", \"character_id\"]\n}"
+    },
+    {
+        "identifier": "482_2",
+        "llm_output": "{\n  \"FIND\": [\"character\", \"65\"],\n  \"PUTBACK\": [\"trashcan\", \"99\", \"character\", \"65\"]\n}"
+    },
+    {
+        "identifier": "497_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"hair\", \"2005\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"dining_room\", \"201\"]\n}\n```"
+    },
+    {
+        "identifier": "553_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"phone\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "601_2",
+        "llm_output": "{\n  \"FIND\": [\"character\", \"65\"],\n  \"PUTBACK\": [\"trashcan\", \"99\", \"phone\", \"247\"]\n}"
+    },
+    {
+        "identifier": "70_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"desk\", \"357\"]\n}\n```"
+    },
+    {
+        "identifier": "864_2",
+        "llm_output": "{\n  \"FIND\": [\"hair\", \"2004\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"bathroom\", \"1\"]\n}"
+    },
+    {
+        "identifier": "963_2",
+        "llm_output": "{\n  \"FIND\": [\"phone\", \"id: 1000\"],\n  \"PUTBACK\": [\"phone\", \"id: 1000\", \"bedroom\", \"id: 67\"]\n}"
+    },
+    {
+        "identifier": "974_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"phone\", \"id: 1000\"],\n  \"PUTBACK\": [\"cup\", \"id: 101\", \"phone\", \"id: 1000\"]\n}\n```"
+    },
+    {
+        "identifier": "976_2",
+        "llm_output": "{\n  \"FIND\": [\"character\", \"65\"],\n  \"PUTBACK\": [\"phone\", \"1000\", \"desk\", \"357\"]\n}"
+    },
+    {
+        "identifier": "99_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"table\", \"226\"],\n  \"PUTBACK\": [\"trashcan\", \"99\", \"table\", \"226\"]\n}\n```"
+    },
+    {
+        "identifier": "183_2",
+        "llm_output": "{\n  \"POUR\": [\"ground_coffee\", \"1001\", \"coffee_filter\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "229_1",
+        "llm_output": "{\n  \"POUR\": [\"ground_coffee\", \"1001\", \"coffe_maker\", \"290\"]\n}"
+    },
+    {
+        "identifier": "310_2",
+        "llm_output": "{\n  \"FIND\": [\"coffe_maker\", \"290\"],\n  \"POUR\": [\"water\", \"1002\", \"ground_coffee\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "721_2",
+        "llm_output": "{\n  \"FIND\": [\"coffe_maker\", \"290\"],\n  \"POUR\": [\"coffee_filter\", \"1001\", \"coffe_maker\", \"290\"]\n}"
+    },
+    {
+        "identifier": "764_2",
+        "llm_output": "```json\n{\n  \"POUR\": [\"ground_coffee\", \"1001\", \"coffe_maker\", \"290\"]\n}\n```"
+    },
+    {
+        "identifier": "419_2",
+        "llm_output": "{\n  \"FIND\": [\"chair\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"1005\", \"table\", \"226\"]\n}"
+    },
+    {
+        "identifier": "446_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"plate\", \"1000\"],\n  \"PUTBACK\": [\"cupboard\", \"229\", \"plate\", \"1000\"]\n}\n```"
+    },
+    {
+        "identifier": "710_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"plate\", \"1001\"],\n  \"PUTBACK\": [\"plate\", \"1001\", \"table\", \"226\"]\n}\n```"
+    },
+    {
+        "identifier": "84_1",
+        "llm_output": "{\n  \"FIND\": [\"couch\", \"352\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"couch\", \"352\"]\n}"
+    },
+    {
+        "identifier": "93_1",
+        "llm_output": "{\n  \"FIND\": [\"hair\", \"2000\"],\n  \"PUTBACK\": [\"hair\", \"2000\", \"bedroom\", \"67\"]\n}"
+    },
+    {
+        "identifier": "368_1",
+        "llm_output": "{\n  \"FIND\": [\"cloth_napkin\", \"1000\"],\n  \"PUTBACK\": [\"cloth_napkin\", \"1000\", \"cloth_napkin\", \"1000\"]\n}"
+    },
+    {
+        "identifier": "729_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"sink_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}\n```"
+    },
+    {
+        "identifier": "975_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"bedroom\", \"bedroom_id\"],\n  \"PUTBACK\": [\"shower\", \"shower_id\", \"bedroom\", \"bedroom_id\"]\n}\n```"
+    },
+    {
+        "identifier": "231_2",
+        "llm_output": "{\n  \"FIND\": [\"dish_soap\", \"1001\"],\n  \"PUTBACK\": [\"plate\", \"1000\", \"water\", \"1002\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"dish_soap\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "31_1",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"dish_soap\", \"1000\", \"sink\", \"231\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"dish_soap\", \"1000\", \"WASH\", \"RINSE\", \"SCRUB\", \"WIPE\"]\n}"
+    },
+    {
+        "identifier": "349_1",
+        "llm_output": "{\n  \"FIND\": [\"dish_soap\", \"1000\"],\n  \"PUTBACK\": [\"dish_soap\", \"1000\", \"faucet\", \"232\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"dish_soap\", \"1000\", \"faucet\", \"232\"]\n}"
+    },
+    {
+        "identifier": "397_1",
+        "llm_output": "{\n  \"FIND\": [\"dish_soap\", \"dish_soap_id\"],\n  \"GRAB\": [\"dish_soap\", \"dish_soap_id\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"dish_soap\", \"dish_soap_id\"]\n}"
+    },
+    {
+        "identifier": "429_2",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"dish_soap\", \"1001\", \"sink\", \"231\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"dish_soap\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "553_2",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"cupboard\", \"229\", \"sink\", \"231\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"soap\", \"1001\", \"water\", \"1002\"]\n}"
+    },
+    {
+        "identifier": "594_2",
+        "llm_output": "{\n  \"FIND\": [\"dish_soap\", \"1000\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"cup\", \"cup_id\", \"sink\", \"sink_id\"]\n}"
+    },
+    {
+        "identifier": "746_1",
+        "llm_output": "```json\n{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"dish_soap\", \"1000\", \"sink\", \"231\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"sponge\", \"1002\", \"water\", \"1001\"]\n}\n```"
+    },
+    {
+        "identifier": "961_1",
+        "llm_output": "{\n  \"FIND\": [\"sink\", \"231\"],\n  \"PUTBACK\": [\"dish_soap\", \"1001\", \"sink\", \"231\"],\n  \"WASH|RINSE|SCRUB|WIPE\": [\"dish_soap\", \"1001\"]\n}"
+    },
+    {
+        "identifier": "988_1",
+        "llm_output": "{\n  \"FIND\": [\"bowl\", \"bowl_id\"],\n  \"PUTBACK\": [\"cup\", \"cup_id\", \"bowl\", \"bowl_id\"],\n  \"WASH\": [\"cup\", \"cup_id\", \"cupboard\", \"cupboard_id\"],\n  \"RINSE\": [\"cup\", \"cup_id\", \"cupboard\", \"cupboard_id\"],\n  \"SCRUB\": [\"cup\", \"cup_id\", \"cupboard\", \"cupboard_id\"],\n  \"WIPE\": [\"cup\", \"cup_id\", \"cupboard\", \"cupboard_id\"]\n}"
+    }
+]

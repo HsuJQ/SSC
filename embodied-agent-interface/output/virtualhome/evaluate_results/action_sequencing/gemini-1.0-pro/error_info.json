@@ -1,0 +1,7656 @@
+{
+    "11_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "floor_lamp"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "120_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "125_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "150_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "160_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "180_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "205_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "222_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "232_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "310_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "311_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "floor_lamp"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "331_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "339_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "home_office"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "345_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "392_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "394_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "432_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "floor_lamp"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "443_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "floor_lamp"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "445_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "home_office"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "511_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "585_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "604_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "616_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "627_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "705_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "floor_lamp"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "708_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "715_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "737_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "780_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "812_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "835_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "floor_lamp"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "85_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "874_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "light"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "light"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1003_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "GRAB": [
+                    "mouse"
+                ]
+            },
+            {
+                "WALK": [
+                    "desk"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "mouse",
+                    "desk"
+                ]
+            },
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "GRAB": [
+                    "keyboard"
+                ]
+            },
+            {
+                "WALK": [
+                    "desk"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "keyboard",
+                    "desk"
+                ]
+            },
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "WALK": [
+                    "keyboard"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "115_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "407_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "430_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "481_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "computer"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "622_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "699_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "824_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "87_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "laptop"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "laptop"
+                ]
+            },
+            {
+                "TYPE": [
+                    "laptop"
+                ]
+            },
+            {
+                "TYPE": [
+                    "laptop"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "986_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "TYPE": [
+                    "keyboard"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "996_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "computer"
+                ]
+            },
+            {
+                "TYPE": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1004_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "food_food",
+                    "freezer"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "152_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "WALK": [
+                    "food_food"
+                ]
+            },
+            {
+                "GRAB": [
+                    "food_food"
+                ]
+            },
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "food_food",
+                    "freezer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "freezer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "298_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "food_food",
+                    "freezer"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "609_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "freezer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "703_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "food_food",
+                    "freezer"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "772_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "freezer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "837_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "food_cheese",
+                    "freezer"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "323_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "toilet"
+                ]
+            },
+            {
+                "SIT": [
+                    "toilet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "430_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "toilet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "478_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "toilet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "624_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "toilet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "101_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1068_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "153_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "196_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "198_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "201_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "232_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "234_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "343_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "373_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "406_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "409_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "419_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "433_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "437_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "440_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "453_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "46_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "475_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "503_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "670_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "719_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "757_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "787_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "795_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "819_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "874_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "910_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "91_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "93_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "962_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "computer"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "computer"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1027_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bed"
+                ]
+            },
+            {
+                "LIE": [
+                    "bed"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "181_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bed"
+                ]
+            },
+            {
+                "LIE": [
+                    "bed"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "244_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bed"
+                ]
+            },
+            {
+                "LIE": [
+                    "bed"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "269_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bed"
+                ]
+            },
+            {
+                "LIE": [
+                    "bed"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "509_2": {
+        "executable": false,
+        "actions": [
+            {
+                "PUTON": [
+                    "clothes_pants"
+                ]
+            },
+            {
+                "PUTON": [
+                    "clothes_shirt"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "WALK": [
+                    "bed"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "875_1": {
+        "executable": false,
+        "actions": [
+            {
+                "LIE": [
+                    "bed"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "102_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "RINSE": [
+                    "faucet"
+                ]
+            },
+            {
+                "WASH": [
+                    "hands_both"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "154_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap",
+                    "sink"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "176_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "soap",
+                    "bathroom_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "214_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "FIND": [
+                    "soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "soap",
+                    "bathroom_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "258_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "OPEN": [
+                    "faucet"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "faucet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "499_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap",
+                    "sink"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "soap",
+                    "bathroom_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "517_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap",
+                    "sink"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "soap",
+                    "sink"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "549_2": {
+        "executable": false,
+        "actions": [
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "WASH": [
+                    "soap"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "562_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "hands_both"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "580_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "soap",
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "GRAB": [
+                    "towel"
+                ]
+            },
+            {
+                "WASH": [
+                    "towel"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "towel",
+                    "bathroom_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "657_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "RINSE": [
+                    "hands_both",
+                    "faucet"
+                ]
+            },
+            {
+                "WASH": [
+                    "hands_both",
+                    "soap",
+                    "faucet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "660_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "FIND": [
+                    "soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "soap",
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "OPEN": [
+                    "faucet"
+                ]
+            },
+            {
+                "RINSE": [
+                    "hands_both"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "faucet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "672_1": {
+        "executable": false,
+        "actions": [
+            {
+                "RINSE": [
+                    "faucet"
+                ]
+            },
+            {
+                "WASH": [
+                    "soap"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "710_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "NEAR": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "soap",
+                    "bathroom_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "741_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "750_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "water"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "805_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "FIND": [
+                    "soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "soap",
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "FIND": [
+                    "towel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "towel"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "WASH": [
+                    "towel"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "towel",
+                    "bathroom_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "80_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "FIND": [
+                    "soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "soap",
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "RINSE": [
+                    "hands_both"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "faucet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "813_2": {
+        "executable": false,
+        "actions": [
+            {
+                "RINSE": [
+                    "hands_both"
+                ]
+            },
+            {
+                "WASH": [
+                    "hands_both"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "928_2": {
+        "executable": false,
+        "actions": [
+            {
+                "RINSE": [
+                    "hands_both",
+                    "sink"
+                ]
+            }
+        ],
+        "error_type": "hallucination error",
+        "error_action": null
+    },
+    "995_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "FIND": [
+                    "soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "faucet"
+                ]
+            },
+            {
+                "RINSE": [
+                    "soap"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "DROP": [
+                    "soap"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1035_1": {
+        "executable": false,
+        "actions": [
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "113_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "12_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "137_2": {
+        "executable": false,
+        "actions": [
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "203_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "220_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "242_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "279_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "287_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "292_1": {
+        "executable": false,
+        "actions": [
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "297_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "381_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "388_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "38_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "429_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "437_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "WALK": [
+                    "character"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "character"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "451_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "469_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "479_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "502_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "612_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "856_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            },
+            {
+                "TOUCH": [
+                    "cat"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "60_1": {
+        "executable": false,
+        "actions": [
+            {
+                "LOOKAT": [
+                    "laptop"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "laptop"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1070_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "toothbrush"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "OPEN": [
+                    "toothbrush_holder"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "toothbrush",
+                    "toothbrush_holder"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "313_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "toothbrush"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "toothbrush",
+                    "tooth_paste"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "689_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "toothbrush"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "OPEN": [
+                    "toothbrush_holder"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "toothbrush",
+                    "toothbrush_holder"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "toothbrush_holder"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "718_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "toothbrush"
+                ]
+            },
+            {
+                "GRAB": [
+                    "toothbrush"
+                ]
+            },
+            {
+                "WALK": [
+                    "tooth_paste"
+                ]
+            },
+            {
+                "OPEN": [
+                    "tooth_paste"
+                ]
+            },
+            {
+                "POUR": [
+                    "tooth_paste",
+                    "toothbrush"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "tooth_paste"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1049_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "dvd_player"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "dvd_player"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "dvd_player"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "dvd_player"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "113_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cd_player"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "cd_player"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cd_player"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "161_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "173_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cd_player"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "cd_player"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "cd_player"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "23_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "263_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "305_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "363_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "dvd_player"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "dvd_player"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "dvd_player"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "dvd_player"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "385_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cd_player"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "cd_player"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cd_player"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "403_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "415_1": {
+        "executable": false,
+        "actions": [],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "462_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "463_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "503_2": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "cd_player"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cd_player"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "59_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "phone"
+                ]
+            },
+            {
+                "PUTON": [
+                    "headset"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "737_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "773_1": {
+        "executable": false,
+        "actions": [
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            },
+            {
+                "PLUGOUT": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "910_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "stereo"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "stereo"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "stereo"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "953_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cd_player"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "cd_player"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cd_player"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1057_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "117_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "134_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "170_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "197_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "WALK": [
+                    "remote_control"
+                ]
+            },
+            {
+                "GRAB": [
+                    "remote_control"
+                ]
+            },
+            {
+                "WALK": [
+                    "electrical_outlet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "electrical_outlet"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "21_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "225_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "259_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "307_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "329_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "342_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "377_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "383_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "WALK": [
+                    "home_office"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "411_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "454_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "459_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "548_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "WALK": [
+                    "remote_control"
+                ]
+            },
+            {
+                "GRAB": [
+                    "remote_control"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "remote_control"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "595_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "684_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "WALK": [
+                    "remote_control"
+                ]
+            },
+            {
+                "GRAB": [
+                    "remote_control"
+                ]
+            },
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "POINTAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "74_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "806_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "98_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "television"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "television"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "television"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1064_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "156_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cup"
+                ]
+            },
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "POUR": [
+                    "cup",
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "cup",
+                    "sink"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "home_office"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "171_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cupboard"
+                ]
+            },
+            {
+                "OPEN": [
+                    "cupboard"
+                ]
+            },
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "cup",
+                    "cupboard"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cupboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "175_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "POUR": [
+                    "cup",
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "home_office"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "181_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "water",
+                    "water_glass"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "26_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "faucet"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "286_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "water_glass"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "291_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "water"
+                ]
+            },
+            {
+                "POUR": [
+                    "water_glass",
+                    "water"
+                ]
+            },
+            {
+                "WALK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "water"
+                ]
+            },
+            {
+                "POUR": [
+                    "water_glass",
+                    "water"
+                ]
+            },
+            {
+                "WALK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "317_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "cup",
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "kitchen_cabinet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "488_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "510_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "water"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water"
+                ]
+            },
+            {
+                "WALK": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "drinking_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "water"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water"
+                ]
+            },
+            {
+                "WALK": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "drinking_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "528_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "GRAB": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            },
+            {
+                "WALK": [
+                    "home_office"
+                ]
+            },
+            {
+                "DRINK": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "drinking_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "532_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "POUR": [
+                    "drinking_glass",
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "drinking_glass",
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "POUR": [
+                    "drinking_glass",
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "drinking_glass",
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "kitchen_cabinet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "589_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "OPEN": [
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cup"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "cup",
+                    "bedroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "600_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "freezer"
+                ]
+            },
+            {
+                "OPEN": [
+                    "freezer"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "freezer"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "662_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "787_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "POUR": [
+                    "water",
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen_counter"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "water_glass",
+                    "kitchen_counter"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "788_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "kitchen"
+                ]
+            },
+            {
+                "OPEN": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "TURNTO": [
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "faucet"
+                ]
+            },
+            {
+                "DROP": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "drinking_glass",
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "GRAB": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "TURNTO": [
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "faucet"
+                ]
+            },
+            {
+                "DROP": [
+                    "faucet"
+                ]
+            },
+            {
+                "DRINK": [
+                    "drinking_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "drinking_glass",
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "kitchen_cabinet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "814_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cupboard"
+                ]
+            },
+            {
+                "OPEN": [
+                    "cupboard"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "cupboard"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "water_glass",
+                    "cupboard"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cupboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "850_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "WALK": [
+                    "home_office"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "861_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "kitchen_counter"
+                ]
+            },
+            {
+                "GRAB": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "cup"
+                ]
+            },
+            {
+                "POUR": [
+                    "faucet",
+                    "cup"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            },
+            {
+                "DRINK": [
+                    "cup"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "878_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "cupboard"
+                ]
+            },
+            {
+                "OPEN": [
+                    "cupboard"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "DRINK": [
+                    "water_glass"
+                ]
+            },
+            {
+                "WALK": [
+                    "cupboard"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "water_glass",
+                    "cupboard"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "cupboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1073_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1088_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "WALK": [
+                    "filing_cabinet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "filing_cabinet"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "novel",
+                    "filing_cabinet"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "15_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "address_book"
+                ]
+            },
+            {
+                "GRAB": [
+                    "address_book"
+                ]
+            },
+            {
+                "READ": [
+                    "address_book"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "163_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "16_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "192_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "208_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "221_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "241_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "FIND": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "484_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "504_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            },
+            {
+                "LOOKAT": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "508_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "544_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "57_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "617_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "nightstand"
+                ]
+            },
+            {
+                "OPEN": [
+                    "nightstand"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "628_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "688_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "693_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "821_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "WALK": [
+                    "chair"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "86_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "896_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "897_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "novel"
+                ]
+            },
+            {
+                "GRAB": [
+                    "novel"
+                ]
+            },
+            {
+                "READ": [
+                    "novel"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "1083_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "oven"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "oven"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "pot",
+                    "oven"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "oven"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "oven"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "392_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "oven"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "oven"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "oven"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "pot",
+                    "oven"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "755_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "sauce_pan"
+                ]
+            },
+            {
+                "WALK": [
+                    "oven"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "sauce_pan",
+                    "oven"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "oven"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "oven"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "oven"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "124_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "137_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "204_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "268_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "297_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "299_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "300_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "321_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "332_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "379_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "387_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "390_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "3_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "416_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "438_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "442_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "447_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "449_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "455_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SIT": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "456_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "473_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "490_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "563_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "567_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "570_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SIT": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "674_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "6_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "742_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "762_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "793_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "798_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "932_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "941_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "96_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "976_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "couch"
+                ]
+            },
+            {
+                "LIE": [
+                    "couch"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "149_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "pocket"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "154_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "button"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "button"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "180_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "phone"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "trashcan"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "195_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "table"
+                ]
+            },
+            {
+                "PUTON": [
+                    "table"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "211_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "241_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "264_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "desk"
+                ]
+            },
+            {
+                "PUTON": [
+                    "desk"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "265_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "phone"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "button"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "287_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "352_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "360_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "388_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "431_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "phone"
+                ]
+            },
+            {
+                "PLUGIN": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "436_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "PLUGOUT": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "442_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "474_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "482_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "497_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "553_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "PLUGOUT": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "bedroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "601_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "trashcan"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "trashcan"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "70_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "pocket"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "864_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "phone"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "pocket"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "963_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "phone"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "bedroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "974_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "PLUGOUT": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "bedroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "976_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "phone"
+                ]
+            },
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "bedroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "99_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "phone"
+                ]
+            },
+            {
+                "WALK": [
+                    "trashcan"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "phone",
+                    "trashcan"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "710_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "kitchen_cabinet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "table"
+                ]
+            },
+            {
+                "PUTON": [
+                    "plate",
+                    "table"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "84_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "93_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bedroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "368_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "729_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "shower"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "975_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "shower"
+                ]
+            },
+            {
+                "CLOSE": [
+                    "shower"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "231_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "plate"
+                ]
+            },
+            {
+                "GRAB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "water"
+                ]
+            },
+            {
+                "GRAB": [
+                    "water"
+                ]
+            },
+            {
+                "WALK": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "plate"
+                ]
+            },
+            {
+                "WASH": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "plate"
+                ]
+            },
+            {
+                "RINSE": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "plate"
+                ]
+            },
+            {
+                "SCRUB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "plate"
+                ]
+            },
+            {
+                "WIPE": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "dish_soap",
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "water"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "water",
+                    "plate"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "31_1": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "sponge"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WASH": [
+                    "plate"
+                ]
+            },
+            {
+                "RINSE": [
+                    "plate"
+                ]
+            },
+            {
+                "SCRUB": [
+                    "plate"
+                ]
+            },
+            {
+                "WIPE": [
+                    "plate"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "349_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "plate"
+                ]
+            },
+            {
+                "GRAB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "SWITCHON": [
+                    "faucet"
+                ]
+            },
+            {
+                "WASH": [
+                    "plate"
+                ]
+            },
+            {
+                "SWITCHOFF": [
+                    "faucet"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "dish_soap",
+                    "bathroom"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "397_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "dining_room"
+                ]
+            },
+            {
+                "GRAB": [
+                    "plate"
+                ]
+            },
+            {
+                "WASH": [
+                    "plate"
+                ]
+            },
+            {
+                "RINSE": [
+                    "plate"
+                ]
+            },
+            {
+                "SCRUB": [
+                    "plate"
+                ]
+            },
+            {
+                "WIPE": [
+                    "plate"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "429_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "bathroom"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen_counter"
+                ]
+            },
+            {
+                "GRAB": [
+                    "sink"
+                ]
+            },
+            {
+                "WASH": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "sink"
+                ]
+            },
+            {
+                "SCRUB": [
+                    "sink"
+                ]
+            },
+            {
+                "WIPE": [
+                    "sink"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "dish_soap",
+                    "kitchen_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "553_2": {
+        "executable": false,
+        "actions": [
+            {
+                "GRAB": [
+                    "soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "WASH": [
+                    "soap"
+                ]
+            },
+            {
+                "GRAB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "kitchen_counter"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "plate",
+                    "kitchen_counter"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "594_2": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "dish_soap",
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "bathroom_counter"
+                ]
+            },
+            {
+                "PUTIN": [
+                    "plate",
+                    "sink"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "WASH": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "RINSE": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "SCRUB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "WIPE": [
+                    "plate"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "746_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "sponge"
+                ]
+            },
+            {
+                "GRAB": [
+                    "sponge"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "WASH": [
+                    "sponge"
+                ]
+            },
+            {
+                "RINSE": [
+                    "sponge"
+                ]
+            },
+            {
+                "SCRUB": [
+                    "sponge"
+                ]
+            },
+            {
+                "WIPE": [
+                    "sponge"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "sponge",
+                    "sink"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "dish_soap",
+                    "sink"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "961_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "GRAB": [
+                    "dish_soap"
+                ]
+            },
+            {
+                "WALK": [
+                    "plate"
+                ]
+            },
+            {
+                "GRAB": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "sink"
+                ]
+            },
+            {
+                "WASH": [
+                    "plate"
+                ]
+            },
+            {
+                "WALK": [
+                    "dishrack"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "plate",
+                    "dishrack"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    },
+    "988_1": {
+        "executable": false,
+        "actions": [
+            {
+                "WALK": [
+                    "faucet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "faucet"
+                ]
+            },
+            {
+                "OPEN": [
+                    "faucet"
+                ]
+            },
+            {
+                "GRAB": [
+                    "bowl"
+                ]
+            },
+            {
+                "WASH": [
+                    "bowl"
+                ]
+            },
+            {
+                "PUTBACK": [
+                    "bowl",
+                    "cupboard"
+                ]
+            }
+        ],
+        "error_type": "parsing error",
+        "error_action": null
+    }
+}

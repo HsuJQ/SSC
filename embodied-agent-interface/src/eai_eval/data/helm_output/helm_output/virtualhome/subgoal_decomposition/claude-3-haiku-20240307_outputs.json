@@ -1,0 +1,1354 @@
+[
+    {
+        "identifier": "scene_1_27_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash clothes\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, washing_machine.1001)\",\n\"FACING(character.65, washing_machine.1001)\",\n\"OPEN(washing_machine.1001)\",\n\"INSIDE(clothes_jacket.1003, washing_machine.1001)\",\n\"ONTOP(soap.1002, washing_machine.1001)\",\n\"CLOSED(washing_machine.1001)\",\n\"PLUGGED_IN(washing_machine.1001)\",\n\"ON(washing_machine.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_417_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash clothes\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, washing_machine.1000)\",\n\"FACING(character.65, washing_machine.1000)\",\n\"OPEN(washing_machine.1000)\",\n\"ONTOP(clothes_shirt.1003, washing_machine.1000) and ONTOP(clothes_pants.1001, washing_machine.1000) and ONTOP(clothes_shirt.1004, washing_machine.1000) and ONTOP(soap.1005, washing_machine.1000) and ONTOP(clothes_pants.1002, washing_machine.1000)\",\n\"CLOSED(washing_machine.1000)\",\n\"PLUGGED_IN(washing_machine.1000)\",\n\"ON(washing_machine.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_850_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash clothes\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, washing_machine.1000)\",\n\"FACING(character.65, washing_machine.1000)\",\n\"OPEN(washing_machine.1000)\",\n\"HOLDS_RH(character.65, clothes_pants.1001) and HOLDS_LH(character.65, laundry_detergent.1002)\",\n\"ONTOP(clothes_pants.1001, washing_machine.1000) and ONTOP(laundry_detergent.1002, washing_machine.1000)\",\n\"CLOSED(washing_machine.1000)\",\n\"ON(washing_machine.1000) and PLUGGED_IN(washing_machine.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_954_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash clothes\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, washing_machine.1001)\",\n\"FACING(character.65, washing_machine.1001)\",\n\"OPEN(washing_machine.1001)\",\n\"ONTOP(clothes_dress.1002, washing_machine.1001) and ONTOP(clothes_pants.1003, washing_machine.1001) and ONTOP(clothes_shirt.1004, washing_machine.1001) and ONTOP(clothes_underwear.1005, washing_machine.1001) and ONTOP(soap.1006, washing_machine.1001)\",\n\"CLOSED(washing_machine.1001)\",\n\"PLUGGED_IN(washing_machine.1001)\",\n\"ON(washing_machine.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_11_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, floor_lamp.1000)\", \"FACING(character.65, floor_lamp.1000)\", \"ON(floor_lamp.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_120_1",
+        "llm_output": "Here is the subgoal plan for the task of turning on the lights:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, light.245)\",\n\"FACING(character.65, light.245)\",\n\"ON(light.245) and PLUGGED_IN(light.245)\",\n\"NEXT_TO(character.65, light.411)\", \n\"FACING(character.65, light.411)\",\n\"ON(light.411) and PLUGGED_IN(light.411)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_125_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\"]}"
+    },
+    {
+        "identifier": "scene_1_150_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\"]}"
+    },
+    {
+        "identifier": "scene_1_160_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\", \"NEXT_TO(character.65, light.1002)\", \"FACING(character.65, light.1002)\", \"PLUGGED_IN(light.1002)\", \"ON(light.1002)\"]}"
+    },
+    {
+        "identifier": "scene_1_180_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.245)\", \"FACING(character.65, light.245)\", \"PLUGGED_IN(light.245)\", \"ON(light.245)\"]}"
+    },
+    {
+        "identifier": "scene_1_205_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.169)\", \"FACING(character.65, light.169)\", \"PLUGGED_IN(light.169)\", \"ON(light.169)\"]}"
+    },
+    {
+        "identifier": "scene_1_222_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\"]}"
+    },
+    {
+        "identifier": "scene_1_232_2",
+        "llm_output": "Here is the subgoal plan for the task of turning on the lights:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, light.245) and FACING(character.65, light.245)\",\n\"ON(light.245) and PLUGGED_IN(light.245)\",\n\"NEXT_TO(character.65, light.1001) and FACING(character.65, light.1001)\", \n\"ON(light.1001) and PLUGGED_IN(light.1001)\",\n\"NEXT_TO(character.65, light.1000) and FACING(character.65, light.1000)\",\n\"ON(light.1000) and PLUGGED_IN(light.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_310_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.169)\", \"FACING(character.65, light.169)\", \"PLUGGED_IN(light.169)\", \"ON(light.169)\"]}"
+    },
+    {
+        "identifier": "scene_1_311_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, floor_lamp.1000)\", \"FACING(character.65, floor_lamp.1000)\", \"ON(floor_lamp.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_331_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\"]}"
+    },
+    {
+        "identifier": "scene_1_345_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\"]}"
+    },
+    {
+        "identifier": "scene_1_392_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.64)\", \"FACING(character.65, light.64)\", \"PLUGGED_IN(light.64)\", \"ON(light.64)\"]}"
+    },
+    {
+        "identifier": "scene_1_394_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.245)\", \"FACING(character.65, light.245)\", \"PLUGGED_IN(light.245)\", \"ON(light.245)\"]}"
+    },
+    {
+        "identifier": "scene_1_432_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, floor_lamp.1000)\", \"FACING(character.65, floor_lamp.1000)\", \"ON(floor_lamp.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_443_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, floor_lamp.1000)\", \"FACING(character.65, floor_lamp.1000)\", \"ON(floor_lamp.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_445_1",
+        "llm_output": "Here is the subgoal plan for the task \"Turn on light\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.1000)\", \"FACING(character.65, light.1000)\", \"PLUGGED_IN(light.1000)\", \"ON(light.1000)\", \"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\"]}"
+    },
+    {
+        "identifier": "scene_1_511_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.245)\", \"FACING(character.65, light.245)\", \"PLUGGED_IN(light.245)\", \"ON(light.245)\"]}"
+    },
+    {
+        "identifier": "scene_1_585_1",
+        "llm_output": "Here is the subgoal plan for the \"Turn on light\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, light.245) and FACING(character.65, light.245)\",\n\"PLUGGED_IN(light.245) and ON(light.245)\",\n\"NEXT_TO(character.65, light.1000) and FACING(character.65, light.1000)\",\n\"PLUGGED_IN(light.1000) and ON(light.1000)\",\n\"NEXT_TO(character.65, light.411) and FACING(character.65, light.411)\",\n\"PLUGGED_IN(light.411) and ON(light.411)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_604_2",
+        "llm_output": "Here is the subgoal plan for the \"Turn on light\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, light.64)\",\n\"FACING(character.65, light.64)\",\n\"ON(light.64) and PLUGGED_IN(light.64)\",\n\"NEXT_TO(character.65, light.1000)\",\n\"FACING(character.65, light.1000)\", \n\"ON(light.1000) and PLUGGED_IN(light.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_616_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.64)\", \"FACING(character.65, light.64)\", \"PLUGGED_IN(light.64)\", \"ON(light.64)\"]}"
+    },
+    {
+        "identifier": "scene_1_705_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, floor_lamp.1000)\", \"FACING(character.65, floor_lamp.1000)\", \"ON(floor_lamp.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_708_1",
+        "llm_output": "Here is the subgoal plan for the \"Turn on light\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, light.169)\",\n\"FACING(character.65, light.169)\",\n\"PLUGGED_IN(light.169) and OFF(light.169)\",\n\"ON(light.169)\",\n\"NEXT_TO(character.65, light.411)\", \n\"FACING(character.65, light.411)\",\n\"PLUGGED_IN(light.411) and OFF(light.411)\",\n\"ON(light.411)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_715_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.169)\", \"FACING(character.65, light.169)\", \"PLUGGED_IN(light.169)\", \"ON(light.169)\"]}"
+    },
+    {
+        "identifier": "scene_1_737_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.411)\", \"FACING(character.65, light.411)\", \"PLUGGED_IN(light.411)\", \"ON(light.411)\"]}"
+    },
+    {
+        "identifier": "scene_1_780_1",
+        "llm_output": "Here is the subgoal plan for the \"Turn on light\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, light.245) and FACING(character.65, light.245)\",\n\"ON(light.245) and PLUGGED_IN(light.245)\",\n\"NEXT_TO(character.65, light.1000) and FACING(character.65, light.1000)\", \n\"ON(light.1000) and PLUGGED_IN(light.1000)\",\n\"NEXT_TO(character.65, light.411) and FACING(character.65, light.411)\",\n\"ON(light.411) and PLUGGED_IN(light.411)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_812_1",
+        "llm_output": "Here is the subgoal plan for the task \"Turn on light\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, light.169)\",\n\"FACING(character.65, light.169)\",\n\"PLUGGED_IN(light.169)\",\n\"ON(light.169)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_835_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, floor_lamp.1000)\", \"FACING(character.65, floor_lamp.1000)\", \"ON(floor_lamp.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_85_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.245)\", \"FACING(character.65, light.245)\", \"PLUGGED_IN(light.245)\", \"ON(light.245)\"]}"
+    },
+    {
+        "identifier": "scene_1_874_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, light.169)\", \"FACING(character.65, light.169)\", \"PLUGGED_IN(light.169)\", \"ON(light.169)\"]}"
+    },
+    {
+        "identifier": "scene_1_491_2",
+        "llm_output": "Here is the subgoal plan for the task of brushing teeth:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, toothbrush.1000)\",\n\"NEXT_TO(character.65, tooth_paste.1001)\",\n\"HOLDS_RH(character.65, toothbrush.1000)\",\n\"HOLDS_LH(character.65, tooth_paste.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_696_1",
+        "llm_output": "Here is the subgoal plan for the \"Brush teeth\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, tooth_paste.1000)\",\n\"NEXT_TO(character.65, toothbrush.1001)\",\n\"HOLDS_RH(character.65, tooth_paste.1000)\",\n\"HOLDS_LH(character.65, toothbrush.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1003_2",
+        "llm_output": "Here is the subgoal plan for the \"Write an email\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TYPE\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"FACING(character.65, computer.417)\",\n\"TYPE(computer.417)\",\n\"SWITCHOFF(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_115_2",
+        "llm_output": "Here is the subgoal plan for the task \"Write an email\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\",\n\"TYPE(keyboard.415)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_407_1",
+        "llm_output": "Here is the subgoal plan for the \"Write an email\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\",\n\"TYPE(keyboard.415)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_430_1",
+        "llm_output": "Here is the subgoal plan for the \"Write an email\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"TOUCH\", \"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"ON(computer.417)\",\n\"TYPE(keyboard.415)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_481_2",
+        "llm_output": "Here is the subgoal plan for the task of writing an email:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TYPE\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\",\n\"TYPE(button.1001)\",\n\"SWITCHOFF(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_622_1",
+        "llm_output": "Here is the subgoal plan for the \"Write an email\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"PLUG\", \"SWITCHON\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"PLUGGED_IN(keyboard.415) and PLUGGED_IN(mouse.413)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\",\n\"TYPE(keyboard.415)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_699_1",
+        "llm_output": "Here is the subgoal plan for the \"Write an email\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"LOOKAT\", \"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"HOLDS_LH(character.65, keyboard.415)\",\n\"TYPE(keyboard.415)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_824_1",
+        "llm_output": "Here is the subgoal plan for the \"Write an email\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"TOUCH\", \"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"ON(computer.417)\",\n\"TYPE(keyboard.415)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_87_2",
+        "llm_output": "Here is the subgoal plan for the \"Write an email\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, laptop.1000)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, laptop.1000)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"PLUGGED_IN(laptop.1000)\",\n\"ON(laptop.1000)\",\n\"TYPE(laptop.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_986_2",
+        "llm_output": "Here is the subgoal plan for the task \"Write an email\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TYPE\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"HOLDS_LH(character.65, keyboard.415)\",\n\"FACING(character.65, computer.417)\",\n\"TYPE(keyboard.415)\",\n\"SWITCHOFF(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_996_2",
+        "llm_output": "Here is the subgoal plan for the task \"Write an email\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.1001)\",\n\"ONTOP(character.65, chair.1000)\",\n\"FACING(character.65, computer.1001)\",\n\"HOLDS_LH(character.65, keyboard.1002)\",\n\"ON(computer.1001)\",\n\"TYPE(keyboard.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1004_2",
+        "llm_output": "Here is the subgoal plan for the task \"Put groceries in Fridge\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"FACING(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"PLUGGED_IN(freezer.289)\",\n\"INSIDE(food_food.1000, freezer.289)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_152_2",
+        "llm_output": "Here is the subgoal plan for the task \"Put groceries in Fridge\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"FACING(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"PLUGGED_IN(freezer.289)\",\n\"INSIDE(food_food.1000, freezer.289)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_298_2",
+        "llm_output": "Here is the subgoal plan for the task \"Put groceries in Fridge\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"FACING(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"PLUGGED_IN(freezer.289)\",\n\"INSIDE(food_food.1000, freezer.289)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_609_2",
+        "llm_output": "Here is the subgoal plan for the task \"Put groceries in Fridge\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"FACING(character.65, freezer.289)\",\n\"PLUGGED_IN(freezer.289)\",\n\"OPEN(freezer.289)\",\n\"INSIDE(food_food.1000, freezer.289)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_703_2",
+        "llm_output": "Here is the subgoal plan for the task \"Put groceries in Fridge\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"FACING(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"PLUGGED_IN(freezer.289)\",\n\"INSIDE(food_food.1000, freezer.289)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_772_1",
+        "llm_output": "Here is the subgoal plan for the task \"Put groceries in Fridge\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"FACING(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"PLUGGED_IN(freezer.289)\",\n\"INSIDE(milk.1000, freezer.289)\",\n\"INSIDE(food_turkey.1001, freezer.289)\",\n\"INSIDE(food_egg.1002, freezer.289)\",\n\"INSIDE(food_egg.1003, freezer.289)\",\n\"INSIDE(food_egg.1004, freezer.289)\",\n\"INSIDE(food_fish.1005, freezer.289)\",\n\"INSIDE(food_chicken.1006, freezer.289)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_837_2",
+        "llm_output": "Here is the subgoal plan for the task \"Put groceries in Fridge\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"FACING(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"PLUGGED_IN(freezer.289)\",\n\"INSIDE(food_cheese.1001, freezer.289)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_158_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, bathroom.1)\", \"OPEN(bathroom.1)\", \"INSIDE(character.65, bathroom.1)\", \"FACING(character.65, toilet.37)\"]}"
+    },
+    {
+        "identifier": "scene_1_323_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, toilet.37)\", \"FACING(character.65, toilet.37)\", \"OPEN(toilet.37)\", \"ONTOP(character.65, toilet.37)\"]}"
+    },
+    {
+        "identifier": "scene_1_430_2",
+        "llm_output": "Here is the subgoal plan for the \"Go to toilet\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, bathroom.1)\",\n\"OPEN(bathroom.1)\",\n\"INSIDE(character.65, bathroom.1)\",\n\"NEXT_TO(character.65, toilet.37)\",\n\"ONTOP(character.65, toilet.37)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_478_1",
+        "llm_output": "Here is the subgoal plan for the task \"Go to toilet\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, bathroom.1)\", \"OPEN(bathroom.1)\", \"INSIDE(character.65, bathroom.1)\", \"NEXT_TO(character.65, toilet.37)\", \"ONTOP(character.65, toilet.37)\"]}"
+    },
+    {
+        "identifier": "scene_1_496_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, bathroom.1)\", \"OPEN(bathroom.1)\", \"INSIDE(character.65, bathroom.1)\", \"FACING(character.65, toilet.37)\"]}"
+    },
+    {
+        "identifier": "scene_1_624_2",
+        "llm_output": "Here is the subgoal plan for the task \"Go to toilet\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, toilet.1000)\", \"FACING(character.65, toilet.1000)\", \"ONTOP(character.65, toilet.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_188_1",
+        "llm_output": "Here is the subgoal plan for the task \"Change TV channel\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TOUCH\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"HOLDS_RH(character.65, remote_control.1000)\",\n\"PLUGGED_IN(television.410)\",\n\"ON(television.410)\",\n\"TOUCH(remote_control.1000) or PUSH(remote_control.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_803_2",
+        "llm_output": "Here is the subgoal plan for the task \"Change TV channel\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TOUCH\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"HOLDS_RH(character.65, remote_control.1000)\",\n\"FACING(character.65, remote_control.1000)\",\n\"TOUCH(remote_control.1000) or PUSH(remote_control.1000)\",\n\"ON(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_960_2",
+        "llm_output": "Here is the subgoal plan for the task of changing the TV channel:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TOUCH\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"HOLDS_RH(character.65, remote_control.1000)\",\n\"PLUGGED_IN(television.410)\",\n\"TOUCH(remote_control.1000) or PUSH(remote_control.1000)\",\n\"ON(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_101_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"FACING(character.65, computer.417)\",\n\"HOLDS_LH(character.65, keyboard.415) and HOLDS_RH(character.65, mouse.413)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1068_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_153_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_196_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"PLUGGED_IN(computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_198_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_201_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_232_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_234_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_343_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.170)\",\n\"ONTOP(character.65, chair.103)\",\n\"FACING(character.65, computer.170)\",\n\"ON(computer.170)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_373_1",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"no\",\n    \"actions_to_include\": [],\n    \"output\": [\n        \"NEXT_TO(character.65, computer.417)\",\n        \"FACING(character.65, computer.417)\",\n        \"ON(computer.417)\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_406_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.170)\", \"ONTOP(character.65, chair.103)\", \"FACING(character.65, computer.170)\", \"PLUGGED_IN(computer.170)\", \"ON(computer.170)\"]}"
+    },
+    {
+        "identifier": "scene_1_409_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_419_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_433_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.170)\", \"ONTOP(character.65, chair.103)\", \"FACING(character.65, computer.170)\", \"HOLDS_RH(character.65, mouse.166)\", \"HOLDS_LH(character.65, keyboard.168)\", \"ON(computer.170)\"]}"
+    },
+    {
+        "identifier": "scene_1_437_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_440_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.170)\",\n\"ONTOP(character.65, chair.103)\",\n\"FACING(character.65, computer.170)\",\n\"PLUGGED_IN(computer.170)\",\n\"ON(computer.170)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_453_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_46_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_475_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"PLUGGED_IN(computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_503_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_670_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"PLUGGED_IN(keyboard.415) and PLUGGED_IN(mouse.413)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"ON(light.411)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_719_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_757_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.170)\", \"FACING(character.65, computer.170)\", \"PLUGGED_IN(computer.170)\", \"ON(computer.170)\"]}"
+    },
+    {
+        "identifier": "scene_1_787_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_795_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.170)\", \"FACING(character.65, computer.170)\", \"ON(computer.170)\"]}"
+    },
+    {
+        "identifier": "scene_1_819_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_874_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_910_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_91_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, computer.417)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"ON(computer.417)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_93_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_962_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"FACING(character.65, computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_190_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\n    \"NEXT_TO(character.65, dishwasher.1001)\",\n    \"FACING(character.65, dishwasher.1001)\",\n    \"OPEN(dishwasher.1001)\",\n    \"ONTOP(plate.1002, dishwasher.1001) and ONTOP(bowl.1000, dishwasher.1001) and ONTOP(dish_soap.1003, dishwasher.1001)\",\n    \"CLOSED(dishwasher.1001)\",\n    \"ON(dishwasher.1001)\"\n]}"
+    },
+    {
+        "identifier": "scene_1_201_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"ONTOP(plate.1001, dishwasher.1000) and ONTOP(dish_soap.1002, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_223_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"ONTOP(dish_soap.1001, dishwasher.1000)\",\n\"ONTOP(plate.1003, dishwasher.1000)\",\n\"ONTOP(plate.1002, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_327_2",
+        "llm_output": "Here is the subgoal plan for the task of washing dishes with a dishwasher:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"ONTOP(plate.1001, dishwasher.1000) and ONTOP(dish_soap.1002, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_383_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"ONTOP(dish_soap.1003, dishwasher.1000)\",\n\"ONTOP(plate.1001, dishwasher.1000) and ONTOP(plate.1002, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_417_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"INSIDE(plate.1003, dishwasher.1000) and INSIDE(drinking_glass.1001, dishwasher.1000) and INSIDE(fork.1004, dishwasher.1000) and INSIDE(drinking_glass.1002, dishwasher.1000) and INSIDE(dish_soap.1005, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_487_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1001)\",\n\"FACING(character.65, dishwasher.1001)\",\n\"OPEN(dishwasher.1001)\",\n\"ONTOP(plate.1000, dishwasher.1001) and ONTOP(fork.1002, dishwasher.1001) and ONTOP(cup.1003, dishwasher.1001) and ONTOP(spoon.1004, dishwasher.1001) and ONTOP(dish_soap.1005, dishwasher.1001)\",\n\"CLOSED(dishwasher.1001)\",\n\"ON(dishwasher.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_650_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1001)\",\n\"FACING(character.65, dishwasher.1001)\",\n\"OPEN(dishwasher.1001)\",\n\"INSIDE(plate.1000, dishwasher.1001) and INSIDE(pot.1002, dishwasher.1001)\",\n\"ONTOP(dish_soap.1003, dishwasher.1001)\",\n\"CLOSED(dishwasher.1001)\",\n\"ON(dishwasher.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_783_1",
+        "llm_output": "Here is the subgoal plan for the task of washing dishes with a dishwasher:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"ONTOP(plate.1003, dishwasher.1000) and ONTOP(plate.1001, dishwasher.1000) and ONTOP(plate.1005, dishwasher.1000) and ONTOP(plate.1004, dishwasher.1000) and ONTOP(plate.1002, dishwasher.1000) and ONTOP(cup.1006, dishwasher.1000) and ONTOP(dish_soap.1007, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_815_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1001)\",\n\"OPEN(dishwasher.1001)\",\n\"ONTOP(plate.1000, dishwasher.1001)\",\n\"ONTOP(dish_soap.1002, dishwasher.1001)\",\n\"CLOSED(dishwasher.1001)\",\n\"ON(dishwasher.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_826_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"ONTOP(dish_soap.1016, dishwasher.1000) and ONTOP(plate.1003, dishwasher.1000) and ONTOP(cup.1010, dishwasher.1000) and ONTOP(fork.1001, dishwasher.1000) and ONTOP(spoon.1014, dishwasher.1000) and ONTOP(plate.1005, dishwasher.1000) and ONTOP(cup.1008, dishwasher.1000) and ONTOP(spoon.1015, dishwasher.1000) and ONTOP(plate.1006, dishwasher.1000) and ONTOP(cup.1009, dishwasher.1000) and ONTOP(knife.1011, dishwasher.1000) and ONTOP(spoon.1013, dishwasher.1000) and ONTOP(cup.1007, dishwasher.1000) and ONTOP(plate.1004, dishwasher.1000) and ONTOP(fork.1002, dishwasher.1000) and ONTOP(knife.1012, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_856_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes with dishwasher\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dishwasher.1000)\",\n\"FACING(character.65, dishwasher.1000)\",\n\"OPEN(dishwasher.1000)\",\n\"ONTOP(plate.1001, dishwasher.1000) and ONTOP(dish_soap.1002, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_911_1",
+        "llm_output": "Here is the subgoal plan for the task of washing dishes with a dishwasher:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"OPEN(dishwasher.1000)\",\n\"INSIDE(dish_soap.1003, dishwasher.1000) and INSIDE(plate.1002, dishwasher.1000) and INSIDE(cup.1001, dishwasher.1000)\",\n\"ONTOP(dish_soap.1003, dishwasher.1000) and ONTOP(cup.1001, dishwasher.1000) and ONTOP(plate.1002, dishwasher.1000)\",\n\"CLOSED(dishwasher.1000)\",\n\"ON(dishwasher.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1027_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"SLEEP\"], \"output\": [\"NEXT_TO(character.65, bed.105)\", \"FACING(character.65, bed.105)\", \"ONTOP(character.65, bed.105)\", \"LYING(character.65)\", \"SLEEP\"]}"
+    },
+    {
+        "identifier": "scene_1_181_1",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"yes\",\n    \"actions_to_include\": [\"SLEEP\"],\n    \"output\": [\n        \"NEXT_TO(character.65, bed.105)\",\n        \"FACING(character.65, bed.105)\",\n        \"ONTOP(character.65, bed.105)\",\n        \"SLEEP\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_244_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"SLEEP\"], \"output\": [\"NEXT_TO(character.65, bed.105)\", \"FACING(character.65, bed.105)\", \"ONTOP(character.65, bed.105)\", \"LYING(character.65)\", \"SLEEP\"]}"
+    },
+    {
+        "identifier": "scene_1_269_2",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"yes\",\n    \"actions_to_include\": [\"SLEEP\"],\n    \"output\": [\n        \"NEXT_TO(character.65, bed.105)\",\n        \"FACING(character.65, bed.105)\",\n        \"ONTOP(character.65, bed.105)\",\n        \"SLEEP\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_509_2",
+        "llm_output": "Here is the subgoal plan for the \"Go to sleep\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"SLEEP\"],\n\"output\": [\n\"NEXT_TO(character.65, bed.105)\",\n\"ONTOP(character.65, bed.105)\",\n\"LYING(character.65)\",\n\"SLEEP\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_875_1",
+        "llm_output": "Here is the subgoal plan for the \"Go to sleep\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"SLEEP\"],\n\"output\": [\n\"NEXT_TO(character.65, bed.105)\",\n\"ONTOP(character.65, bed.105)\",\n\"LYING(character.65)\",\n\"SLEEP(character.65)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_102_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, hands_both.1000) and HOLDS_LH(character.65, hands_both.1000)\",\n\"RINSE(hands_both.1000)\",\n\"WASH(hands_both.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_154_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"OPEN(sink.42)\",\n\"PLUGGED_IN(faucet.43)\",\n\"ON(faucet.43)\",\n\"HOLDS_RH(character.65, soap.1000) and HOLDS_LH(character.65, hands_both.1001)\",\n\"RINSE(hands_both.1001)\",\n\"WASH(hands_both.1001)\",\n\"HOLDS_RH(character.65, towel.1002) and HOLDS_LH(character.65, hands_both.1003)\",\n\"CLEAN(hands_both.1003)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_176_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, soap.1000) or HOLDS_LH(character.65, soap.1000)\",\n\"RINSE(hands_both.1001)\",\n\"SCRUB(hands_both.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_214_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, soap.1000)\",\n\"RINSE(character.65)\",\n\"WASH(character.65)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_258_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"OPEN(faucet.232)\",\n\"RINSE(character.65.hands)\",\n\"GRAB(soap.1000)\",\n\"WASH(character.65.hands)\",\n\"CLOSE(faucet.232)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_499_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, water.1000) or HOLDS_LH(character.65, water.1000)\",\n\"HOLDS_RH(character.65, soap.1001) or HOLDS_LH(character.65, soap.1001)\",\n\"RINSE(hands_both.1002)\",\n\"WASH(hands_both.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_517_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, soap.1000) or HOLDS_LH(character.65, soap.1000)\",\n\"RINSE(hands_both.1001)\",\n\"WASH(hands_both.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_549_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash hands\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"HOLDS_RH(character.65, soap.1001) or HOLDS_LH(character.65, soap.1001)\",\n\"RINSE(hands_both.1000)\",\n\"WASH(hands_both.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_562_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, faucet.43)\",\n\"FACING(character.65, faucet.43)\",\n\"ON(faucet.43)\",\n\"INSIDE(water.1000, hands_both.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_580_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, soap.1001) or HOLDS_LH(character.65, soap.1001)\",\n\"RINSE(hands_both.1000)\",\n\"WASH(hands_both.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_657_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, faucet.43)\",\n\"FACING(character.65, faucet.43)\",\n\"HOLDS_RH(character.65, soap.1001) and HOLDS_LH(character.65, hands_both.1000)\",\n\"RINSE(hands_both.1000)\",\n\"WASH(hands_both.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_660_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, soap.1000) or HOLDS_LH(character.65, soap.1000)\",\n\"OPEN(faucet.43)\",\n\"RINSE(hands_both.1001)\",\n\"WASH(hands_both.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_672_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, faucet.43)\",\n\"FACING(character.65, faucet.43)\",\n\"HOLDS_RH(character.65, soap.1001) and HOLDS_LH(character.65, hands_both.1000)\",\n\"RINSE(hands_both.1000)\",\n\"WASH(hands_both.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_710_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"RINSE\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, soap.1001) and HOLDS_LH(character.65, hands_both.1002)\",\n\"RINSE(hands_both.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_741_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"RINSE\"],\n\"output\": [\n\"NEXT_TO(character.65, faucet.43)\",\n\"FACING(character.65, faucet.43)\",\n\"HOLDS_RH(character.65, soap.1000) or HOLDS_LH(character.65, soap.1000)\",\n\"HOLDS_RH(character.65, hands_both.1001) or HOLDS_LH(character.65, hands_both.1001)\",\n\"RINSE(hands_both.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_750_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"INSIDE(character.65, bathroom.1)\",\n\"NEXT_TO(character.65, sink.42)\",\n\"OPEN(sink.42)\",\n\"INSIDE(water.1001, sink.42)\",\n\"INSIDE(water.1001, hands_both.1002)\",\n\"NEXT_TO(character.65, soap.1000)\",\n\"HOLDS_RH(character.65, soap.1000) or HOLDS_LH(character.65, soap.1000)\",\n\"NEXT_TO(character.65, towel.1003)\",\n\"HOLDS_RH(character.65, towel.1003) or HOLDS_LH(character.65, towel.1003)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_805_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"OPEN(sink.42)\",\n\"HOLDS_RH(character.65, soap.1000) or HOLDS_LH(character.65, soap.1000)\",\n\"RINSE(hands.65)\",\n\"WASH(hands.65)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_80_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"RINSE\", \"WASH\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"OPEN(sink.42)\",\n\"HOLDS_RH(character.65, soap.1000) and HOLDS_LH(character.65, hands_both.1001)\",\n\"RINSE(hands_both.1001)\",\n\"WASH(hands_both.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_813_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\", \"RINSE\"], \"output\": [\"NEXT_TO(character.65, water.1000)\", \"HOLDS_RH(character.65, hands_both.1001) and HOLDS_LH(character.65, hands_both.1001)\", \"RINSE(hands_both.1001)\"]}"
+    },
+    {
+        "identifier": "scene_1_928_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"RINSE\", \"WASH\"], \"output\": [\"NEXT_TO(character.65, sink.42)\", \"FACING(character.65, sink.42)\", \"RINSE(hands_both.1000)\", \"WASH(hands_both.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_995_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash hands\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"RINSE\"],\n\"output\": [\n\"NEXT_TO(character.65, faucet.43)\",\n\"FACING(character.65, faucet.43)\",\n\"HOLDS_RH(character.65, soap.1000) or HOLDS_LH(character.65, soap.1000)\",\n\"HOLDS_RH(character.65, hands_both.1001) or HOLDS_LH(character.65, hands_both.1001)\",\n\"RINSE(hands_both.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1035_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pet cat\":\n\n{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"TOUCH\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_113_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pet cat\":\n\n{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"TOUCH\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_12_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_137_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pet cat\":\n\n{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"TOUCH\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_203_2",
+        "llm_output": "Here is the subgoal plan for the \"Pet cat\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"TOUCH\"],\n\"output\": [\n\"NEXT_TO(character.65, home_office.319)\",\n\"NEXT_TO(character.65, cat.1000)\",\n\"TOUCH(cat.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_220_2",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"yes\",\n    \"actions_to_include\": [\"TOUCH\"],\n    \"output\": [\n        \"NEXT_TO(character.65, cat.1000)\",\n        \"TOUCH(cat.1000)\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_242_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_279_2",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"yes\",\n    \"actions_to_include\": [\"TOUCH\"],\n    \"output\": [\n        \"NEXT_TO(character.65, cat.1000)\",\n        \"TOUCH(cat.1000)\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_287_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pet cat\":\n\n{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"TOUCH\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_292_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pet cat\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TOUCH\"],\n\"output\": [\n\"NEXT_TO(character.65, cat.1000)\",\n\"TOUCH(cat.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_297_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\"], \"output\": [\"NEXT_TO(character.65, home_office.319)\", \"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_381_1",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"yes\",\n    \"actions_to_include\": [\"TOUCH\"],\n    \"output\": [\n        \"NEXT_TO(character.65, cat.1000)\",\n        \"TOUCH(cat.1000)\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_388_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_38_1",
+        "llm_output": "Here is the subgoal plan for the \"Pet cat\" task:\n\n{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"TOUCH\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_429_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pet cat\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TOUCH\"],\n\"output\": [\n\"NEXT_TO(character.65, cat.1000)\",\n\"FACING(character.65, cat.1000)\",\n\"TOUCH(cat.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_437_1",
+        "llm_output": "Here is the subgoal plan for the \"Pet cat\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"TOUCH\"],\n\"output\": [\n\"NEXT_TO(character.65, cat.1000)\",\n\"TOUCH(cat.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_451_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_469_2",
+        "llm_output": "Here is the subgoal plan for the \"Pet cat\" task:\n\n{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"TOUCH\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_479_2",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"yes\",\n    \"actions_to_include\": [\"TOUCH\"],\n    \"output\": [\n        \"NEXT_TO(character.65, cat.1000)\",\n        \"TOUCH(cat.1000)\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_502_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pet cat\":\n\n{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"TOUCH\"], \"output\": [\"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_612_1",
+        "llm_output": "{\n  \"necessity_to_use_action\": \"yes\",\n  \"actions_to_include\": [\"TOUCH\"],\n  \"output\": [\n    \"NEXT_TO(character.65, cat.1000)\",\n    \"TOUCH(cat.1000)\"\n  ]\n}"
+    },
+    {
+        "identifier": "scene_1_856_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\"], \"output\": [\"NEXT_TO(character.65, home_office.319)\", \"NEXT_TO(character.65, cat.1000)\", \"TOUCH(cat.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_384_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"LOOKAT\"], \"output\": [\"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\", \"FACING(character.65, computer.417)\", \"LOOKAT(computer.417)\", \"INSIDE(character.65, home_office.319)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_540_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\", \"GRAB\"], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_60_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"LOOKAT\"], \"output\": [\"NEXT_TO(character.65, laptop.1000)\", \"ONTOP(character.65, chair.356)\", \"PLUGGED_IN(laptop.1000)\", \"FACING(character.65, laptop.1000)\", \"LOOKAT(laptop.1000)\", \"ON(laptop.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_71_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\"],\n\"output\": [\n\"NEXT_TO(character.65, computer.417)\",\n\"ONTOP(character.65, chair.356)\",\n\"HOLDS_RH(character.65, mouse.413) and HOLDS_LH(character.65, keyboard.415)\",\n\"FACING(character.65, computer.417)\",\n\"LOOKAT(computer.417)\",\n\"INSIDE(character.65, home_office.319)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_7_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"MOVE\", \"LOOKAT\"], \"output\": [\"NEXT_TO(character.65, home_office.319)\", \"OPEN(doorjamb.346)\", \"INSIDE(character.65, home_office.319)\", \"NEXT_TO(character.65, computer.417)\", \"ONTOP(character.65, chair.356)\", \"HOLDS_RH(character.65, mouse.413)\", \"FACING(character.65, computer.417)\", \"LOOKAT(computer.417)\", \"ON(computer.417)\"]}"
+    },
+    {
+        "identifier": "scene_1_1070_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash teeth\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, toothbrush_holder.1000)\",\n\"FACING(character.65, toothbrush.1001)\",\n\"HOLDS_RH(character.65, toothbrush.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_313_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash teeth\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, bathroom.1)\",\n\"NEXT_TO(character.65, sink.42)\",\n\"NEXT_TO(character.65, toothbrush.1001)\",\n\"NEXT_TO(character.65, tooth_paste.1000)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_LH(character.65, toothbrush.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_689_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash teeth\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, toothbrush_holder.1000)\",\n\"OPEN(toothbrush_holder.1000)\",\n\"GRAB(toothbrush.1002)\",\n\"HOLDS_LH(character.65, toothbrush.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_718_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash teeth\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, toothbrush.1001)\",\n\"NEXT_TO(character.65, tooth_paste.1000)\",\n\"HOLDS_LH(character.65, toothbrush.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1049_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, dvd_player.1000)\", \"FACING(character.65, dvd_player.1000)\", \"PLUGGED_IN(dvd_player.1000) and CLOSED(dvd_player.1000)\", \"ON(dvd_player.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_113_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, cd_player.1000)\", \"FACING(character.65, cd_player.1000)\", \"PLUGGED_IN(cd_player.1000) and CLOSED(cd_player.1000)\", \"ON(cd_player.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_161_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, stereo.1000)\", \"FACING(character.65, stereo.1000)\", \"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\", \"ON(stereo.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_173_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, cd_player.1000)\",\n\"FACING(character.65, cd_player.1000)\",\n\"PLUGGED_IN(cd_player.1000) and CLOSED(cd_player.1000)\",\n\"ON(cd_player.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_23_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, stereo.1000)\",\n\"FACING(character.65, stereo.1000)\",\n\"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\",\n\"ON(stereo.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_263_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, stereo.1000)\",\n\"FACING(character.65, stereo.1000)\",\n\"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\",\n\"ON(stereo.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_305_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, stereo.1000)\", \"FACING(character.65, stereo.1000)\", \"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\", \"ON(stereo.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_363_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, dvd_player.1001)\",\n\"FACING(character.65, dvd_player.1001)\",\n\"PLUGGED_IN(dvd_player.1001) and CLOSED(dvd_player.1001)\",\n\"ON(dvd_player.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_385_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, cd_player.1000)\", \"FACING(character.65, cd_player.1000)\", \"PLUGGED_IN(cd_player.1000) and CLOSED(cd_player.1000)\", \"ON(cd_player.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_403_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, stereo.1000)\",\n\"FACING(character.65, stereo.1000)\",\n\"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\",\n\"ON(stereo.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_415_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"HOLDS_RH(character.65, headset.1000)\", \"ONTOP(headset.1000, character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_462_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, stereo.1000)\", \"FACING(character.65, stereo.1000)\", \"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\", \"ON(stereo.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_463_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, stereo.1000)\", \"FACING(character.65, stereo.1000)\", \"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\", \"ON(stereo.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_503_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, cd_player.1000)\",\n\"FACING(character.65, cd_player.1000)\",\n\"PLUGGED_IN(cd_player.1000) and CLOSED(cd_player.1000)\",\n\"ON(cd_player.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_59_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, headset.1001)\", \"HOLDS_RH(character.65, headset.1001)\", \"ONTOP(headset.1001, character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_737_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, stereo.1000)\",\n\"FACING(character.65, stereo.1000)\",\n\"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\",\n\"ON(stereo.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_773_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, stereo.1000)\", \"FACING(character.65, stereo.1000)\", \"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\", \"ON(stereo.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_910_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, stereo.1000)\",\n\"FACING(character.65, stereo.1000)\",\n\"PLUGGED_IN(stereo.1000) and CLOSED(stereo.1000)\",\n\"ON(stereo.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_953_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, cd_player.1001)\", \"FACING(character.65, cd_player.1001)\", \"PLUGGED_IN(cd_player.1001) and CLOSED(cd_player.1001)\", \"ON(cd_player.1001)\"]}"
+    },
+    {
+        "identifier": "scene_1_1057_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"MOVE\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_117_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_134_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"PUSH(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_170_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"LOOKAT\"], \"output\": [\"NEXT_TO(character.65, television.410)\", \"FACING(character.65, television.410)\", \"PLUGGED_IN(television.410)\", \"ON(television.410)\", \"LOOKAT(television.410)\"]}"
+    },
+    {
+        "identifier": "scene_1_197_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(electrical_outlet.1001)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_21_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"PUSH(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_225_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"GRAB\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"HOLDS_RH(character.65, remote_control.1001)\",\n\"ONTOP(remote_control.1001, coffee_table.1000)\",\n\"GRAB(remote_control.1001)\",\n\"PUSH(remote_control.1001)\",\n\"ON(television.410) and PLUGGED_IN(television.410)\",\n\"LOOKAT(television.410) or WATCH(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_259_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"PUSH(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_307_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"PUSH(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_329_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_342_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"PUSH(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_377_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_383_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_411_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_454_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_459_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"PUSH(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_548_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"TYPE\"],\n\"output\": [\n\"NEXT_TO(character.65, television.248)\",\n\"FACING(character.65, television.248)\",\n\"PLUGGED_IN(television.248)\",\n\"TYPE(remote_control.1000)\",\n\"ON(television.248)\",\n\"LOOKAT(television.248)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_595_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"MOVE\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_684_2",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_74_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_806_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"PUSH\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"PUSH(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_98_1",
+        "llm_output": "Here is the subgoal plan for the \"Watch TV\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"LOOKAT\", \"SWITCHOFF\"],\n\"output\": [\n\"NEXT_TO(character.65, television.410)\",\n\"FACING(character.65, television.410)\",\n\"PLUGGED_IN(television.410)\",\n\"SWITCHOFF(remote_control.1000)\",\n\"ON(television.410)\",\n\"LOOKAT(television.410)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1064_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"DRINK\"], \"output\": [\"NEXT_TO(character.65, water_glass.1000)\", \"FACING(character.65, water_glass.1000)\", \"GRAB(water_glass.1000)\", \"HOLDS_RH(character.65, water_glass.1000)\", \"DRINK(water_glass.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_156_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_counter.230)\",\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"OPEN(sink.231)\",\n\"HOLDS_RH(character.65, cup.1000)\",\n\"DRINK(cup.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_171_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"DRINK\"], \"output\": [\"NEXT_TO(character.65, cupboard.229)\", \"OPEN(cupboard.229)\", \"GRAB(cup.1000)\", \"NEXT_TO(character.65, sink.231)\", \"FILL(cup.1000, water.1001)\", \"DRINK(cup.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_175_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_counter.230)\",\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"OPEN(sink.231)\",\n\"HOLDS_RH(character.65, cup.1000)\",\n\"DRINK(cup.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_181_2",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"INSIDE(water.1001, freezer.289)\",\n\"GRAB(water.1001)\",\n\"NEXT_TO(character.65, water_glass.1000)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"DRINK(water_glass.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_26_1",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, cup.1000)\",\n\"FACING(character.65, cup.1000)\",\n\"HOLDS_RH(character.65, cup.1000)\",\n\"DRINK(cup.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_286_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, cupboard.229)\",\n\"OPEN(cupboard.229)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"NEXT_TO(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"INSIDE(water.1001, water_glass.1000)\",\n\"DRINK(water.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_291_1",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, water_glass.1001)\",\n\"FACING(character.65, water_glass.1001)\",\n\"GRAB(water_glass.1001)\",\n\"HOLDS_RH(character.65, water_glass.1001)\",\n\"DRINK(water_glass.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_317_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_cabinet.1000)\",\n\"OPEN(kitchen_cabinet.1000)\",\n\"INSIDE(character.65, dining_room.201)\",\n\"NEXT_TO(character.65, cup.1001)\",\n\"GRAB(cup.1001)\",\n\"HOLDS_RH(character.65, cup.1001)\",\n\"DRINK(cup.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_488_2",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"OPEN(sink.231)\",\n\"ONTOP(water.1001, sink.231)\",\n\"GRAB(cup.1000)\",\n\"HOLDS_RH(character.65, cup.1000)\",\n\"DRINK(water.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_510_1",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, drinking_glass.1001)\",\n\"FACING(character.65, drinking_glass.1001)\",\n\"GRAB(drinking_glass.1001)\",\n\"HOLDS_RH(character.65, drinking_glass.1001)\",\n\"NEXT_TO(character.65, water.1000)\",\n\"FACING(character.65, water.1000)\",\n\"DRINK(drinking_glass.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_528_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"GRAB(drinking_glass.1000)\",\n\"NEXT_TO(character.65, water.1001)\",\n\"DRINK(water.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_532_1",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_cabinet.1000)\",\n\"OPEN(kitchen_cabinet.1000)\",\n\"HOLDS_RH(character.65, drinking_glass.1001)\",\n\"NEXT_TO(character.65, sink.231)\",\n\"DRINK(water.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_589_1",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, cup.1000)\",\n\"FACING(character.65, cup.1000)\",\n\"GRAB(cup.1000)\",\n\"HOLDS_RH(character.65, cup.1000)\",\n\"DRINK(cup.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_600_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"OPEN\", \"GRAB\"],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"INSIDE(water_glass.1000, freezer.289)\",\n\"GRAB(water_glass.1000)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"DRINK(water_glass.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_662_1",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, water_glass.1000)\",\n\"FACING(character.65, water_glass.1000)\",\n\"GRAB(water_glass.1000)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"DRINK(water_glass.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_688_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"MOVE\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, cupboard.229)\",\n\"OPEN(cupboard.229)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"NEXT_TO(character.65, kitchen_counter.230)\",\n\"NEXT_TO(character.65, sink.231)\",\n\"DRINK(water_glass.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_787_1",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"MOVE\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"OPEN(sink.231)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"NEXT_TO(character.65, water_glass.1000)\",\n\"GRAB(water_glass.1000)\",\n\"MOVE(character.65, kitchen_counter.230)\",\n\"NEXT_TO(character.65, water_glass.1000)\",\n\"DRINK(water_glass.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_788_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_cabinet.1000)\",\n\"OPEN(kitchen_cabinet.1000)\",\n\"INSIDE(drinking_glass.1001, kitchen_cabinet.1000)\",\n\"GRAB(drinking_glass.1001)\",\n\"NEXT_TO(character.65, sink.231)\",\n\"ON(faucet.232)\",\n\"POURABLE(water.1002, drinking_glass.1001)\",\n\"DRINK(drinking_glass.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_814_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, cupboard.229)\",\n\"OPEN(cupboard.229)\",\n\"INSIDE(water_glass.1000, cupboard.229)\",\n\"GRAB(water_glass.1000)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"DRINK(water_glass.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_850_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_cabinet.1000)\",\n\"OPEN(kitchen_cabinet.1000)\",\n\"GRAB(water_glass.1001)\",\n\"HOLDS_RH(character.65, water_glass.1001)\",\n\"DRINK(water_glass.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_861_2",
+        "llm_output": "Here is the subgoal plan for the \"Drink\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"MOVE\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"OPEN(sink.231)\",\n\"ONTOP(cup.1000, sink.231)\",\n\"GRAB(cup.1000)\",\n\"MOVE(character.65, dining_room.201)\",\n\"DRINK(cup.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_878_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"DRINK\"],\n\"output\": [\n\"NEXT_TO(character.65, cupboard.229)\",\n\"OPEN(cupboard.229)\",\n\"INSIDE(water_glass.1000, cupboard.229)\",\n\"GRAB(water_glass.1000)\",\n\"HOLDS_RH(character.65, water_glass.1000)\",\n\"DRINK(water_glass.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1073_1",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"GRAB(novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1088_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"READ\"], \"output\": [\"NEXT_TO(character.65, filing_cabinet.399)\", \"OPEN(filing_cabinet.399)\", \"GRAB(novel.1000)\", \"HOLDS_RH(character.65, novel.1000)\", \"READ(novel.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_15_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"READ\"], \"output\": [\"NEXT_TO(character.65, address_book.1000)\", \"FACING(character.65, address_book.1000)\", \"HOLDS_RH(character.65, address_book.1000)\", \"READ(address_book.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_163_1",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_16_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\"], \"output\": [\"NEXT_TO(character.65, coffee_table.1001)\", \"FACING(character.65, novel.1000)\", \"GRAB(novel.1000)\", \"HOLDS_RH(character.65, novel.1000)\", \"READ(novel.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_192_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"READ\"], \"output\": [\"NEXT_TO(character.65, novel.1000)\", \"FACING(character.65, novel.1000)\", \"GRAB(novel.1000)\", \"READ(novel.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_208_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1001)\",\n\"FACING(character.65, novel.1001)\",\n\"GRAB(novel.1001)\",\n\"HOLDS_RH(character.65, novel.1001)\",\n\"READ(novel.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_221_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1001)\",\n\"FACING(character.65, novel.1001)\",\n\"GRAB(novel.1001)\",\n\"HOLDS_RH(character.65, novel.1001)\",\n\"READ(novel.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_241_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"GRAB(novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_341_1",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, cupboard.229)\",\n\"OPEN(cupboard.229)\",\n\"HOLDS_RH(character.65, novel.1001)\",\n\"HOLDS_LH(character.65, spectacles.1003)\",\n\"READ(novel.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_484_1",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_504_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_508_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"READ\"], \"output\": [\"NEXT_TO(character.65, novel.1000)\", \"FACING(character.65, novel.1000)\", \"GRAB(novel.1000)\", \"HOLDS_RH(character.65, novel.1000)\", \"READ(novel.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_544_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"READ\"], \"output\": [\"NEXT_TO(character.65, novel.1000)\", \"FACING(character.65, novel.1000)\", \"GRAB(novel.1000)\", \"HOLDS_RH(character.65, novel.1000)\", \"READ(novel.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_57_1",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_617_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"OPEN\", \"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, nightstand.100)\",\n\"OPEN(nightstand.100)\",\n\"INSIDE(novel.1000, nightstand.100)\",\n\"GRAB(character.65, novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_628_1",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_688_2",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\", \"READ\"], \"output\": [\"NEXT_TO(character.65, novel.1000)\", \"FACING(character.65, novel.1000)\", \"HOLDS_RH(character.65, novel.1000)\", \"READ(novel.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_693_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, chair.103)\",\n\"ONTOP(character.65, chair.103)\",\n\"FACING(character.65, novel.1000)\",\n\"GRAB(novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_821_1",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, novel.1000)\",\n\"FACING(character.65, novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_86_1",
+        "llm_output": "{\"necessity_to_use_action\": \"yes\", \"actions_to_include\": [\"GRAB\"], \"output\": [\"NEXT_TO(character.65, filing_cabinet.399)\", \"OPEN(filing_cabinet.399)\", \"ONTOP(novel.1000, filing_cabinet.399)\", \"GRAB(novel.1000)\", \"HOLDS_RH(character.65, novel.1000)\", \"READ(novel.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_896_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, desk.357)\",\n\"FACING(character.65, novel.1000)\",\n\"GRAB(novel.1000)\",\n\"HOLDS_LH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_897_2",
+        "llm_output": "Here is the subgoal plan for the \"Read book\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"READ\"],\n\"output\": [\n\"NEXT_TO(character.65, table.355)\",\n\"ONTOP(character.65, chair.356)\",\n\"FACING(character.65, novel.1000)\",\n\"GRAB(novel.1000)\",\n\"HOLDS_RH(character.65, novel.1000)\",\n\"READ(novel.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_1083_2",
+        "llm_output": "Here is the subgoal plan for the \"Cook some food\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, oven.295)\",\n\"FACING(character.65, oven.295)\",\n\"PLUGGED_IN(oven.295) and CLOSED(oven.295)\",\n\"ON(oven.295)\",\n\"ONTOP(pot.1003, oven.295)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_392_2",
+        "llm_output": "Here is the subgoal plan for the \"Cook some food\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, freezer.289)\",\n\"OPEN(freezer.289)\",\n\"HOLDS_RH(character.65, pot.1001) or HOLDS_LH(character.65, pot.1001)\",\n\"REMOVE(pot.1001, freezer.289)\",\n\"NEXT_TO(character.65, oven.295)\",\n\"OPEN(oven.295)\",\n\"ONTOP(pot.1001, oven.295)\",\n\"CLOSE(oven.295)\",\n\"ON(oven.295)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_755_2",
+        "llm_output": "Here is the subgoal plan for the \"Cook some food\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_cabinet.1000)\",\n\"OPEN(kitchen_cabinet.1000)\",\n\"HOLDS_RH(character.65, pasta.1001) or HOLDS_LH(character.65, pasta.1001)\",\n\"NEXT_TO(character.65, sauce_pan.1003)\",\n\"ONTOP(pasta.1001, sauce_pan.1003)\",\n\"NEXT_TO(character.65, oven.295)\",\n\"OPEN(oven.295)\",\n\"ONTOP(sauce_pan.1003, oven.295)\",\n\"CLOSED(oven.295)\",\n\"ON(oven.295)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_124_1",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, couch.352)\",\n\"FACING(character.65, couch.352)\",\n\"SITTING(character.65) and ONTOP(character.65, couch.352)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_137_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_204_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_268_1",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_297_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"LYING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_299_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_300_1",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_321_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_332_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_379_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_387_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_390_2",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_3_1",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_416_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_438_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_442_1",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_447_2",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, couch.352)\",\n\"FACING(character.65, couch.352)\",\n\"SITTING(character.65)\",\n\"ONTOP(character.65, couch.352)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_449_1",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, couch.352)\",\n\"FACING(character.65, couch.352)\",\n\"ONTOP(character.65, couch.352)\",\n\"LYING(character.65)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_455_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_456_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_473_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_490_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_563_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_567_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"LYING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_570_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_674_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_6_1",
+        "llm_output": "Here is the subgoal plan for the \"Relax on sofa\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, couch.352)\",\n\"FACING(character.65, couch.352)\",\n\"SITTING(character.65) and ONTOP(character.65, couch.352)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_742_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_762_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_793_2",
+        "llm_output": "Here is the subgoal plan for the given task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, couch.352)\",\n\"FACING(character.65, couch.352)\",\n\"ONTOP(character.65, couch.352)\",\n\"LYING(character.65)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_798_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_932_2",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_941_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"FACING(character.65, couch.352)\", \"SITTING(character.65)\", \"ONTOP(character.65, couch.352)\"]}"
+    },
+    {
+        "identifier": "scene_1_96_1",
+        "llm_output": "Here is the subgoal plan for the task \"Relax on sofa\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"SITTING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_976_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, couch.352)\", \"ONTOP(character.65, couch.352)\", \"LYING(character.65)\"]}"
+    },
+    {
+        "identifier": "scene_1_149_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, table.355)\",\n\"FACING(character.65, phone.1000)\",\n\"HOLDS_RH(character.65, phone.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_154_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_180_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"PLUGGED_OUT(phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_195_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, table.355)\",\n\"FACING(character.65, phone.1000)\",\n\"HOLDS_RH(character.65, phone.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_211_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_241_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_264_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, desk.357)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_265_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, phone.1000)\",\n\"FACING(character.65, phone.1000)\",\n\"HOLDS_RH(character.65, phone.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_287_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_352_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, table.226)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_360_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_388_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_431_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_436_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_442_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_474_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_482_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_497_1",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_553_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_601_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.247)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_70_1",
+        "llm_output": "Here is the subgoal plan for the \"Pick up phone\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, desk.357)\",\n\"FACING(character.65, phone.1000)\",\n\"PLUGGED_IN(phone.1000)\",\n\"ONTOP(phone.1000, desk.357)\",\n\"HOLDS_RH(character.65, phone.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_864_2",
+        "llm_output": "Here is the subgoal plan for the task \"Pick up phone\":\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, phone.1000)\",\n\"FACING(character.65, phone.1000)\",\n\"HOLDS_RH(character.65, phone.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_963_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_974_1",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, phone.1000)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_976_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, desk.357)\", \"FACING(character.65, phone.1000)\", \"HOLDS_RH(character.65, phone.1000)\"]}"
+    },
+    {
+        "identifier": "scene_1_99_2",
+        "llm_output": "{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, table.226)\", \"FACING(character.65, phone.247)\", \"HOLDS_RH(character.65, phone.247)\"]}"
+    },
+    {
+        "identifier": "scene_1_183_2",
+        "llm_output": "Here is the subgoal plan for the \"Make coffee\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"POUR\"],\n\"output\": [\n\"NEXT_TO(character.65, coffe_maker.290)\",\n\"FACING(character.65, coffe_maker.290)\",\n\"OPEN(coffe_maker.290)\",\n\"HOLDS_RH(character.65, ground_coffee.1001) and ONTOP(ground_coffee.1001, coffe_maker.290)\",\n\"HOLDS_LH(character.65, coffee_filter.1000) and ONTOP(coffee_filter.1000, coffe_maker.290)\",\n\"CLOSE(coffe_maker.290)\",\n\"POUR(water.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_229_1",
+        "llm_output": "Here is the subgoal plan for the \"Make coffee\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"MOVE\", \"OPEN\", \"CLOSE\", \"POUR\", \"SWITCHON\"],\n\"output\": [\n\"NEXT_TO(character.65, coffe_maker.290)\",\n\"FACING(character.65, coffe_maker.290)\",\n\"OPEN(coffe_maker.290)\",\n\"ONTOP(coffee_filter.1000, coffe_maker.290)\",\n\"ONTOP(ground_coffee.1001, coffe_maker.290)\",\n\"CLOSE(coffe_maker.290)\",\n\"PLUGGED_IN(coffe_maker.290)\",\n\"POUR(water.1002, coffe_maker.290)\",\n\"SWITCHON(coffe_maker.290)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_310_2",
+        "llm_output": "Here is the subgoal plan for the \"Make coffee\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"POUR\"],\n\"output\": [\n\"NEXT_TO(character.65, coffe_maker.290)\",\n\"FACING(character.65, coffe_maker.290)\",\n\"OPEN(coffe_maker.290)\",\n\"HOLDS_RH(character.65, ground_coffee.1001) and ONTOP(ground_coffee.1001, coffe_maker.290)\",\n\"HOLDS_LH(character.65, coffee_filter.1000) and ONTOP(coffee_filter.1000, coffe_maker.290)\",\n\"CLOSED(coffe_maker.290)\",\n\"POUR(water.1002)\",\n\"ON(coffe_maker.290)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_721_2",
+        "llm_output": "Here is the subgoal plan for the \"Make coffee\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"POUR\"],\n\"output\": [\n\"NEXT_TO(character.65, coffe_maker.290)\",\n\"FACING(character.65, coffe_maker.290)\",\n\"OPEN(coffe_maker.290)\",\n\"ONTOP(coffee_filter.1001, coffe_maker.290)\",\n\"ONTOP(ground_coffee.1002, coffe_maker.290)\",\n\"PLUGGED_IN(coffe_maker.290)\",\n\"POUR(water.1000)\",\n\"CLOSED(coffe_maker.290)\",\n\"ON(coffe_maker.290)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_764_2",
+        "llm_output": "Here is the subgoal plan for the \"Make coffee\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"POUR\"],\n\"output\": [\n\"NEXT_TO(character.65, coffe_maker.290)\",\n\"FACING(character.65, coffe_maker.290)\",\n\"OPEN(coffe_maker.290)\",\n\"HOLDS_RH(character.65, ground_coffee.1001) and ONTOP(ground_coffee.1001, coffe_maker.290)\",\n\"HOLDS_LH(character.65, coffee_filter.1000) and ONTOP(coffee_filter.1000, coffe_maker.290)\",\n\"CLOSE(coffe_maker.290)\",\n\"POUR(water.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_419_2",
+        "llm_output": "Here is the subgoal plan for the \"Set up table\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, table.226)\",\n\"FACING(character.65, table.226)\",\n\"HOLDS_RH(character.65, cloth_napkin.1001) or HOLDS_LH(character.65, cloth_napkin.1001)\",\n\"ONTOP(cloth_napkin.1001, table.226)\",\n\"HOLDS_RH(character.65, knife.1003) or HOLDS_LH(character.65, knife.1003)\",\n\"ONTOP(knife.1003, table.226)\",\n\"HOLDS_RH(character.65, plate.1002) or HOLDS_LH(character.65, plate.1002)\",\n\"ONTOP(plate.1002, table.226)\",\n\"HOLDS_RH(character.65, cup.1005) or HOLDS_LH(character.65, cup.1005)\",\n\"ONTOP(cup.1005, table.226)\",\n\"HOLDS_RH(character.65, fork.1004) or HOLDS_LH(character.65, fork.1004)\",\n\"ONTOP(fork.1004, table.226)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_446_2",
+        "llm_output": "Here is the subgoal plan for the \"Set up table\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"INSIDE(character.65, dining_room.201)\",\n\"OPEN(cupboard.229)\",\n\"HOLDS_RH(character.65, plate.1000) or HOLDS_LH(character.65, plate.1000)\",\n\"ONTOP(plate.1000, table.226)\",\n\"HOLDS_RH(character.65, plate.1001) or HOLDS_LH(character.65, plate.1001)\",\n\"ONTOP(plate.1001, table.226)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_710_2",
+        "llm_output": "Here is the subgoal plan for the \"Set up table\" task:\n\n{\n\"necessity_to_use_action\": \"no\",\n\"actions_to_include\": [],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_cabinet.1000)\",\n\"OPEN(kitchen_cabinet.1000)\",\n\"HOLDS_RH(character.65, plate.1001) or HOLDS_LH(character.65, plate.1001)\",\n\"NEXT_TO(character.65, table.226)\",\n\"ONTOP(plate.1001, table.226)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_368_1",
+        "llm_output": "Here is the subgoal plan for the task \"Get some water\":\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"NEXT_TO(character.65, dining_room.201)\", \"FACING(character.65, dining_room.201)\", \"INSIDE(character.65, dining_room.201)\"]}"
+    },
+    {
+        "identifier": "scene_1_729_2",
+        "llm_output": "{\n    \"necessity_to_use_action\": \"no\",\n    \"actions_to_include\": [],\n    \"output\": [\n        \"INSIDE(character.65, bathroom.1)\",\n        \"NEXT_TO(character.65, shower.36)\"\n    ]\n}"
+    },
+    {
+        "identifier": "scene_1_975_2",
+        "llm_output": "Here is the subgoal plan for the \"Take shower\" task:\n\n{\"necessity_to_use_action\": \"no\", \"actions_to_include\": [], \"output\": [\"INSIDE(character.65, bathroom.1)\", \"NEXT_TO(character.65, shower.36)\"]}"
+    },
+    {
+        "identifier": "scene_1_231_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, plate.1000)\",\n\"HOLDS_RH(character.65, plate.1000)\",\n\"NEXT_TO(character.65, dish_soap.1001)\",\n\"HOLDS_LH(character.65, dish_soap.1001)\",\n\"NEXT_TO(character.65, water.1002)\",\n\"WASH(plate.1000)\",\n\"RINSE(plate.1000)\",\n\"SCRUB(plate.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_31_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, kitchen_counter.230)\",\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"OPEN(faucet.232)\",\n\"HOLDS_RH(character.65, sponge.1002) or HOLDS_LH(character.65, sponge.1002)\",\n\"HOLDS_RH(character.65, dish_soap.1000) or HOLDS_LH(character.65, dish_soap.1000)\",\n\"WASH(plate.1004) or RINSE(plate.1004) or SCRUB(plate.1004)\",\n\"ONTOP(plate.1004, dishrack.1003)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_349_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, faucet.232)\",\n\"FACING(character.65, faucet.232)\",\n\"OPEN(faucet.232)\",\n\"HOLDS_RH(character.65, plate.1001)\",\n\"WASH(plate.1001) or RINSE(plate.1001) or SCRUB(plate.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_397_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, dish_soap.1000)\",\n\"HOLDS_RH(character.65, dish_soap.1000)\",\n\"NEXT_TO(character.65, plate.1001)\",\n\"HOLDS_LH(character.65, plate.1001)\",\n\"WASH(plate.1001) or RINSE(plate.1001) or SCRUB(plate.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_429_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"GRAB(dish_soap.1001)\",\n\"WASH(sink.231) or RINSE(sink.231) or SCRUB(sink.231)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_553_2",
+        "llm_output": "Here is the subgoal plan for the \"Wash dishes by hand\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"OPEN(cupboard.229)\",\n\"HOLDS_RH(character.65, soap.1001) and HOLDS_LH(character.65, plate.1000)\",\n\"WASH(plate.1000) or RINSE(plate.1000) or SCRUB(plate.1000)\",\n\"CLEAN(plate.1000)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_594_2",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.42)\",\n\"FACING(character.65, sink.42)\",\n\"HOLDS_RH(character.65, dish_soap.1000)\",\n\"HOLDS_LH(character.65, plate.1001)\",\n\"WASH(plate.1001) or RINSE(plate.1001) or SCRUB(plate.1001)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_746_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"FACING(character.65, sink.231)\",\n\"HOLDS_RH(character.65, sponge.1002) and HOLDS_LH(character.65, dish_soap.1000)\",\n\"OPEN(sink.231) and PLUGGED_IN(water.1001)\",\n\"WASH(drinking_glass.1003) or RINSE(drinking_glass.1003) or SCRUB(drinking_glass.1003)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_961_1",
+        "llm_output": "Here is the subgoal plan for the \"Wash dishes by hand\" task:\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, sink.231)\",\n\"OPEN(sink.231)\",\n\"PLUGGED_IN(sink.231)\",\n\"ONTOP(plate.1000, kitchen_counter.230)\",\n\"GRAB(character.65, plate.1000)\",\n\"NEXT_TO(character.65, sink.231)\",\n\"WASH(plate.1000) or RINSE(plate.1000) or SCRUB(plate.1000)\",\n\"ONTOP(plate.1000, dishrack.1002)\"\n]\n}"
+    },
+    {
+        "identifier": "scene_1_988_1",
+        "llm_output": "Here is the subgoal plan for the task \"Wash dishes by hand\":\n\n{\n\"necessity_to_use_action\": \"yes\",\n\"actions_to_include\": [\"GRAB\", \"WASH\", \"RINSE\", \"SCRUB\"],\n\"output\": [\n\"NEXT_TO(character.65, bowl.1001)\",\n\"FACING(character.65, bowl.1001)\",\n\"HOLDS_RH(character.65, bowl.1001) or HOLDS_LH(character.65, bowl.1001)\",\n\"ON(faucet.232)\",\n\"WASH(bowl.1001) or RINSE(bowl.1001) or SCRUB(bowl.1001)\"\n]\n}"
+    }
+]

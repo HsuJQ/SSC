@@ -1,0 +1,402 @@
+[
+    {
+        "identifier": "assembling_gift_baskets_0_Beechwood_0_int_0_2021-10-26_12-46-37",
+        "llm_output": "{\"node goals\": [[\"Stained\", \"basket.n.01_1\"], [\"Stained\", \"basket.n.01_2\"], [\"Stained\", \"basket.n.01_3\"], [\"Stained\", \"basket.n.01_4\"]], \"edge goals\": [[\"inside\", \"candle.n.01_1\", \"basket.n.01_1\"], [\"inside\", \"cheese.n.01_1\", \"basket.n.01_1\"], [\"inside\", \"cookie.n.01_1\", \"basket.n.01_1\"], [\"inside\", \"bow.n.08_1\", \"basket.n.01_1\"], [\"inside\", \"candle.n.01_2\", \"basket.n.01_2\"], [\"inside\", \"cheese.n.01_2\", \"basket.n.01_2\"], [\"inside\", \"cookie.n.01_2\", \"basket.n.01_2\"], [\"inside\", \"bow.n.08_2\", \"basket.n.01_2\"], [\"inside\", \"candle.n.01_3\", \"basket.n.01_3\"], [\"inside\", \"cheese.n.01_3\", \"basket.n.01_3\"], [\"inside\", \"cookie.n.01_3\", \"basket.n.01_3\"], [\"inside\", \"bow.n.08_3\", \"basket.n.01_3\"], [\"inside\", \"candle.n.01_4\", \"basket.n.01_4\"], [\"inside\", \"cheese.n.01_4\", \"basket.n.01_4\"], [\"inside\", \"cookie.n.01_4\", \"basket.n.01_4\"], [\"inside\", \"bow.n.08_4\", \"basket.n.01_4\"]]}"
+    },
+    {
+        "identifier": "bottling_fruit_0_Wainscott_0_int_0_2021-05-24_19-46-46",
+        "llm_output": "{\"node goals\": [[\"Sliced\", \"strawberry.n.01_1\"], [\"Sliced\", \"peach.n.03_1\"], [\"Open\", \"jar.n.01_1\"], [\"Open\", \"jar.n.01_2\"]], \"edge goals\": [[\"inside\", \"strawberry.n.01_1\", \"jar.n.01_1\"], [\"inside\", \"peach.n.03_1\", \"jar.n.01_2\"], [\"not\", [\"Open\", \"jar.n.01_1\"]], [\"not\", [\"Open\", \"jar.n.01_2\"]]]}"
+    },
+    {
+        "identifier": "boxing_books_up_for_storage_0_Benevolence_1_int_0_2021-09-10_15-35-47",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"book.n.02_1\"]], [\"not\", [\"Dusty\", \"book.n.02_2\"]], [\"not\", [\"Dusty\", \"book.n.02_3\"]], [\"not\", [\"Dusty\", \"book.n.02_4\"]], [\"not\", [\"Dusty\", \"book.n.02_5\"]], [\"not\", [\"Dusty\", \"book.n.02_6\"]], [\"not\", [\"Dusty\", \"book.n.02_7\"]], [\"Open\", \"carton.n.02_1\"]], \"edge goals\": [[\"Inside\", \"book.n.02_1\", \"carton.n.02_1\"], [\"Inside\", \"book.n.02_2\", \"carton.n.02_1\"], [\"Inside\", \"book.n.02_3\", \"carton.n.02_1\"], [\"Inside\", \"book.n.02_4\", \"carton.n.02_1\"], [\"Inside\", \"book.n.02_5\", \"carton.n.02_1\"], [\"Inside\", \"book.n.02_6\", \"carton.n.02_1\"], [\"Inside\", \"book.n.02_7\", \"carton.n.02_1\"]]}"
+    },
+    {
+        "identifier": "bringing_in_wood_0_Benevolence_1_int_0_2021-09-15_18-42-25",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"plywood.n.01_1\"]], [\"not\", [\"Stained\", \"plywood.n.01_2\"]], [\"not\", [\"Stained\", \"plywood.n.01_3\"]]], \"edge goals\": [[\"not\", [\"onfloor\", \"plywood.n.01_1\", \"floor.n.01_1\"]], [\"not\", [\"onfloor\", \"plywood.n.01_2\", \"floor.n.01_1\"]], [\"not\", [\"onfloor\", \"plywood.n.01_3\", \"floor.n.01_1\"]]]}"
+    },
+    {
+        "identifier": "brushing_lint_off_clothing_0_Pomaria_2_int_0_2021-06-04_17-41-56",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"sweater.n.01_1\"]], [\"not\", [\"Dusty\", \"sweater.n.01_2\"]], [\"not\", [\"Dusty\", \"sweater.n.01_3\"]], [\"not\", [\"Dusty\", \"sweater.n.01_4\"]]], \"edge goals\": [[\"ontop\", \"sweater.n.01_1\", \"bed.n.01_1\"], [\"ontop\", \"sweater.n.01_2\", \"bed.n.01_1\"], [\"ontop\", \"sweater.n.01_3\", \"bed.n.01_1\"], [\"ontop\", \"sweater.n.01_4\", \"bed.n.01_1\"]]}"
+    },
+    {
+        "identifier": "chopping_vegetables_0_Rs_int_0_2021-05-25_22-01-16",
+        "llm_output": "{\"node goals\": [[\"Sliced\", \"tomato.n.01_1\"], [\"Sliced\", \"tomato.n.01_2\"], [\"Sliced\", \"mushroom.n.05_1\"], [\"Sliced\", \"mushroom.n.05_2\"], [\"Sliced\", \"chestnut.n.03_1\"], [\"Sliced\", \"chestnut.n.03_2\"], [\"Sliced\", \"vidalia_onion.n.01_1\"], [\"Sliced\", \"vidalia_onion.n.01_2\"]], \"edge goals\": [[\"inside\", \"tomato.n.01_1\", \"dish.n.01_1\"], [\"inside\", \"tomato.n.01_2\", \"dish.n.01_1\"], [\"inside\", \"mushroom.n.05_1\", \"dish.n.01_2\"], [\"inside\", \"mushroom.n.05_2\", \"dish.n.01_2\"], [\"inside\", \"chestnut.n.03_1\", \"dish.n.01_1\"], [\"inside\", \"chestnut.n.03_2\", \"dish.n.01_1\"], [\"inside\", \"vidalia_onion.n.01_1\", \"dish.n.01_2\"], [\"inside\", \"vidalia_onion.n.01_2\", \"dish.n.01_2\"]]}"
+    },
+    {
+        "identifier": "cleaning_a_car_0_Ihlen_0_int_0_2021-09-11_16-37-11",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"car.n.01_1\"]], [\"Soaked\", \"rag.n.01_1\"]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_barbecue_grill_0_Ihlen_0_int_0_2021-09-10_16-02-39",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"grill.n.02_1\"]], [\"not\", [\"Dusty\", \"grill.n.02_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_bathrooms_0_Benevolence_0_int_1_2021-06-12_19-33-28",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"sink.n.01_1\"]], [\"not\", [\"Stained\", \"bathtub.n.01_1\"]], [\"not\", [\"Stained\", \"toilet.n.02_1\"]], [\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"Soaked\", \"rag.n.01_1\"]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_bathtub_0_Pomaria_0_int_0_2021-09-10_16-22-10",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"bathtub.n.01_1\"]], [\"Soaked\", \"scrub_brush.n.01_1\"]], \"edge goals\": [[\"Inside\", \"scrub_brush.n.01_1\", \"bathtub.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_bedroom_0_Benevolence_2_int_0_2021-06-06_18-10-59",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"cabinet.n.01_1\"]], [\"not\", [\"Dusty\", \"cabinet.n.01_2\"]], [\"not\", [\"Stained\", \"sheet.n.03_1\"]], [\"not\", [\"Dusty\", \"painting.n.01_1\"]], [\"not\", [\"Dusty\", \"vacuum.n.04_1\"]]], \"edge goals\": [[\"Inside\", \"apparel.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"apparel.n.01_2\", \"cabinet.n.01_1\"], [\"Inside\", \"jewelry.n.01_1\", \"cabinet.n.01_2\"], [\"Inside\", \"perfume.n.02_1\", \"cabinet.n.01_2\"], [\"OnTop\", \"sheet.n.03_1\", \"bed.n.01_1\"], [\"OnTop\", \"painting.n.01_1\", \"bed.n.01_1\"], [\"NextTo\", \"vacuum.n.04_1\", \"bed.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_carpets_0_Wainscott_1_int_0_2021-09-11_01-12-41",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"not\", [\"Stained\", \"floor.n.01_2\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_closet_0_Beechwood_1_int_0_2021-10-25_19-50-32",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"cabinet.n.01_3\"]], [\"not\", [\"Dusty\", \"shelf.n.01_1\"]], [\"not\", [\"Dusty\", \"floor.n.01_1\"]]], \"edge goals\": [[\"Inside\", \"jewelry.n.01_1\", \"cabinet.n.01_3\"], [\"Inside\", \"jewelry.n.01_2\", \"cabinet.n.01_3\"], [\"not\", [\"Inside\", \"umbrella.n.01_1\", \"cabinet.n.01_3\"]], [\"Inside\", \"hat.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"hat.n.01_1\", \"shelf.n.01_1\"], [\"NextTo\", \"sandal.n.01_1\", \"shelf.n.01_1\"], [\"NextTo\", \"sandal.n.01_2\", \"shelf.n.01_1\"], [\"OnFloor\", \"sandal.n.01_1\", \"floor.n.01_1\"], [\"OnFloor\", \"sandal.n.01_2\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_cupboards_0_Wainscott_1_int_1_2021-08-25_16-40-44",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"cabinet.n.01_1\"]], [\"not\", [\"Dusty\", \"cabinet.n.01_2\"]], [\"not\", [\"Dusty\", \"cabinet.n.01_3\"]], [\"inside\", \"screwdriver.n.01_1\", \"bin.n.01_1\"], [\"inside\", \"pen.n.01_1\", \"bucket.n.01_1\"], [\"inside\", \"marker.n.03_1\", \"bucket.n.01_1\"], [\"inside\", \"marker.n.03_2\", \"bucket.n.01_1\"]], \"edge goals\": [[\"not\", [\"inside\", \"book.n.02_1\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"book.n.02_2\", \"cabinet.n.01_2\"]], [\"not\", [\"inside\", \"book.n.02_3\", \"cabinet.n.01_2\"]]]}"
+    },
+    {
+        "identifier": "cleaning_floors_0_Merom_0_int_1_2021-06-23_16-12-28",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"floor.n.01_1\"]], [\"not\", [\"Stained\", \"floor.n.01_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_freezer_0_Pomaria_1_int_0_2021-10-26_12-59-25",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"Frozen\", \"food.n.01_1\"]], [\"not\", [\"Frozen\", \"food.n.01_2\"]], [\"not\", [\"Frozen\", \"food.n.01_3\"]], [\"not\", [\"Frozen\", \"cleansing_agent.n.01_1\"]]], \"edge goals\": [[\"not\", [\"Inside\", \"food.n.01_1\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"Inside\", \"food.n.01_2\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"Inside\", \"food.n.01_3\", \"electric_refrigerator.n.01_1\"]]]}"
+    },
+    {
+        "identifier": "cleaning_garage_0_Ihlen_0_int_0_2021-08-24_17-40-48",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"floor.n.01_1\"]], [\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"not\", [\"Dusty\", \"cabinet.n.01_1\"]], [\"not\", [\"Stained\", \"cabinet.n.01_1\"]]], \"edge goals\": [[\"Inside\", \"newspaper.n.03_1\", \"bin.n.01_1\"], [\"Inside\", \"newspaper.n.03_2\", \"bin.n.01_1\"], [\"OnFloor\", \"newspaper.n.03_1\", \"floor.n.01_1\"], [\"OnFloor\", \"newspaper.n.03_2\", \"floor.n.01_1\"], [\"OnTop\", \"bottle.n.01_1\", \"table.n.02_1\"], [\"OnTop\", \"bottle.n.01_2\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_high_chair_0_Wainscott_0_int_0_2021-06-05_18-03-15",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"highchair.n.01_1\"]], [\"not\", [\"Dusty\", \"highchair.n.01_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_kitchen_cupboard_0_Pomaria_1_int_0_2021-10-26_13-05-36",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"cabinet.n.01_1\"]], [\"not\", [\"Dusty\", \"cabinet.n.01_2\"]]], \"edge goals\": [[\"Inside\", \"bowl.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"bowl.n.01_2\", \"cabinet.n.01_1\"], [\"Inside\", \"cup.n.01_1\", \"cabinet.n.01_2\"], [\"Inside\", \"cup.n.01_2\", \"cabinet.n.01_2\"]]}"
+    },
+    {
+        "identifier": "cleaning_microwave_oven_0_Benevolence_1_int_0_2021-09-11_01-27-10",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"microwave.n.02_1\"]], [\"not\", [\"Dusty\", \"microwave.n.02_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_out_drawers_0_Benevolence_1_int_0_2021-10-20_05-03-27",
+        "llm_output": "{\"node goals\": [[\"not\", [\"inside\", \"bowl.n.01_1\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"bowl.n.01_2\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"spoon.n.01_1\", \"cabinet.n.01_2\"]], [\"not\", [\"inside\", \"spoon.n.01_2\", \"cabinet.n.01_2\"]], [\"not\", [\"inside\", \"piece_of_cloth.n.01_1\", \"cabinet.n.01_1\"]]], \"edge goals\": [[\"NextTo\", \"bowl.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"bowl.n.01_2\", \"sink.n.01_1\"], [\"NextTo\", \"spoon.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"spoon.n.01_2\", \"sink.n.01_1\"], [\"NextTo\", \"piece_of_cloth.n.01_1\", \"sink.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_oven_0_Benevolence_1_int_0_2021-09-11_12-20-40",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"oven.n.01_1\"]], [\"Soaked\", \"rag.n.01_1\"], [\"Soaked\", \"rag.n.01_2\"], [\"Soaked\", \"scrub_brush.n.01_1\"]], \"edge goals\": [[\"not\", [\"inside\", \"rag.n.01_1\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"rag.n.01_2\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"scrub_brush.n.01_1\", \"cabinet.n.01_1\"]]]}"
+    },
+    {
+        "identifier": "cleaning_shoes_0_Pomaria_2_int_0_2021-09-11_13-59-22",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"shoe.n.01_1\"]], [\"not\", [\"Stained\", \"shoe.n.01_2\"]], [\"not\", [\"Dusty\", \"shoe.n.01_3\"]], [\"not\", [\"Dusty\", \"shoe.n.01_4\"]], [\"Soaked\", \"towel.n.01_1\"]], \"edge goals\": [[\"onfloor\", \"towel.n.01_1\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_sneakers_0_Pomaria_1_int_0_2021-10-26_13-36-08",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"gym_shoe.n.01_1\"]], [\"not\", [\"Stained\", \"gym_shoe.n.01_2\"]], [\"not\", [\"Dusty\", \"gym_shoe.n.01_3\"]], [\"not\", [\"Dusty\", \"gym_shoe.n.01_4\"]], [\"Soaked\", \"towel.n.01_1\"], [\"Soaked\", \"brush.n.02_1\"], [\"ToggledOn\", \"sink.n.01_1\"]], \"edge goals\": [[\"OnTop\", \"towel.n.01_1\", \"countertop.n.01_1\"], [\"NextTo\", \"brush.n.02_1\", \"towel.n.01_1\"], [\"Inside\", \"soap.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"gym_shoe.n.01_1\", \"table.n.02_1\"], [\"NextTo\", \"gym_shoe.n.01_2\", \"table.n.02_1\"], [\"Under\", \"gym_shoe.n.01_3\", \"table.n.02_1\"], [\"Under\", \"gym_shoe.n.01_4\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_stove_0_Wainscott_0_int_0_2021-09-11_12-51-07",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"stove.n.01_1\"]], [\"not\", [\"Dusty\", \"stove.n.01_1\"]], [\"Soaked\", \"rag.n.01_1\"], [\"Soaked\", \"dishtowel.n.01_1\"]], \"edge goals\": [[\"NextTo\", \"rag.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"dishtowel.n.01_1\", \"sink.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_table_after_clearing_0_Merom_1_int_0_2021-06-06_19-48-44",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"table.n.02_1\"]], [\"not\", [\"Dusty\", \"table.n.02_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "cleaning_the_hot_tub_0_Ihlen_0_int_0_2021-08-24_22-19-07",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"pool.n.01_1\"]], [\"Soaked\", \"scrub_brush.n.01_1\"], [\"ToggledOn\", \"sink.n.01_1\"]], \"edge goals\": [[\"OnFloor\", \"scrub_brush.n.01_1\", \"floor.n.01_1\"], [\"OnFloor\", \"pool.n.01_1\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_the_pool_0_Ihlen_0_int_0_2021-06-01_15-30-31",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"pool.n.01_1\"]], [\"Soaked\", \"scrub_brush.n.01_1\"], [\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"not\", [\"Dusty\", \"floor.n.01_1\"]], [\"not\", [\"Stained\", \"scrub_brush.n.01_1\"]], [\"not\", [\"Dusty\", \"scrub_brush.n.01_1\"]], [\"not\", [\"Stained\", \"shelf.n.01_1\"]], [\"not\", [\"Dusty\", \"shelf.n.01_1\"]], [\"onfloor\", \"detergent.n.02_1\", \"floor.n.01_1\"]], \"edge goals\": [[\"ontop\", \"scrub_brush.n.01_1\", \"shelf.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_toilet_0_Merom_0_int_1_2021-06-23_17-35-48",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"toilet.n.02_1\"]], [\"Soaked\", \"scrub_brush.n.01_1\"]], \"edge goals\": [[\"OnFloor\", \"scrub_brush.n.01_1\", \"floor.n.01_1\"], [\"OnFloor\", \"detergent.n.02_1\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_up_after_a_meal_0_Wainscott_0_int_0_2021-10-20_05-33-24",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"bowl.n.01_1\"]], [\"not\", [\"Stained\", \"bowl.n.01_2\"]], [\"not\", [\"Stained\", \"plate.n.04_1\"]], [\"not\", [\"Stained\", \"plate.n.04_2\"]], [\"not\", [\"Stained\", \"plate.n.04_3\"]], [\"not\", [\"Stained\", \"plate.n.04_4\"]], [\"not\", [\"Stained\", \"cup.n.01_1\"]], [\"not\", [\"Stained\", \"cup.n.01_2\"]], [\"not\", [\"Stained\", \"chair.n.01_1\"]], [\"not\", [\"Stained\", \"chair.n.01_2\"]], [\"not\", [\"Stained\", \"table.n.02_1\"]], [\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"not\", [\"Stained\", \"floor.n.01_2\"]]], \"edge goals\": [[\"inside\", \"hamburger.n.01_1\", \"sack.n.01_1\"], [\"inside\", \"hamburger.n.01_2\", \"sack.n.01_1\"], [\"onfloor\", \"sack.n.01_1\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_up_refrigerator_0_Wainscott_0_int_1_2021-06-23_17-46-01",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"tray.n.01_1\"]], [\"not\", [\"Stained\", \"tray.n.01_2\"]], [\"not\", [\"Stained\", \"bowl.n.01_1\"]], [\"not\", [\"Stained\", \"electric_refrigerator.n.01_1\"]], [\"Soaked\", \"rag.n.01_1\"], [\"Soaked\", \"rag.n.01_2\"]], \"edge goals\": [[\"Inside\", \"tray.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"tray.n.01_2\", \"electric_refrigerator.n.01_1\"], [\"NextTo\", \"rag.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"bowl.n.01_1\", \"sink.n.01_1\"], [\"Inside\", \"soap.n.01_1\", \"sink.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_up_the_kitchen_only_0_Pomaria_1_int_0_2021-10-26_00-50-16",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"plate.n.04_1\"]], [\"not\", [\"Dusty\", \"cabinet.n.01_1\"]], [\"not\", [\"Dusty\", \"cabinet.n.01_2\"]], [\"not\", [\"Dusty\", \"floor.n.01_1\"]], [\"not\", [\"Stained\", \"cabinet.n.01_1\"]], [\"not\", [\"Stained\", \"cabinet.n.01_2\"]], [\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"Soaked\", \"rag.n.01_1\"]], \"edge goals\": [[\"Inside\", \"vegetable_oil.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"plate.n.04_1\", \"cabinet.n.01_2\"], [\"Inside\", \"apple.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"casserole.n.02_1\", \"electric_refrigerator.n.01_1\"], [\"OnFloor\", \"blender.n.01_1\", \"countertop.n.01_1\"], [\"NextTo\", \"soap.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"rag.n.01_1\", \"sink.n.01_1\"]]}"
+    },
+    {
+        "identifier": "cleaning_windows_0_Wainscott_0_int_0_2021-05-23_23-07-05",
+        "llm_output": "{\"node goals\": [[\"Soaked\", \"rag.n.01_1\"], [\"Soaked\", \"rag.n.01_2\"], [\"not\", [\"Dusty\", \"window.n.01_1\"]], [\"not\", [\"Dusty\", \"window.n.01_2\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "clearing_the_table_after_dinner_0_Ihlen_0_int_0_2021-10-25_23-01-51",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"inside\", \"cup.n.01_1\", \"bucket.n.01_1\"], [\"inside\", \"cup.n.01_1\", \"bucket.n.01_2\"], [\"inside\", \"cup.n.01_2\", \"bucket.n.01_1\"], [\"inside\", \"cup.n.01_2\", \"bucket.n.01_2\"], [\"inside\", \"bowl.n.01_1\", \"bucket.n.01_1\"], [\"inside\", \"bowl.n.01_1\", \"bucket.n.01_2\"], [\"inside\", \"bowl.n.01_2\", \"bucket.n.01_1\"], [\"inside\", \"bowl.n.01_2\", \"bucket.n.01_2\"], [\"inside\", \"bowl.n.01_3\", \"bucket.n.01_1\"], [\"inside\", \"bowl.n.01_3\", \"bucket.n.01_2\"], [\"inside\", \"bowl.n.01_4\", \"bucket.n.01_1\"], [\"inside\", \"bowl.n.01_4\", \"bucket.n.01_2\"], [\"inside\", \"catsup.n.01_1\", \"bucket.n.01_1\"], [\"inside\", \"catsup.n.01_1\", \"bucket.n.01_2\"]]}"
+    },
+    {
+        "identifier": "collect_misplaced_items_0_Wainscott_0_int_1_2021-10-26_18-48-11",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"gym_shoe.n.01_1\"]], [\"not\", [\"Dusty\", \"gym_shoe.n.01_1\"]], [\"not\", [\"Stained\", \"necklace.n.01_1\"]], [\"not\", [\"Dusty\", \"necklace.n.01_1\"]], [\"not\", [\"Dusty\", \"notebook.n.01_1\"]], [\"not\", [\"Stained\", \"sock.n.01_1\"]], [\"not\", [\"Dusty\", \"sock.n.01_1\"]], [\"not\", [\"Stained\", \"sock.n.01_2\"]], [\"not\", [\"Dusty\", \"sock.n.01_2\"]]], \"edge goals\": [[\"ontop\", \"gym_shoe.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"necklace.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"notebook.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"sock.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"sock.n.01_2\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "collecting_aluminum_cans_0_Ihlen_1_int_0_2021-06-06_20-13-28",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Frozen\", \"pop.n.02_1\"]], [\"not\", [\"Frozen\", \"pop.n.02_2\"]], [\"not\", [\"Frozen\", \"pop.n.02_3\"]], [\"not\", [\"Frozen\", \"pop.n.02_4\"]], [\"not\", [\"Frozen\", \"pop.n.02_5\"]], [\"not\", [\"Frozen\", \"pop.n.02_6\"]]], \"edge goals\": [[\"inside\", \"pop.n.02_1\", \"bucket.n.01_1\"], [\"inside\", \"pop.n.02_2\", \"bucket.n.01_1\"], [\"inside\", \"pop.n.02_3\", \"bucket.n.01_1\"], [\"inside\", \"pop.n.02_4\", \"bucket.n.01_1\"], [\"inside\", \"pop.n.02_5\", \"bucket.n.01_1\"], [\"inside\", \"pop.n.02_6\", \"bucket.n.01_1\"]]}"
+    },
+    {
+        "identifier": "defrosting_freezer_0_Beechwood_0_int_0_2021-10-25_23-10-43",
+        "llm_output": "{\"node goals\": [[\"Soaked\", \"rag.n.01_1\"]], \"edge goals\": [[\"NextTo\", \"receptacle.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"NextTo\", \"bucket.n.01_1\", \"countertop.n.01_1\"], [\"OnTop\", \"scraper.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"OnTop\", \"towel.n.01_1\", \"countertop.n.01_1\"], [\"Inside\", \"rag.n.01_1\", \"sink.n.01_1\"], [\"Inside\", \"food.n.02_1\", \"bucket.n.01_1\"], [\"Inside\", \"food.n.02_2\", \"bucket.n.01_1\"], [\"Inside\", \"food.n.02_3\", \"bucket.n.01_1\"]]}"
+    },
+    {
+        "identifier": "filling_a_Christmas_stocking_0_Rs_int_0_2021-06-04_18-47-42",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"inside\", \"cube.n.05_1\", \"stocking.n.01_1\"], [\"inside\", \"candy.n.01_1\", \"stocking.n.01_1\"], [\"inside\", \"pen.n.01_1\", \"stocking.n.01_1\"], [\"inside\", \"cube.n.05_2\", \"stocking.n.01_2\"], [\"inside\", \"candy.n.01_2\", \"stocking.n.01_2\"], [\"inside\", \"pen.n.01_2\", \"stocking.n.01_2\"], [\"inside\", \"cube.n.05_3\", \"stocking.n.01_3\"], [\"inside\", \"candy.n.01_3\", \"stocking.n.01_3\"], [\"inside\", \"pen.n.01_3\", \"stocking.n.01_3\"], [\"inside\", \"cube.n.05_4\", \"stocking.n.01_4\"], [\"inside\", \"candy.n.01_4\", \"stocking.n.01_4\"], [\"inside\", \"pen.n.01_4\", \"stocking.n.01_4\"]]}"
+    },
+    {
+        "identifier": "filling_an_Easter_basket_0_Benevolence_1_int_1_2021-09-10_00-09-54",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"inside\", \"egg.n.02_1\", \"basket.n.01_1\"], [\"inside\", \"egg.n.02_2\", \"basket.n.01_1\"], [\"inside\", \"candy.n.01_1\", \"basket.n.01_1\"], [\"inside\", \"candy.n.01_2\", \"basket.n.01_1\"], [\"inside\", \"jewelry.n.01_1\", \"basket.n.01_1\"], [\"inside\", \"ball.n.01_1\", \"basket.n.01_1\"], [\"inside\", \"book.n.02_1\", \"basket.n.01_1\"], [\"inside\", \"book.n.02_2\", \"basket.n.01_1\"], [\"inside\", \"bow.n.08_1\", \"basket.n.01_2\"], [\"inside\", \"bow.n.08_2\", \"basket.n.01_2\"], [\"ontop\", \"basket.n.01_1\", \"countertop.n.01_1\"], [\"ontop\", \"basket.n.01_2\", \"countertop.n.01_1\"]]}"
+    },
+    {
+        "identifier": "installing_a_fax_machine_0_Beechwood_0_int_0_2021-10-25_20-22-22",
+        "llm_output": "{\"node goals\": [[\"Toggled_On\", \"facsimile.n.02_1\"]], \"edge goals\": [[\"OnFloor\", \"facsimile.n.02_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "installing_a_modem_0_Beechwood_0_int_0_2021-10-25_20-28-55",
+        "llm_output": "{\"node goals\": [[\"Toggled_On\", \"modem.n.01_1\"]], \"edge goals\": [[\"Under\", \"modem.n.01_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "installing_a_printer_0_Pomaria_0_int_0_2021-06-08_18-33-07",
+        "llm_output": "{\"node goals\": [[\"Toggled_On\", \"printer.n.03_1\"]], \"edge goals\": [[\"OnFloor\", \"printer.n.03_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "installing_a_scanner_0_Pomaria_0_int_0_2021-06-08_18-34-59",
+        "llm_output": "{\"node goals\": [[\"Toggled_On\", \"scanner.n.02_1\"]], \"edge goals\": [[\"Under\", \"scanner.n.02_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "installing_alarms_0_Merom_1_int_0_2021-05-23_23-02-24",
+        "llm_output": "{\"node goals\": [[\"Toggled_On\", \"alarm.n.02_1\"], [\"Toggled_On\", \"alarm.n.02_2\"]], \"edge goals\": [[\"ontop\", \"alarm.n.02_1\", \"table.n.02_1\"], [\"ontop\", \"alarm.n.02_1\", \"table.n.02_2\"], [\"ontop\", \"alarm.n.02_2\", \"table.n.02_1\"], [\"ontop\", \"alarm.n.02_2\", \"table.n.02_2\"]]}"
+    },
+    {
+        "identifier": "laying_tile_floors_0_Beechwood_0_int_0_2021-10-26_17-26-23",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"tile.n.01_1\"]], [\"not\", [\"Stained\", \"tile.n.01_2\"]], [\"not\", [\"Stained\", \"tile.n.01_3\"]], [\"not\", [\"Stained\", \"tile.n.01_4\"]]], \"edge goals\": [[\"OnFloor\", \"tile.n.01_1\", \"floor.n.01_1\"], [\"OnFloor\", \"tile.n.01_2\", \"floor.n.01_1\"], [\"OnFloor\", \"tile.n.01_3\", \"floor.n.01_1\"], [\"OnFloor\", \"tile.n.01_4\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "laying_wood_floors_0_Pomaria_1_int_0_2021-10-25_20-46-59",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"NextTo\", \"plywood.n.01_1\", \"plywood.n.01_2\"], [\"NextTo\", \"plywood.n.01_2\", \"plywood.n.01_3\"], [\"NextTo\", \"plywood.n.01_3\", \"plywood.n.01_4\"], [\"onfloor\", \"plywood.n.01_1\", \"floor.n.01_2\"], [\"onfloor\", \"plywood.n.01_2\", \"floor.n.01_2\"], [\"onfloor\", \"plywood.n.01_3\", \"floor.n.01_2\"], [\"onfloor\", \"plywood.n.01_4\", \"floor.n.01_2\"]]}"
+    },
+    {
+        "identifier": "loading_the_dishwasher_0_Benevolence_1_int_0_2021-10-20_06-10-42",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"plate.n.04_1\"]], [\"not\", [\"Stained\", \"plate.n.04_2\"]], [\"not\", [\"Stained\", \"plate.n.04_3\"]], [\"not\", [\"Stained\", \"mug.n.04_1\"]], [\"not\", [\"Stained\", \"bowl.n.01_1\"]], [\"not\", [\"Stained\", \"bowl.n.01_2\"]]], \"edge goals\": [[\"Inside\", \"plate.n.04_1\", \"dishwasher.n.01_1\"], [\"Inside\", \"plate.n.04_2\", \"dishwasher.n.01_1\"], [\"Inside\", \"plate.n.04_3\", \"dishwasher.n.01_1\"], [\"Inside\", \"mug.n.04_1\", \"dishwasher.n.01_1\"], [\"Inside\", \"bowl.n.01_1\", \"dishwasher.n.01_1\"], [\"Inside\", \"bowl.n.01_2\", \"dishwasher.n.01_1\"]]}"
+    },
+    {
+        "identifier": "locking_every_door_0_Merom_1_int_0_2021-10-20_05-53-14",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Open\", \"door.n.01_1\"]], [\"not\", [\"Open\", \"door.n.01_2\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "locking_every_window_0_Merom_1_int_0_2021-11-01_14-51-10",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Open\", \"window.n.01_1\"]], [\"not\", [\"Open\", \"window.n.01_2\"]], [\"not\", [\"Open\", \"window.n.01_3\"]], [\"not\", [\"Open\", \"window.n.01_4\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "making_tea_0_Wainscott_0_int_0_2021-10-26_12-49-48",
+        "llm_output": "{\"node goals\": [[\"Sliced\", \"lemon.n.01_1\"], [\"Toggled_On\", \"stove.n.01_1\"]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "mopping_floors_0_Benevolence_2_int_0_2021-10-25_21-01-58",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"not\", [\"Stained\", \"floor.n.01_2\"]], [\"not\", [\"Dusty\", \"floor.n.01_1\"]], [\"not\", [\"Dusty\", \"floor.n.01_2\"]], [\"Soaked\", \"piece_of_cloth.n.01_1\"], [\"Stained\", \"bucket.n.01_1\"]], \"edge goals\": [[\"Inside\", \"soap.n.01_1\", \"bucket.n.01_1\"], [\"NextTo\", \"bucket.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"broom.n.01_1\", \"sink.n.01_1\"]]}"
+    },
+    {
+        "identifier": "moving_boxes_to_storage_0_Merom_0_int_0_2021-06-11_20-04-35",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"OnFloor\", \"carton.n.02_1\", \"floor.n.01_2\"], [\"OnFloor\", \"carton.n.02_2\", \"floor.n.01_1\"], [\"OnFloor\", \"agent.n.01_1\", \"floor.n.01_2\"], [\"OnTop\", \"carton.n.02_2\", \"carton.n.02_1\"]]}"
+    },
+    {
+        "identifier": "opening_packages_0_Benevolence_2_int_0_2021-10-25_21-06-42",
+        "llm_output": "{\"node goals\": [[\"Open\", \"package.n.02_1\"], [\"Open\", \"package.n.02_2\"]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "opening_presents_0_Benevolence_2_int_0_2021-10-25_21-10-48",
+        "llm_output": "{\"node goals\": [[\"Open\", \"package.n.02_1\"], [\"Open\", \"package.n.02_2\"]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "organizing_boxes_in_garage_0_Ihlen_0_int_0_2021-08-24_22-59-54",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"inside\", \"ball.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"ball.n.01_2\", \"carton.n.02_1\"], [\"inside\", \"plate.n.04_1\", \"carton.n.02_2\"], [\"inside\", \"plate.n.04_2\", \"carton.n.02_2\"], [\"inside\", \"plate.n.04_3\", \"carton.n.02_2\"], [\"inside\", \"saucepan.n.01_1\", \"carton.n.02_1\"], [\"onfloor\", \"carton.n.02_1\", \"floor.n.01_1\"], [\"onfloor\", \"carton.n.02_2\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "organizing_file_cabinet_0_Pomaria_0_int_0_2021-06-08_15-27-20",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"document.n.01_1\"]], [\"not\", [\"Dusty\", \"document.n.01_2\"]], [\"not\", [\"Dusty\", \"document.n.01_3\"]], [\"not\", [\"Dusty\", \"document.n.01_4\"]], [\"not\", [\"Dusty\", \"folder.n.02_1\"]], [\"not\", [\"Dusty\", \"folder.n.02_2\"]], [\"not\", [\"Stained\", \"marker.n.03_1\"]], [\"not\", [\"Dusty\", \"marker.n.03_1\"]]], \"edge goals\": [[\"inside\", \"document.n.01_2\", \"cabinet.n.01_1\"], [\"inside\", \"document.n.01_4\", \"cabinet.n.01_1\"], [\"inside\", \"folder.n.02_1\", \"cabinet.n.01_1\"], [\"inside\", \"folder.n.02_2\", \"cabinet.n.01_1\"], [\"ontop\", \"marker.n.03_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "organizing_school_stuff_0_Wainscott_1_int_0_2021-08-24_22-56-24",
+        "llm_output": "{\"node goals\": [[\"Open\", \"backpack.n.01_1\"]], \"edge goals\": [[\"Inside\", \"folder.n.02_1\", \"backpack.n.01_1\"], [\"Inside\", \"highlighter.n.02_1\", \"backpack.n.01_1\"], [\"Inside\", \"pencil.n.01_1\", \"backpack.n.01_1\"], [\"Inside\", \"pen.n.01_1\", \"backpack.n.01_1\"], [\"Inside\", \"calculator.n.02_1\", \"backpack.n.01_1\"], [\"OnTop\", \"backpack.n.01_1\", \"bed.n.01_1\"]]}"
+    },
+    {
+        "identifier": "packing_adult_s_bags_0_Ihlen_1_int_0_2021-10-26_09-54-15",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"backpack.n.01_1\"]], [\"not\", [\"Open\", \"backpack.n.01_1\"]], [\"not\", [\"Dusty\", \"backpack.n.01_1\"]], [\"not\", [\"Stained\", \"jewelry.n.01_1\"]], [\"not\", [\"Dusty\", \"jewelry.n.01_1\"]], [\"not\", [\"Stained\", \"jewelry.n.01_2\"]], [\"not\", [\"Dusty\", \"jewelry.n.01_2\"]], [\"not\", [\"Stained\", \"makeup.n.01_1\"]], [\"not\", [\"Stained\", \"makeup.n.01_2\"]], [\"not\", [\"Stained\", \"toothbrush.n.01_1\"]], [\"not\", [\"Dusty\", \"toothbrush.n.01_1\"]], [\"not\", [\"Stained\", \"mouse.n.04_1\"]], [\"not\", [\"Dusty\", \"mouse.n.04_1\"]], [\"ToggledOn\", \"mouse.n.04_1\"]], \"edge goals\": [[\"inside\", \"jewelry.n.01_1\", \"backpack.n.01_1\"], [\"inside\", \"jewelry.n.01_2\", \"backpack.n.01_1\"], [\"inside\", \"makeup.n.01_1\", \"backpack.n.01_1\"], [\"inside\", \"makeup.n.01_2\", \"backpack.n.01_1\"], [\"inside\", \"toothbrush.n.01_1\", \"backpack.n.01_1\"], [\"inside\", \"mouse.n.04_1\", \"backpack.n.01_1\"], [\"onfloor\", \"backpack.n.01_1\", \"floor.n.01_2\"]]}"
+    },
+    {
+        "identifier": "packing_bags_or_suitcase_0_Merom_1_int_0_2021-10-26_10-04-07",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"inside\", \"underwear.n.01_1\", \"backpack.n.01_1\"], [\"inside\", \"underwear.n.01_2\", \"backpack.n.01_1\"], [\"inside\", \"toothbrush.n.01_1\", \"backpack.n.01_1\"], [\"inside\", \"shampoo.n.01_1\", \"backpack.n.01_1\"], [\"inside\", \"hardback.n.01_1\", \"backpack.n.01_1\"], [\"inside\", \"toothpaste.n.01_1\", \"backpack.n.01_1\"], [\"ontop\", \"backpack.n.01_1\", \"bed.n.01_1\"], [\"onfloor\", \"backpack.n.01_1\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "packing_boxes_for_household_move_or_trip_0_Ihlen_1_int_0_2021-06-08_19-16-19",
+        "llm_output": "{\"node goals\": [[\"Open\", \"carton.n.02_1\"], [\"Open\", \"carton.n.02_2\"]], \"edge goals\": [[\"Inside\", \"plate.n.04_1\", \"carton.n.02_1\"], [\"Inside\", \"plate.n.04_2\", \"carton.n.02_1\"], [\"Inside\", \"plate.n.04_3\", \"carton.n.02_1\"], [\"Inside\", \"plate.n.04_4\", \"carton.n.02_1\"], [\"Inside\", \"dishtowel.n.01_1\", \"carton.n.02_2\"], [\"Inside\", \"book.n.02_1\", \"carton.n.02_2\"], [\"Inside\", \"book.n.02_2\", \"carton.n.02_2\"], [\"Inside\", \"shirt.n.01_1\", \"carton.n.02_2\"], [\"Inside\", \"shirt.n.01_2\", \"carton.n.02_2\"], [\"Inside\", \"sweater.n.01_1\", \"carton.n.02_2\"]]}"
+    },
+    {
+        "identifier": "packing_car_for_trip_0_Ihlen_0_int_0_2021-10-26_10-27-23",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"inside\", \"briefcase.n.01_1\", \"car.n.01_1\"], [\"inside\", \"pencil_box.n.01_1\", \"car.n.01_1\"], [\"inside\", \"headset.n.01_1\", \"car.n.01_1\"], [\"inside\", \"duffel_bag.n.01_1\", \"car.n.01_1\"]]}"
+    },
+    {
+        "identifier": "packing_child_s_bag_0_Beechwood_1_int_0_2021-10-26_10-33-11",
+        "llm_output": "{\"node goals\": [[\"Open\", \"backpack.n.01_1\"]], \"edge goals\": [[\"Inside\", \"sunglass.n.01_1\", \"backpack.n.01_1\"], [\"Inside\", \"notebook.n.01_1\", \"backpack.n.01_1\"], [\"Inside\", \"bracelet.n.02_1\", \"backpack.n.01_1\"], [\"Inside\", \"apple.n.01_1\", \"backpack.n.01_1\"], [\"Inside\", \"earphone.n.01_1\", \"backpack.n.01_1\"], [\"NextTo\", \"backpack.n.01_1\", \"bed.n.01_1\"]]}"
+    },
+    {
+        "identifier": "packing_food_for_work_0_Ihlen_1_int_0_2021-06-08_19-36-15",
+        "llm_output": "{\"node goals\": [[\"Open\", \"carton.n.02_1\"]], \"edge goals\": [[\"inside\", \"sandwich.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"apple.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"snack_food.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"juice.n.01_1\", \"carton.n.02_1\"], [\"onfloor\", \"carton.n.02_1\", \"floor.n.01_1\"], [\"ontop\", \"carton.n.02_1\", \"countertop.n.01_1\"]]}"
+    },
+    {
+        "identifier": "packing_lunches_0_Beechwood_0_int_0_2021-10-26_11-03-14",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"inside\", \"chip.n.04_1\", \"carton.n.02_1\"], [\"inside\", \"chip.n.04_2\", \"carton.n.02_2\"], [\"inside\", \"cookie.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"cookie.n.01_2\", \"carton.n.02_2\"], [\"inside\", \"salad.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"sandwich.n.01_1\", \"carton.n.02_2\"], [\"inside\", \"juice.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"pop.n.02_1\", \"carton.n.02_2\"], [\"inside\", \"apple.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"banana.n.02_1\", \"carton.n.02_2\"]]}"
+    },
+    {
+        "identifier": "packing_picnics_0_Wainscott_0_int_0_2021-10-26_11-07-29",
+        "llm_output": "{\"node goals\": [[\"Open\", \"carton.n.02_1\"], [\"Open\", \"carton.n.02_2\"], [\"Open\", \"carton.n.02_3\"]], \"edge goals\": [[\"inside\", \"chip.n.04_1\", \"carton.n.02_1\"], [\"inside\", \"chip.n.04_2\", \"carton.n.02_1\"], [\"inside\", \"sandwich.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"sandwich.n.01_2\", \"carton.n.02_1\"], [\"inside\", \"sandwich.n.01_3\", \"carton.n.02_1\"], [\"inside\", \"sandwich.n.01_4\", \"carton.n.02_1\"], [\"inside\", \"melon.n.01_1\", \"carton.n.02_2\"], [\"inside\", \"strawberry.n.01_1\", \"carton.n.02_2\"], [\"inside\", \"strawberry.n.01_2\", \"carton.n.02_2\"], [\"inside\", \"strawberry.n.01_3\", \"carton.n.02_2\"], [\"inside\", \"strawberry.n.01_4\", \"carton.n.02_2\"], [\"inside\", \"grape.n.01_1\", \"carton.n.02_2\"], [\"inside\", \"grape.n.01_2\", \"carton.n.02_2\"], [\"inside\", \"grape.n.01_3\", \"carton.n.02_2\"], [\"inside\", \"grape.n.01_4\", \"carton.n.02_2\"], [\"inside\", \"peach.n.03_1\", \"carton.n.02_2\"], [\"inside\", \"peach.n.03_2\", \"carton.n.02_2\"], [\"inside\", \"pop.n.02_1\", \"carton.n.02_3\"], [\"inside\", \"pop.n.02_2\", \"carton.n.02_3\"], [\"inside\", \"beer.n.01_1\", \"carton.n.02_3\"], [\"inside\", \"beer.n.01_2\", \"carton.n.02_3\"], [\"inside\", \"water.n.06_1\", \"carton.n.02_3\"], [\"inside\", \"water.n.06_2\", \"carton.n.02_3\"], [\"inside\", \"water.n.06_3\", \"carton.n.02_3\"], [\"inside\", \"water.n.06_4\", \"carton.n.02_3\"]]}"
+    },
+    {
+        "identifier": "picking_up_take-out_food_0_Ihlen_1_int_0_2021-06-10_22-09-43",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"table.n.02_1\"]], [\"not\", [\"Dusty\", \"table.n.02_1\"]]], \"edge goals\": [[\"not\", [\"inside\", \"sushi.n.01_1\", \"carton.n.02_1\"]], [\"not\", [\"inside\", \"hamburger.n.01_1\", \"carton.n.02_1\"]], [\"ontop\", \"carton.n.02_1\", \"table.n.02_1\"], [\"inside\", \"sushi.n.01_1\", \"carton.n.02_1\"], [\"inside\", \"hamburger.n.01_1\", \"carton.n.02_1\"]]}"
+    },
+    {
+        "identifier": "picking_up_trash_0_Beechwood_0_int_1_2021-10-26_14-06-49",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"Inside\", \"pad.n.01_1\", \"ashcan.n.01_1\"], [\"Inside\", \"pad.n.01_2\", \"ashcan.n.01_1\"], [\"Inside\", \"pad.n.01_3\", \"ashcan.n.01_1\"], [\"Inside\", \"pop.n.02_1\", \"ashcan.n.01_1\"], [\"Inside\", \"pop.n.02_2\", \"ashcan.n.01_1\"]]}"
+    },
+    {
+        "identifier": "polishing_furniture_0_Ihlen_0_int_0_2021-10-26_11-35-40",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"table.n.02_1\"]], [\"not\", [\"Dusty\", \"shelf.n.01_1\"]]], \"edge goals\": [[\"Under\", \"rag.n.01_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "polishing_shoes_0_Wainscott_0_int_0_2021-06-10_21-28-31",
+        "llm_output": "{\"node goals\": [[\"Soaked\", \"rag.n.01_1\"], [\"not\", [\"Stained\", \"shoe.n.01_1\"]], [\"not\", [\"Stained\", \"shoe.n.01_2\"]]], \"edge goals\": [[\"NextTo\", \"rag.n.01_1\", \"sink.n.01_1\"]]}"
+    },
+    {
+        "identifier": "polishing_silver_0_Merom_1_int_0_2021-10-26_11-43-15",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"spoon.n.01_1\"]], [\"not\", [\"Stained\", \"spoon.n.01_2\"]], [\"not\", [\"Stained\", \"spoon.n.01_3\"]], [\"not\", [\"Stained\", \"spoon.n.01_4\"]]], \"edge goals\": [[\"inside\", \"spoon.n.01_1\", \"cabinet.n.01_1\"], [\"inside\", \"spoon.n.01_2\", \"cabinet.n.01_1\"], [\"inside\", \"spoon.n.01_3\", \"cabinet.n.01_1\"], [\"inside\", \"spoon.n.01_4\", \"cabinet.n.01_1\"]]}"
+    },
+    {
+        "identifier": "preparing_a_shower_for_child_0_Ihlen_0_int_0_2021-10-25_21-36-25",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"towel.n.01_1\"]], [\"not\", [\"Soaked\", \"towel.n.01_1\"]]], \"edge goals\": [[\"NextTo\", \"towel.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"shampoo.n.01_1\", \"sink.n.01_1\"], [\"NextTo\", \"soap.n.01_1\", \"sink.n.01_1\"], [\"OnFloor\", \"towel.n.01_1\", \"floor.n.01_1\"], [\"OnFloor\", \"shampoo.n.01_1\", \"floor.n.01_1\"], [\"OnFloor\", \"soap.n.01_1\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "preparing_salad_0_Pomaria_1_int_1_2021-10-26_14-17-24",
+        "llm_output": "{\"node goals\": [[\"Sliced\", \"apple.n.01_1\"], [\"Sliced\", \"tomato.n.01_1\"], [\"not\", [\"Frozen\", \"lettuce.n.03_1\"]], [\"not\", [\"Frozen\", \"radish.n.01_1\"]]], \"edge goals\": [[\"ontop\", \"apple.n.01_1\", \"plate.n.04_1\"], [\"ontop\", \"tomato.n.01_1\", \"plate.n.04_2\"], [\"ontop\", \"lettuce.n.03_1\", \"plate.n.04_1\"], [\"ontop\", \"radish.n.01_1\", \"plate.n.04_2\"]]}"
+    },
+    {
+        "identifier": "preserving_food_0_Rs_int_0_2021-08-25_15-53-33",
+        "llm_output": "{\"node goals\": [[\"Sliced\", \"strawberry.n.01_1\"], [\"Sliced\", \"strawberry.n.01_2\"], [\"Cooked\", \"strawberry.n.01_1\"], [\"Cooked\", \"strawberry.n.01_2\"], [\"Frozen\", \"beef.n.02_1\"], [\"Open\", \"jar.n.01_1\"]], \"edge goals\": [[\"Inside\", \"strawberry.n.01_1\", \"jar.n.01_1\"], [\"Inside\", \"strawberry.n.01_2\", \"jar.n.01_1\"]]}"
+    },
+    {
+        "identifier": "putting_away_Christmas_decorations_0_Wainscott_0_int_0_2021-06-06_17-03-25",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"wreath.n.01_1\"]], [\"not\", [\"Dusty\", \"wreath.n.01_2\"]], [\"not\", [\"Dusty\", \"bow.n.08_1\"]], [\"not\", [\"Dusty\", \"bow.n.08_2\"]], [\"not\", [\"Dusty\", \"bow.n.08_3\"]], [\"Open\", \"cabinet.n.01_1\"]], \"edge goals\": [[\"NextTo\", \"wreath.n.01_1\", \"cabinet.n.01_1\"], [\"NextTo\", \"wreath.n.01_2\", \"cabinet.n.01_1\"], [\"NextTo\", \"bow.n.08_1\", \"cabinet.n.01_1\"], [\"NextTo\", \"bow.n.08_2\", \"cabinet.n.01_1\"], [\"NextTo\", \"bow.n.08_3\", \"cabinet.n.01_1\"], [\"Inside\", \"ribbon.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"ribbon.n.01_2\", \"cabinet.n.01_1\"], [\"Inside\", \"ribbon.n.01_3\", \"cabinet.n.01_1\"]]}"
+    },
+    {
+        "identifier": "putting_away_Halloween_decorations_0_Rs_int_0_2021-10-25_22-42-17",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"sheet.n.03_1\"]], [\"not\", [\"Dusty\", \"sheet.n.03_1\"]], [\"not\", [\"Stained\", \"caldron.n.01_1\"]], [\"not\", [\"Dusty\", \"caldron.n.01_1\"]], [\"not\", [\"Stained\", \"pumpkin.n.02_1\"]], [\"not\", [\"Dusty\", \"pumpkin.n.02_1\"]], [\"not\", [\"Stained\", \"pumpkin.n.02_2\"]], [\"not\", [\"Dusty\", \"pumpkin.n.02_2\"]], [\"not\", [\"Stained\", \"candle.n.01_1\"]], [\"not\", [\"Dusty\", \"candle.n.01_1\"]], [\"not\", [\"Stained\", \"candle.n.01_2\"]], [\"not\", [\"Dusty\", \"candle.n.01_2\"]], [\"not\", [\"Stained\", \"candle.n.01_3\"]], [\"not\", [\"Dusty\", \"candle.n.01_3\"]], [\"Open\", \"cabinet.n.01_1\"]], \"edge goals\": [[\"Inside\", \"pumpkin.n.02_1\", \"cabinet.n.01_1\"], [\"Inside\", \"pumpkin.n.02_2\", \"cabinet.n.01_1\"], [\"Inside\", \"candle.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"candle.n.01_2\", \"cabinet.n.01_1\"], [\"Inside\", \"candle.n.01_3\", \"cabinet.n.01_1\"], [\"NextTo\", \"caldron.n.01_1\", \"table.n.02_1\"], [\"NextTo\", \"sheet.n.03_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "putting_away_toys_0_Ihlen_0_int_0_2021-10-25_22-47-44",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"plaything.n.01_1\"]], [\"not\", [\"Stained\", \"plaything.n.01_2\"]], [\"not\", [\"Stained\", \"plaything.n.01_3\"]], [\"not\", [\"Stained\", \"plaything.n.01_4\"]], [\"not\", [\"Stained\", \"plaything.n.01_5\"]], [\"not\", [\"Stained\", \"plaything.n.01_6\"]], [\"not\", [\"Stained\", \"plaything.n.01_7\"]], [\"not\", [\"Stained\", \"plaything.n.01_8\"]], [\"Open\", \"carton.n.02_1\"], [\"Open\", \"carton.n.02_2\"]], \"edge goals\": [[\"Inside\", \"plaything.n.01_1\", \"carton.n.02_1\"], [\"Inside\", \"plaything.n.01_2\", \"carton.n.02_1\"], [\"Inside\", \"plaything.n.01_3\", \"carton.n.02_1\"], [\"Inside\", \"plaything.n.01_4\", \"carton.n.02_1\"], [\"Inside\", \"plaything.n.01_5\", \"carton.n.02_2\"], [\"Inside\", \"plaything.n.01_6\", \"carton.n.02_2\"], [\"Inside\", \"plaything.n.01_7\", \"carton.n.02_2\"], [\"Inside\", \"plaything.n.01_8\", \"carton.n.02_2\"]]}"
+    },
+    {
+        "identifier": "putting_dishes_away_after_cleaning_0_Ihlen_1_int_0_2021-10-25_22-54-09",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"plate.n.04_1\"]], [\"not\", [\"Stained\", \"plate.n.04_2\"]], [\"not\", [\"Stained\", \"plate.n.04_3\"]], [\"not\", [\"Stained\", \"plate.n.04_4\"]], [\"not\", [\"Stained\", \"plate.n.04_5\"]], [\"not\", [\"Stained\", \"plate.n.04_6\"]], [\"not\", [\"Stained\", \"plate.n.04_7\"]], [\"not\", [\"Stained\", \"plate.n.04_8\"]], [\"Open\", \"cabinet.n.01_1\"]], \"edge goals\": [[\"inside\", \"plate.n.04_1\", \"cabinet.n.01_1\"], [\"inside\", \"plate.n.04_2\", \"cabinet.n.01_1\"], [\"inside\", \"plate.n.04_3\", \"cabinet.n.01_1\"], [\"inside\", \"plate.n.04_4\", \"cabinet.n.01_1\"], [\"inside\", \"plate.n.04_5\", \"cabinet.n.01_1\"], [\"inside\", \"plate.n.04_6\", \"cabinet.n.01_1\"], [\"inside\", \"plate.n.04_7\", \"cabinet.n.01_1\"], [\"inside\", \"plate.n.04_8\", \"cabinet.n.01_1\"]]}"
+    },
+    {
+        "identifier": "putting_leftovers_away_0_Ihlen_1_int_0_2021-06-08_13-42-57",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"Dusty\", \"electric_refrigerator.n.01_1\"]], [\"Open\", \"electric_refrigerator.n.01_1\"]], \"edge goals\": [[\"Inside\", \"pasta.n.02_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"pasta.n.02_2\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"pasta.n.02_3\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"pasta.n.02_4\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"sauce.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"sauce.n.01_2\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"sauce.n.01_3\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"sauce.n.01_4\", \"electric_refrigerator.n.01_1\"]]}"
+    },
+    {
+        "identifier": "putting_up_Christmas_decorations_inside_0_Ihlen_1_int_0_2021-06-03_14-27-09",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"wrapping.n.01_1\"]], [\"not\", [\"Dusty\", \"wrapping.n.01_2\"]], [\"not\", [\"Dusty\", \"wrapping.n.01_3\"]], [\"not\", [\"Dusty\", \"candle.n.01_1\"]], [\"not\", [\"Dusty\", \"candle.n.01_2\"]], [\"not\", [\"Dusty\", \"bow.n.08_1\"]], [\"not\", [\"Dusty\", \"bow.n.08_2\"]], [\"not\", [\"Dusty\", \"bow.n.08_3\"]], [\"not\", [\"Dusty\", \"wreath.n.01_1\"]]], \"edge goals\": [[\"NextTo\", \"wrapping.n.01_1\", \"christmas_tree.n.05_1\"], [\"NextTo\", \"wrapping.n.01_2\", \"christmas_tree.n.05_1\"], [\"NextTo\", \"wrapping.n.01_3\", \"christmas_tree.n.05_1\"], [\"Under\", \"wrapping.n.01_1\", \"christmas_tree.n.05_1\"], [\"Under\", \"wrapping.n.01_2\", \"christmas_tree.n.05_1\"], [\"Under\", \"wrapping.n.01_3\", \"christmas_tree.n.05_1\"], [\"OnFloor\", \"candle.n.01_1\", \"table.n.02_1\"], [\"OnFloor\", \"candle.n.01_2\", \"table.n.02_1\"], [\"OnFloor\", \"bow.n.08_1\", \"table.n.02_1\"], [\"OnFloor\", \"bow.n.08_2\", \"sofa.n.01_1\"], [\"OnFloor\", \"bow.n.08_3\", \"sofa.n.01_1\"], [\"OnFloor\", \"wreath.n.01_1\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "re-shelving_library_books_0_Rs_int_0_2021-10-25_21-22-26",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"book.n.02_1\"]], [\"not\", [\"Dusty\", \"book.n.02_2\"]], [\"not\", [\"Dusty\", \"book.n.02_3\"]], [\"not\", [\"Dusty\", \"book.n.02_4\"]], [\"Dusty\", \"book.n.02_5\"], [\"Dusty\", \"book.n.02_6\"], [\"Dusty\", \"book.n.02_7\"], [\"Dusty\", \"book.n.02_8\"]], \"edge goals\": [[\"ontop\", \"book.n.02_1\", \"shelf.n.01_1\"], [\"ontop\", \"book.n.02_2\", \"shelf.n.01_1\"], [\"ontop\", \"book.n.02_3\", \"shelf.n.01_1\"], [\"ontop\", \"book.n.02_4\", \"shelf.n.01_1\"], [\"ontop\", \"book.n.02_5\", \"table.n.02_1\"], [\"ontop\", \"book.n.02_6\", \"table.n.02_1\"], [\"ontop\", \"book.n.02_7\", \"table.n.02_1\"], [\"ontop\", \"book.n.02_8\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "rearranging_furniture_0_Pomaria_2_int_1_2021-06-22_16-39-21",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"NextTo\", \"lamp.n.02_1\", \"door.n.01_1\"], [\"NextTo\", \"lamp.n.02_2\", \"window.n.01_1\"], [\"Touching\", \"seat.n.03_1\", \"bed.n.01_1\"], [\"NextTo\", \"seat.n.03_2\", \"window.n.01_1\"]]}"
+    },
+    {
+        "identifier": "serving_a_meal_0_Merom_1_int_0_2021-10-26_00-34-17",
+        "llm_output": "{\"node goals\": [[\"not\", [\"inside\", \"chicken.n.01_1\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"chicken.n.01_2\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"soup.n.01_1\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"soup.n.01_2\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"bread.n.01_1\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"bread.n.01_2\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"salad.n.01_1\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"salad.n.01_2\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"water.n.06_1\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"water.n.06_2\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"cake.n.03_1\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"cake.n.03_2\", \"electric_refrigerator.n.01_1\"]], [\"not\", [\"inside\", \"knife.n.01_1\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"knife.n.01_2\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"fork.n.01_1\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"fork.n.01_2\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"spoon.n.01_1\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"spoon.n.01_2\", \"cabinet.n.01_1\"]], [\"not\", [\"inside\", \"plate.n.04_1\", \"cabinet.n.01_2\"]], [\"not\", [\"inside\", \"plate.n.04_2\", \"cabinet.n.01_1\"]]], \"edge goals\": [[\"ontop\", \"chicken.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"chicken.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"soup.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"soup.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"bread.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"bread.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"salad.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"salad.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"water.n.06_1\", \"table.n.02_1\"], [\"ontop\", \"water.n.06_2\", \"table.n.02_1\"], [\"ontop\", \"cake.n.03_1\", \"table.n.02_1\"], [\"ontop\", \"cake.n.03_2\", \"table.n.02_1\"], [\"ontop\", \"knife.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"knife.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"fork.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"fork.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"spoon.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"spoon.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"plate.n.04_1\", \"table.n.02_1\"], [\"ontop\", \"plate.n.04_2\", \"table.n.02_1\"]]}"
+    },
+    {
+        "identifier": "serving_hors_d_oeuvres_0_Wainscott_0_int_0_2021-10-26_14-00-22",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"ontop\", \"tray.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"cracker.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"cracker.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"cracker.n.01_3\", \"table.n.02_1\"], [\"ontop\", \"cracker.n.01_4\", \"table.n.02_1\"], [\"nextto\", \"salad.n.01_1\", \"cracker.n.01_1\"], [\"nextto\", \"salad.n.01_2\", \"cracker.n.01_2\"], [\"nextto\", \"salad.n.01_3\", \"cracker.n.01_3\"], [\"nextto\", \"salad.n.01_4\", \"cracker.n.01_4\"], [\"ontop\", \"parsley.n.02_1\", \"cheese.n.01_1\"], [\"ontop\", \"parsley.n.02_2\", \"cheese.n.01_2\"], [\"ontop\", \"parsley.n.02_3\", \"cheese.n.01_3\"], [\"ontop\", \"parsley.n.02_4\", \"cheese.n.01_4\"]]}"
+    },
+    {
+        "identifier": "setting_mousetraps_0_Beechwood_1_int_0_2021-10-26_13-53-26",
+        "llm_output": "{\"node goals\": [[\"ToggledOn\", \"mousetrap.n.01_1\"], [\"ToggledOn\", \"mousetrap.n.01_2\"], [\"ToggledOn\", \"mousetrap.n.01_3\"], [\"ToggledOn\", \"mousetrap.n.01_4\"]], \"edge goals\": [[\"OnFloor\", \"mousetrap.n.01_1\", \"floor.n.01_1\"], [\"OnFloor\", \"mousetrap.n.01_1\", \"floor.n.01_2\"], [\"OnFloor\", \"mousetrap.n.01_2\", \"floor.n.01_1\"], [\"OnFloor\", \"mousetrap.n.01_2\", \"floor.n.01_2\"], [\"NextTo\", \"mousetrap.n.01_3\", \"toilet.n.02_1\"], [\"NextTo\", \"mousetrap.n.01_4\", \"toilet.n.02_1\"]]}"
+    },
+    {
+        "identifier": "setting_up_candles_0_Wainscott_0_int_0_2021-10-26_13-40-51",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"ontop\", \"candle.n.01_1\", \"table.n.02_1\"], [\"ontop\", \"candle.n.01_2\", \"table.n.02_1\"], [\"ontop\", \"candle.n.01_3\", \"table.n.02_1\"], [\"ontop\", \"candle.n.01_4\", \"table.n.02_2\"], [\"ontop\", \"candle.n.01_5\", \"table.n.02_2\"], [\"ontop\", \"candle.n.01_6\", \"table.n.02_2\"]]}"
+    },
+    {
+        "identifier": "sorting_books_0_Pomaria_1_int_0_2021-10-26_13-27-18",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"hardback.n.01_1\"]], [\"not\", [\"Dusty\", \"hardback.n.01_2\"]], [\"not\", [\"Dusty\", \"book.n.02_1\"]], [\"not\", [\"Dusty\", \"book.n.02_2\"]]], \"edge goals\": [[\"ontop\", \"hardback.n.01_1\", \"shelf.n.01_1\"], [\"ontop\", \"hardback.n.01_2\", \"shelf.n.01_1\"], [\"ontop\", \"book.n.02_1\", \"shelf.n.01_1\"], [\"ontop\", \"book.n.02_2\", \"shelf.n.01_1\"]]}"
+    },
+    {
+        "identifier": "sorting_groceries_0_Wainscott_0_int_0_2021-10-26_13-36-01",
+        "llm_output": "{\"node goals\": [[\"Frozen\", \"bread.n.01_1\"], [\"Frozen\", \"milk.n.01_1\"], [\"Frozen\", \"meat.n.01_1\"], [\"Frozen\", \"cheese.n.01_1\"], [\"Frozen\", \"yogurt.n.01_1\"], [\"Frozen\", \"soup.n.01_1\"], [\"Frozen\", \"carrot.n.03_1\"], [\"Frozen\", \"carrot.n.03_2\"], [\"Frozen\", \"carrot.n.03_3\"], [\"Frozen\", \"broccoli.n.02_1\"], [\"Frozen\", \"apple.n.01_1\"], [\"Frozen\", \"apple.n.01_2\"], [\"Frozen\", \"orange.n.01_1\"], [\"Frozen\", \"orange.n.01_2\"], [\"Frozen\", \"orange.n.01_3\"], [\"Open\", \"electric_refrigerator.n.01_1\"], [\"Open\", \"cabinet.n.01_1\"]], \"edge goals\": [[\"Inside\", \"bread.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"milk.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"meat.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"cheese.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"yogurt.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"soup.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"carrot.n.03_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"carrot.n.03_2\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"carrot.n.03_3\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"broccoli.n.02_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"apple.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"apple.n.01_2\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"orange.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"orange.n.01_2\", \"electric_refrigerator.n.01_1\"], [\"Inside\", \"orange.n.01_3\", \"electric_refrigerator.n.01_1\"], [\"NextTo\", \"carrot.n.03_1\", \"carrot.n.03_2\"], [\"NextTo\", \"carrot.n.03_2\", \"carrot.n.03_3\"], [\"NextTo\", \"apple.n.01_1\", \"apple.n.01_2\"], [\"NextTo\", \"orange.n.01_1\", \"orange.n.01_2\"], [\"NextTo\", \"orange.n.01_2\", \"orange.n.01_3\"], [\"Inside\", \"flour.n.01_1\", \"cabinet.n.01_1\"]]}"
+    },
+    {
+        "identifier": "sorting_mail_0_Wainscott_0_int_1_2021-10-26_14-38-16",
+        "llm_output": "{\"node goals\": [], \"edge goals\": [[\"nextto\", \"envelope.n.01_1\", \"envelope.n.01_2\"], [\"nextto\", \"envelope.n.01_1\", \"envelope.n.01_3\"], [\"nextto\", \"envelope.n.01_1\", \"envelope.n.01_4\"], [\"nextto\", \"newspaper.n.03_1\", \"newspaper.n.03_2\"], [\"nextto\", \"newspaper.n.03_1\", \"newspaper.n.03_3\"], [\"nextto\", \"newspaper.n.03_1\", \"newspaper.n.03_4\"]]}"
+    },
+    {
+        "identifier": "storing_food_0_Rs_int_0_2021-10-25_21-27-36",
+        "llm_output": "{\"node goals\": [[\"Open\", \"cabinet.n.01_1\"]], \"edge goals\": [[\"Inside\", \"oatmeal.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"oatmeal.n.01_2\", \"cabinet.n.01_1\"], [\"Inside\", \"chip.n.04_1\", \"cabinet.n.01_1\"], [\"Inside\", \"chip.n.04_2\", \"cabinet.n.01_1\"], [\"Inside\", \"vegetable_oil.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"vegetable_oil.n.01_2\", \"cabinet.n.01_1\"], [\"Inside\", \"sugar.n.01_1\", \"cabinet.n.01_1\"], [\"Inside\", \"sugar.n.01_2\", \"cabinet.n.01_1\"]]}"
+    },
+    {
+        "identifier": "storing_the_groceries_0_Beechwood_0_int_0_2021-10-26_13-13-47",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Frozen\", \"lettuce.n.03_1\"]], [\"not\", [\"Frozen\", \"lettuce.n.03_2\"]], [\"not\", [\"Frozen\", \"broccoli.n.02_1\"]], [\"not\", [\"Frozen\", \"broccoli.n.02_2\"]], [\"not\", [\"Frozen\", \"raspberry.n.02_1\"]], [\"not\", [\"Frozen\", \"raspberry.n.02_2\"]], [\"not\", [\"Frozen\", \"pork.n.01_1\"]], [\"not\", [\"Frozen\", \"pork.n.01_2\"]]], \"edge goals\": [[\"inside\", \"lettuce.n.03_1\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"lettuce.n.03_2\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"broccoli.n.02_1\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"broccoli.n.02_2\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"raspberry.n.02_1\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"raspberry.n.02_2\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"pork.n.01_1\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"pork.n.01_2\", \"electric_refrigerator.n.01_1\"], [\"inside\", \"cereal.n.03_1\", \"cabinet.n.01_1\"], [\"inside\", \"cereal.n.03_2\", \"cabinet.n.01_1\"], [\"nextto\", \"lettuce.n.03_1\", \"lettuce.n.03_2\"], [\"nextto\", \"broccoli.n.02_1\", \"broccoli.n.02_2\"], [\"nextto\", \"raspberry.n.02_1\", \"raspberry.n.02_2\"], [\"nextto\", \"pork.n.01_1\", \"pork.n.01_2\"]]}"
+    },
+    {
+        "identifier": "thawing_frozen_food_0_Pomaria_1_int_0_2021-10-26_13-10-33",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Frozen\", \"fish.n.02_1\"]], [\"not\", [\"Frozen\", \"fish.n.02_2\"]], [\"not\", [\"Frozen\", \"fish.n.02_3\"]], [\"not\", [\"Frozen\", \"fish.n.02_4\"]], [\"not\", [\"Frozen\", \"date.n.08_1\"]], [\"not\", [\"Frozen\", \"olive.n.04_1\"]]], \"edge goals\": [[\"NextTo\", \"fish.n.02_1\", \"sink.n.01_1\"], [\"NextTo\", \"fish.n.02_2\", \"sink.n.01_1\"], [\"NextTo\", \"fish.n.02_3\", \"sink.n.01_1\"], [\"NextTo\", \"fish.n.02_4\", \"sink.n.01_1\"], [\"NextTo\", \"date.n.08_1\", \"sink.n.01_1\"], [\"NextTo\", \"olive.n.04_1\", \"sink.n.01_1\"]]}"
+    },
+    {
+        "identifier": "throwing_away_leftovers_0_Ihlen_1_int_0_2021-06-04_19-52-40",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"ashcan.n.01_1\"]], [\"not\", [\"Dusty\", \"ashcan.n.01_1\"]]], \"edge goals\": [[\"Inside\", \"hamburger.n.01_1\", \"ashcan.n.01_1\"], [\"Inside\", \"hamburger.n.01_2\", \"ashcan.n.01_1\"], [\"Inside\", \"hamburger.n.01_3\", \"ashcan.n.01_1\"]]}"
+    },
+    {
+        "identifier": "unpacking_suitcase_0_Benevolence_1_int_0_2021-06-08_17-58-34",
+        "llm_output": "{\"node goals\": [[\"Open\", \"carton.n.02_1\"], [\"not\", [\"Stained\", \"sofa.n.01_1\"]], [\"not\", [\"Dusty\", \"sofa.n.01_1\"]]], \"edge goals\": [[\"OnFloor\", \"carton.n.02_1\", \"floor.n.01_1\"], [\"not\", [\"Inside\", \"sock.n.01_1\", \"carton.n.02_1\"]], [\"not\", [\"Inside\", \"sock.n.01_2\", \"carton.n.02_1\"]], [\"not\", [\"Inside\", \"perfume.n.02_1\", \"carton.n.02_1\"]], [\"not\", [\"Inside\", \"toothbrush.n.01_1\", \"carton.n.02_1\"]], [\"not\", [\"Inside\", \"notebook.n.01_1\", \"carton.n.02_1\"]], [\"OnFloor\", \"sock.n.01_1\", \"sofa.n.01_1\"], [\"OnFloor\", \"sock.n.01_2\", \"sofa.n.01_1\"], [\"OnFloor\", \"perfume.n.02_1\", \"sofa.n.01_1\"], [\"OnFloor\", \"toothbrush.n.01_1\", \"sofa.n.01_1\"], [\"OnFloor\", \"notebook.n.01_1\", \"sofa.n.01_1\"]]}"
+    },
+    {
+        "identifier": "vacuuming_floors_0_Ihlen_1_int_0_2021-06-08_18-03-55",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"floor.n.01_1\"]], [\"ToggledOn\", \"vacuum.n.04_1\"]], \"edge goals\": [[\"OnFloor\", \"vacuum.n.04_1\", \"floor.n.01_1\"]]}"
+    },
+    {
+        "identifier": "washing_cars_or_other_vehicles_0_Ihlen_0_int_0_2021-10-25_22-38-10",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"car.n.01_1\"]], [\"not\", [\"Stained\", \"car.n.01_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "washing_dishes_0_Benevolence_1_int_0_2021-06-08_18-07-48",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"plate.n.04_1\"]], [\"not\", [\"Stained\", \"plate.n.04_2\"]], [\"not\", [\"Stained\", \"cup.n.01_1\"]], [\"not\", [\"Stained\", \"bowl.n.01_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "washing_floor_0_Ihlen_1_int_1_2021-10-26_14-53-28",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"floor.n.01_1\"]], [\"not\", [\"Dusty\", \"floor.n.01_1\"]]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "washing_pots_and_pans_0_Pomaria_1_int_0_2021-10-26_13-06-44",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Stained\", \"teapot.n.01_1\"]], [\"not\", [\"Stained\", \"kettle.n.01_1\"]], [\"not\", [\"Stained\", \"pan.n.01_1\"]], [\"not\", [\"Stained\", \"pan.n.01_2\"]], [\"not\", [\"Stained\", \"pan.n.01_3\"]], [\"Open\", \"cabinet.n.01_1\"], [\"Open\", \"cabinet.n.01_2\"]], \"edge goals\": [[\"inside\", \"teapot.n.01_1\", \"cabinet.n.01_1\"], [\"inside\", \"teapot.n.01_1\", \"cabinet.n.01_2\"], [\"inside\", \"kettle.n.01_1\", \"cabinet.n.01_1\"], [\"inside\", \"kettle.n.01_1\", \"cabinet.n.01_2\"], [\"inside\", \"pan.n.01_1\", \"cabinet.n.01_1\"], [\"inside\", \"pan.n.01_1\", \"cabinet.n.01_2\"], [\"inside\", \"pan.n.01_2\", \"cabinet.n.01_1\"], [\"inside\", \"pan.n.01_2\", \"cabinet.n.01_2\"], [\"inside\", \"pan.n.01_3\", \"cabinet.n.01_1\"], [\"inside\", \"pan.n.01_3\", \"cabinet.n.01_2\"]]}"
+    },
+    {
+        "identifier": "watering_houseplants_0_Beechwood_0_int_0_2021-10-26_15-20-01",
+        "llm_output": "{\"node goals\": [[\"Soaked\", \"pot_plant.n.01_1\"], [\"Soaked\", \"pot_plant.n.01_2\"], [\"Soaked\", \"pot_plant.n.01_3\"]], \"edge goals\": []}"
+    },
+    {
+        "identifier": "waxing_cars_or_other_vehicles_0_Ihlen_0_int_0_2021-10-25_23-03-46",
+        "llm_output": "{\"node goals\": [[\"not\", [\"Dusty\", \"vehicle.n.01_1\"]]], \"edge goals\": []}"
+    }
+]

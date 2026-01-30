@@ -1,0 +1,9 @@
+lark
+bddl-eval
+pyquaternion
+pddlgym
+ipdb
+networkx>=3.1
+numpy>=1.20.0
+fire
+gdown
