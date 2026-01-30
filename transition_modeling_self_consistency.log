@@ -1,0 +1,348 @@
+2026-01-10 23:55:44,813 - INFO - ======================================================================
+2026-01-10 23:55:44,813 - INFO - VirtualHome Transition Modeling - Structured Self-Consistency (SSC)
+2026-01-10 23:55:44,813 - INFO - ======================================================================
+2026-01-10 23:55:44,814 - INFO - 配置:
+2026-01-10 23:55:44,814 - INFO -   样本数: 5
+2026-01-10 23:55:44,814 - INFO -   Temperature: 0.7
+2026-01-10 23:55:44,814 - INFO -   Top-p: 0.95
+2026-01-10 23:55:44,814 - INFO -   投票策略: skeleton
+2026-01-10 23:55:44,814 - INFO -   提示词文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/output/virtualhome/generate_prompts/transition_modeling/virtualhome_transition_modeling.json
+2026-01-10 23:55:44,814 - INFO -   输出目录: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m
+2026-01-10 23:55:44,814 - INFO - ======================================================================
+2026-01-10 23:55:44,840 - INFO - 读取到 296 条提示词
+2026-01-10 23:55:44,841 - INFO - 输出文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/virtualhome_transition_modeling_sc5_outputs.json
+2026-01-11 00:39:11,407 - INFO - ======================================================================
+2026-01-11 00:39:11,407 - INFO - VirtualHome Transition Modeling - Structured Self-Consistency (SSC)
+2026-01-11 00:39:11,407 - INFO - ======================================================================
+2026-01-11 00:39:11,407 - INFO - 配置:
+2026-01-11 00:39:11,407 - INFO -   样本数: 5
+2026-01-11 00:39:11,407 - INFO -   Temperature: 0.7
+2026-01-11 00:39:11,407 - INFO -   Top-p: 0.95
+2026-01-11 00:39:11,407 - INFO -   投票策略: skeleton
+2026-01-11 00:39:11,407 - INFO -   提示词文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/output/virtualhome/generate_prompts/transition_modeling/virtualhome_transition_modeling.json
+2026-01-11 00:39:11,408 - INFO -   输出目录: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m
+2026-01-11 00:39:11,408 - INFO - ======================================================================
+2026-01-11 00:39:11,431 - INFO - 读取到 296 条提示词
+2026-01-11 00:39:11,431 - INFO - 输出文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/virtualhome_transition_modeling_sc5_outputs.json
+2026-01-11 00:57:43,271 - WARNING - No valid candidates generated
+2026-01-11 00:57:43,271 - WARNING - Failed to generate output for 27_2
+2026-01-11 01:32:17,379 - WARNING - No valid candidates generated
+2026-01-11 01:32:17,379 - WARNING - Failed to generate output for 850_1
+2026-01-11 01:50:25,713 - WARNING - No valid candidates generated
+2026-01-11 01:50:25,713 - WARNING - Failed to generate output for 954_2
+2026-01-11 02:11:11,479 - WARNING - No valid candidates generated
+2026-01-11 02:11:11,480 - WARNING - Failed to generate output for 120_1
+2026-01-11 03:56:52,250 - WARNING - No valid candidates generated
+2026-01-11 03:56:52,251 - WARNING - Failed to generate output for 345_1
+2026-01-11 04:03:13,495 - WARNING - No valid candidates generated
+2026-01-11 04:03:13,495 - WARNING - Failed to generate output for 392_1
+2026-01-11 04:20:26,958 - WARNING - No valid candidates generated
+2026-01-11 04:20:26,958 - WARNING - Failed to generate output for 432_1
+2026-01-11 05:31:22,134 - WARNING - No valid candidates generated
+2026-01-11 05:31:22,134 - WARNING - Failed to generate output for 705_1
+2026-01-11 05:44:00,108 - WARNING - No valid candidates generated
+2026-01-11 05:44:00,109 - WARNING - Failed to generate output for 708_1
+2026-01-11 07:31:32,105 - WARNING - No valid candidates generated
+2026-01-11 07:31:32,105 - WARNING - Failed to generate output for 696_1
+2026-01-11 08:05:05,795 - WARNING - No valid candidates generated
+2026-01-11 08:05:05,795 - WARNING - Failed to generate output for 152_2
+2026-01-11 08:23:07,399 - WARNING - No valid candidates generated
+2026-01-11 08:23:07,399 - WARNING - Failed to generate output for 298_2
+2026-01-11 08:52:04,125 - WARNING - No valid candidates generated
+2026-01-11 08:52:04,126 - WARNING - Failed to generate output for 703_2
+2026-01-11 09:24:22,294 - WARNING - No valid candidates generated
+2026-01-11 09:24:22,294 - WARNING - Failed to generate output for 837_2
+2026-01-11 09:42:18,855 - WARNING - No valid candidates generated
+2026-01-11 09:42:18,855 - WARNING - Failed to generate output for 158_1
+2026-01-11 10:00:26,133 - WARNING - No valid candidates generated
+2026-01-11 10:00:26,133 - WARNING - Failed to generate output for 323_2
+2026-01-11 10:18:28,620 - WARNING - No valid candidates generated
+2026-01-11 10:18:28,620 - WARNING - Failed to generate output for 430_2
+2026-01-11 10:33:34,684 - WARNING - No valid candidates generated
+2026-01-11 10:33:34,684 - WARNING - Failed to generate output for 478_1
+2026-01-11 11:18:17,309 - WARNING - No valid candidates generated
+2026-01-11 11:18:17,310 - WARNING - Failed to generate output for 188_1
+2026-01-11 11:30:09,550 - WARNING - No valid candidates generated
+2026-01-11 11:30:09,550 - WARNING - Failed to generate output for 803_2
+2026-01-11 12:27:06,761 - WARNING - No valid candidates generated
+2026-01-11 12:27:06,761 - WARNING - Failed to generate output for 196_2
+2026-01-11 12:54:34,995 - WARNING - No valid candidates generated
+2026-01-11 12:54:34,995 - WARNING - Failed to generate output for 201_2
+2026-01-11 13:53:41,204 - WARNING - No valid candidates generated
+2026-01-11 13:53:41,204 - WARNING - Failed to generate output for 406_2
+2026-01-11 16:34:44,856 - WARNING - No valid candidates generated
+2026-01-11 16:34:44,856 - WARNING - Failed to generate output for 757_2
+2026-01-11 17:16:15,889 - WARNING - No valid candidates generated
+2026-01-11 17:16:15,890 - WARNING - Failed to generate output for 819_1
+2026-01-11 18:32:44,615 - WARNING - No valid candidates generated
+2026-01-11 18:32:44,615 - WARNING - Failed to generate output for 190_1
+2026-01-11 19:03:20,170 - INFO - ======================================================================
+2026-01-11 19:03:20,170 - INFO - VirtualHome Transition Modeling - Structured Self-Consistency (SSC)
+2026-01-11 19:03:20,170 - INFO - ======================================================================
+2026-01-11 19:03:20,170 - INFO - 配置:
+2026-01-11 19:03:20,170 - INFO -   样本数: 5
+2026-01-11 19:03:20,171 - INFO -   Temperature: 0.7
+2026-01-11 19:03:20,171 - INFO -   Top-p: 0.95
+2026-01-11 19:03:20,171 - INFO -   投票策略: skeleton
+2026-01-11 19:03:20,171 - INFO -   提示词文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/output/virtualhome/generate_prompts/transition_modeling/virtualhome_transition_modeling.json
+2026-01-11 19:03:20,171 - INFO -   输出目录: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m
+2026-01-11 19:03:20,171 - INFO - ======================================================================
+2026-01-11 19:03:20,195 - INFO - 读取到 296 条提示词
+2026-01-11 19:03:20,195 - INFO - 输出文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/virtualhome_transition_modeling_sc5_outputs.json
+2026-01-11 19:03:20,196 - INFO - 发现已有结果文件，包含 60 条记录，将跳过已完成项。
+2026-01-11 19:18:32,029 - WARNING - No valid candidates generated
+2026-01-11 19:18:32,029 - WARNING - Failed to generate output for 27_2
+2026-01-11 19:36:39,626 - WARNING - No valid candidates generated
+2026-01-11 19:36:39,626 - WARNING - Failed to generate output for 850_1
+2026-01-11 19:54:47,354 - WARNING - No valid candidates generated
+2026-01-11 19:54:47,354 - WARNING - Failed to generate output for 954_2
+2026-01-11 20:07:26,241 - WARNING - No valid candidates generated
+2026-01-11 20:07:26,242 - WARNING - Failed to generate output for 120_1
+2026-01-11 20:54:52,297 - WARNING - No valid candidates generated
+2026-01-11 20:54:52,297 - WARNING - Failed to generate output for 708_1
+2026-01-11 21:12:54,685 - WARNING - No valid candidates generated
+2026-01-11 21:12:54,685 - WARNING - Failed to generate output for 696_1
+2026-01-11 21:47:03,146 - WARNING - No valid candidates generated
+2026-01-11 21:47:03,146 - WARNING - Failed to generate output for 298_2
+2026-01-11 22:22:46,875 - WARNING - No valid candidates generated
+2026-01-11 22:22:46,876 - WARNING - Failed to generate output for 837_2
+2026-01-11 22:57:01,823 - WARNING - No valid candidates generated
+2026-01-11 22:57:01,823 - WARNING - Failed to generate output for 323_2
+2026-01-11 23:15:11,258 - WARNING - No valid candidates generated
+2026-01-11 23:15:11,258 - WARNING - Failed to generate output for 430_2
+2026-01-12 01:07:08,439 - WARNING - No valid candidates generated
+2026-01-12 01:07:08,439 - WARNING - Failed to generate output for 190_1
+2026-01-12 01:43:02,214 - WARNING - No valid candidates generated
+2026-01-12 01:43:02,215 - WARNING - Failed to generate output for 327_2
+2026-01-12 02:00:31,796 - WARNING - No valid candidates generated
+2026-01-12 02:00:31,796 - WARNING - Failed to generate output for 383_1
+2026-01-12 02:18:47,969 - WARNING - No valid candidates generated
+2026-01-12 02:18:47,969 - WARNING - Failed to generate output for 417_2
+2026-01-12 02:37:03,339 - WARNING - No valid candidates generated
+2026-01-12 02:37:03,340 - WARNING - Failed to generate output for 487_1
+2026-01-12 02:55:03,017 - WARNING - No valid candidates generated
+2026-01-12 02:55:03,017 - WARNING - Failed to generate output for 650_2
+2026-01-12 03:13:22,266 - WARNING - No valid candidates generated
+2026-01-12 03:13:22,266 - WARNING - Failed to generate output for 783_1
+2026-01-12 03:31:40,885 - WARNING - No valid candidates generated
+2026-01-12 03:31:40,885 - WARNING - Failed to generate output for 815_2
+2026-01-12 03:49:56,158 - WARNING - No valid candidates generated
+2026-01-12 03:49:56,158 - WARNING - Failed to generate output for 826_1
+2026-01-12 04:08:08,367 - WARNING - No valid candidates generated
+2026-01-12 04:08:08,367 - WARNING - Failed to generate output for 856_1
+2026-01-12 04:26:25,173 - WARNING - No valid candidates generated
+2026-01-12 04:26:25,174 - WARNING - Failed to generate output for 911_1
+2026-01-12 05:46:50,278 - WARNING - No valid candidates generated
+2026-01-12 05:46:50,278 - WARNING - Failed to generate output for 509_2
+2026-01-12 06:04:02,626 - WARNING - No valid candidates generated
+2026-01-12 06:04:02,626 - WARNING - Failed to generate output for 875_1
+2026-01-12 06:15:26,221 - WARNING - No valid candidates generated
+2026-01-12 06:15:26,222 - WARNING - Failed to generate output for 1035_1
+2026-01-12 06:31:01,888 - WARNING - No valid candidates generated
+2026-01-12 06:31:01,888 - WARNING - Failed to generate output for 113_2
+2026-01-12 06:47:46,531 - WARNING - No valid candidates generated
+2026-01-12 06:47:46,531 - WARNING - Failed to generate output for 12_2
+2026-01-12 07:32:06,835 - WARNING - No valid candidates generated
+2026-01-12 07:32:06,836 - WARNING - Failed to generate output for 220_2
+2026-01-12 08:20:55,409 - WARNING - No valid candidates generated
+2026-01-12 08:20:55,410 - WARNING - Failed to generate output for 292_1
+2026-01-12 08:55:31,503 - WARNING - No valid candidates generated
+2026-01-12 08:55:31,504 - WARNING - Failed to generate output for 381_1
+2026-01-12 11:06:56,199 - WARNING - No valid candidates generated
+2026-01-12 11:06:56,199 - WARNING - Failed to generate output for 612_1
+2026-01-12 11:22:32,806 - WARNING - No valid candidates generated
+2026-01-12 11:22:32,806 - WARNING - Failed to generate output for 856_2
+2026-01-12 11:40:47,866 - WARNING - No valid candidates generated
+2026-01-12 11:40:47,867 - WARNING - Failed to generate output for 384_1
+2026-01-12 12:26:11,676 - WARNING - No valid candidates generated
+2026-01-12 12:26:11,677 - WARNING - Failed to generate output for 71_2
+2026-01-12 12:43:33,515 - WARNING - No valid candidates generated
+2026-01-12 12:43:33,515 - WARNING - Failed to generate output for 7_1
+2026-01-12 13:15:41,636 - WARNING - No valid candidates generated
+2026-01-12 13:15:41,636 - WARNING - Failed to generate output for 313_2
+2026-01-12 13:33:47,298 - WARNING - No valid candidates generated
+2026-01-12 13:33:47,298 - WARNING - Failed to generate output for 689_1
+2026-01-12 15:41:20,063 - WARNING - No valid candidates generated
+2026-01-12 15:41:20,063 - WARNING - Failed to generate output for 363_2
+2026-01-12 17:07:12,317 - WARNING - No valid candidates generated
+2026-01-12 17:07:12,317 - WARNING - Failed to generate output for 503_2
+2026-01-12 17:24:07,816 - WARNING - No valid candidates generated
+2026-01-12 17:24:07,817 - WARNING - Failed to generate output for 59_1
+2026-01-12 17:56:19,997 - ERROR - API调用超时
+2026-01-12 18:53:17,713 - ERROR - API调用超时
+2026-01-12 18:56:31,604 - WARNING - No valid candidates generated
+2026-01-12 18:56:31,604 - WARNING - Failed to generate output for 134_1
+2026-01-12 19:09:55,159 - WARNING - No valid candidates generated
+2026-01-12 19:09:55,159 - WARNING - Failed to generate output for 170_1
+2026-01-12 19:36:52,635 - WARNING - No valid candidates generated
+2026-01-12 19:36:52,635 - WARNING - Failed to generate output for 21_2
+2026-01-12 19:51:55,004 - WARNING - No valid candidates generated
+2026-01-12 19:51:55,004 - WARNING - Failed to generate output for 225_2
+2026-01-12 20:02:53,871 - WARNING - No valid candidates generated
+2026-01-12 20:02:53,871 - WARNING - Failed to generate output for 259_1
+2026-01-12 21:10:24,185 - ERROR - API调用超时
+2026-01-12 21:10:24,185 - WARNING - No valid candidates generated
+2026-01-12 21:10:24,185 - WARNING - Failed to generate output for 383_2
+2026-01-12 21:57:40,323 - WARNING - No valid candidates generated
+2026-01-12 21:57:40,323 - WARNING - Failed to generate output for 459_1
+2026-01-12 22:18:36,489 - ERROR - API调用超时
+2026-01-12 23:03:45,093 - ERROR - API调用超时
+2026-01-12 23:08:45,194 - ERROR - API调用超时
+2026-01-12 23:47:58,704 - WARNING - No valid candidates generated
+2026-01-12 23:47:58,704 - WARNING - Failed to generate output for 1064_1
+2026-01-12 23:59:47,327 - ERROR - API调用超时
+2026-01-13 00:04:47,429 - ERROR - API调用超时
+2026-01-13 00:08:09,347 - WARNING - No valid candidates generated
+2026-01-13 00:08:09,347 - WARNING - Failed to generate output for 156_1
+2026-01-13 00:24:22,821 - WARNING - No valid candidates generated
+2026-01-13 00:24:22,822 - WARNING - Failed to generate output for 171_2
+2026-01-13 01:15:05,933 - ERROR - API调用超时
+2026-01-13 01:20:06,033 - ERROR - API调用超时
+2026-01-13 01:25:06,133 - ERROR - API调用超时
+2026-01-13 01:25:06,133 - WARNING - No valid candidates generated
+2026-01-13 01:25:06,133 - WARNING - Failed to generate output for 286_2
+2026-01-13 01:30:06,233 - ERROR - API调用超时
+2026-01-13 01:35:06,333 - ERROR - API调用超时
+2026-01-13 01:40:06,433 - ERROR - API调用超时
+2026-01-13 01:45:06,532 - ERROR - API调用超时
+2026-01-13 01:50:06,633 - ERROR - API调用超时
+2026-01-13 01:50:06,633 - WARNING - No valid candidates generated
+2026-01-13 01:50:06,633 - WARNING - Failed to generate output for 291_1
+2026-01-13 01:55:06,733 - ERROR - API调用超时
+2026-01-13 02:00:06,833 - ERROR - API调用超时
+2026-01-13 02:05:06,933 - ERROR - API调用超时
+2026-01-13 02:10:07,033 - ERROR - API调用超时
+2026-01-13 02:15:07,133 - ERROR - API调用超时
+2026-01-13 02:15:07,133 - WARNING - No valid candidates generated
+2026-01-13 02:15:07,133 - WARNING - Failed to generate output for 317_2
+2026-01-13 02:20:07,245 - ERROR - API调用超时
+2026-01-13 02:25:07,346 - ERROR - API调用超时
+2026-01-13 02:30:07,445 - ERROR - API调用超时
+2026-01-13 02:35:07,545 - ERROR - API调用超时
+2026-01-13 02:40:07,645 - ERROR - API调用超时
+2026-01-13 02:40:07,645 - WARNING - No valid candidates generated
+2026-01-13 02:40:07,645 - WARNING - Failed to generate output for 488_2
+2026-01-13 02:45:07,745 - ERROR - API调用超时
+2026-01-13 02:50:07,845 - ERROR - API调用超时
+2026-01-13 02:55:07,945 - ERROR - API调用超时
+2026-01-13 03:00:08,045 - ERROR - API调用超时
+2026-01-13 03:05:08,145 - ERROR - API调用超时
+2026-01-13 03:05:08,145 - WARNING - No valid candidates generated
+2026-01-13 03:05:08,145 - WARNING - Failed to generate output for 510_1
+2026-01-13 03:10:08,245 - ERROR - API调用超时
+2026-01-13 03:15:08,345 - ERROR - API调用超时
+2026-01-13 03:20:08,445 - ERROR - API调用超时
+2026-01-13 03:25:08,545 - ERROR - API调用超时
+2026-01-13 03:30:08,645 - ERROR - API调用超时
+2026-01-13 03:30:08,645 - WARNING - No valid candidates generated
+2026-01-13 03:30:08,645 - WARNING - Failed to generate output for 528_1
+2026-01-13 03:35:08,745 - ERROR - API调用超时
+2026-01-13 03:40:08,845 - ERROR - API调用超时
+2026-01-13 03:45:08,945 - ERROR - API调用超时
+2026-01-13 03:50:09,045 - ERROR - API调用超时
+2026-01-13 03:55:09,145 - ERROR - API调用超时
+2026-01-13 03:55:09,145 - WARNING - No valid candidates generated
+2026-01-13 03:55:09,146 - WARNING - Failed to generate output for 532_1
+2026-01-13 04:00:09,245 - ERROR - API调用超时
+2026-01-13 04:40:02,096 - WARNING - No valid candidates generated
+2026-01-13 04:40:02,096 - WARNING - Failed to generate output for 662_1
+2026-01-13 05:41:33,481 - WARNING - No valid candidates generated
+2026-01-13 05:41:33,481 - WARNING - Failed to generate output for 814_1
+2026-01-13 05:59:36,651 - WARNING - No valid candidates generated
+2026-01-13 05:59:36,651 - WARNING - Failed to generate output for 850_2
+2026-01-13 06:31:43,938 - WARNING - No valid candidates generated
+2026-01-13 06:31:43,939 - WARNING - Failed to generate output for 878_2
+2026-01-13 07:01:07,592 - WARNING - No valid candidates generated
+2026-01-13 07:01:07,593 - WARNING - Failed to generate output for 1088_1
+2026-01-13 07:30:32,763 - WARNING - No valid candidates generated
+2026-01-13 07:30:32,763 - WARNING - Failed to generate output for 163_1
+2026-01-13 07:47:21,665 - WARNING - No valid candidates generated
+2026-01-13 07:47:21,665 - WARNING - Failed to generate output for 16_2
+2026-01-13 08:14:16,888 - WARNING - No valid candidates generated
+2026-01-13 08:14:16,889 - WARNING - Failed to generate output for 208_2
+2026-01-13 08:41:09,610 - WARNING - No valid candidates generated
+2026-01-13 08:41:09,610 - WARNING - Failed to generate output for 241_2
+2026-01-13 08:59:15,399 - WARNING - No valid candidates generated
+2026-01-13 08:59:15,399 - WARNING - Failed to generate output for 341_1
+2026-01-13 10:04:08,654 - WARNING - No valid candidates generated
+2026-01-13 10:04:08,654 - WARNING - Failed to generate output for 57_1
+2026-01-13 10:22:09,556 - WARNING - No valid candidates generated
+2026-01-13 10:22:09,557 - WARNING - Failed to generate output for 617_2
+2026-01-13 11:09:34,409 - WARNING - No valid candidates generated
+2026-01-13 11:09:34,409 - WARNING - Failed to generate output for 693_2
+2026-01-13 11:50:40,180 - WARNING - No valid candidates generated
+2026-01-13 11:50:40,180 - WARNING - Failed to generate output for 896_2
+2026-01-13 12:25:01,964 - WARNING - No valid candidates generated
+2026-01-13 12:25:01,964 - WARNING - Failed to generate output for 1083_2
+2026-01-13 12:43:03,828 - WARNING - No valid candidates generated
+2026-01-13 12:43:03,828 - WARNING - Failed to generate output for 392_2
+2026-01-13 13:00:15,058 - WARNING - No valid candidates generated
+2026-01-13 13:00:15,058 - WARNING - Failed to generate output for 755_2
+2026-01-13 13:35:02,389 - WARNING - No valid candidates generated
+2026-01-13 13:35:02,389 - WARNING - Failed to generate output for 137_1
+2026-01-13 14:19:44,364 - WARNING - No valid candidates generated
+2026-01-13 14:19:44,364 - WARNING - Failed to generate output for 297_2
+2026-01-13 14:35:22,382 - WARNING - No valid candidates generated
+2026-01-13 14:35:22,382 - WARNING - Failed to generate output for 299_1
+2026-01-13 14:50:07,770 - WARNING - No valid candidates generated
+2026-01-13 14:50:07,770 - WARNING - Failed to generate output for 300_1
+2026-01-13 15:54:47,680 - WARNING - No valid candidates generated
+2026-01-13 15:54:47,680 - WARNING - Failed to generate output for 387_1
+2026-01-13 17:28:15,110 - WARNING - No valid candidates generated
+2026-01-13 17:28:15,110 - WARNING - Failed to generate output for 447_2
+2026-01-13 17:43:55,706 - WARNING - No valid candidates generated
+2026-01-13 17:43:55,706 - WARNING - Failed to generate output for 449_1
+2026-01-13 17:59:26,505 - WARNING - No valid candidates generated
+2026-01-13 17:59:26,505 - WARNING - Failed to generate output for 455_1
+2026-01-13 19:33:26,282 - WARNING - No valid candidates generated
+2026-01-13 19:33:26,282 - WARNING - Failed to generate output for 570_1
+2026-01-13 22:03:21,297 - WARNING - No valid candidates generated
+2026-01-13 22:03:21,297 - WARNING - Failed to generate output for 976_1
+2026-01-13 22:20:20,021 - WARNING - No valid candidates generated
+2026-01-13 22:20:20,022 - WARNING - Failed to generate output for 149_1
+2026-01-14 00:14:36,516 - WARNING - No valid candidates generated
+2026-01-14 00:14:36,517 - WARNING - Failed to generate output for 287_2
+2026-01-14 01:32:39,978 - WARNING - No valid candidates generated
+2026-01-14 01:32:39,978 - WARNING - Failed to generate output for 442_2
+2026-01-14 01:48:35,311 - WARNING - No valid candidates generated
+2026-01-14 01:48:35,312 - WARNING - Failed to generate output for 474_2
+2026-01-14 02:47:45,931 - WARNING - No valid candidates generated
+2026-01-14 02:47:45,932 - WARNING - Failed to generate output for 601_2
+2026-01-14 03:22:36,972 - WARNING - No valid candidates generated
+2026-01-14 03:22:36,972 - WARNING - Failed to generate output for 864_2
+2026-01-14 03:37:59,337 - WARNING - No valid candidates generated
+2026-01-14 03:37:59,338 - WARNING - Failed to generate output for 963_2
+2026-01-14 03:53:20,034 - WARNING - No valid candidates generated
+2026-01-14 03:53:20,034 - WARNING - Failed to generate output for 974_1
+2026-01-14 04:35:21,731 - WARNING - No valid candidates generated
+2026-01-14 04:35:21,731 - WARNING - Failed to generate output for 183_2
+2026-01-14 04:52:25,517 - WARNING - No valid candidates generated
+2026-01-14 04:52:25,517 - WARNING - Failed to generate output for 229_1
+2026-01-14 05:10:28,451 - WARNING - No valid candidates generated
+2026-01-14 05:10:28,451 - WARNING - Failed to generate output for 310_2
+2026-01-14 05:28:28,798 - WARNING - No valid candidates generated
+2026-01-14 05:28:28,798 - WARNING - Failed to generate output for 721_2
+2026-01-14 05:43:44,790 - WARNING - No valid candidates generated
+2026-01-14 05:43:44,790 - WARNING - Failed to generate output for 764_2
+2026-01-14 06:01:46,587 - WARNING - No valid candidates generated
+2026-01-14 06:01:46,587 - WARNING - Failed to generate output for 419_2
+2026-01-14 06:17:34,824 - WARNING - No valid candidates generated
+2026-01-14 06:17:34,824 - WARNING - Failed to generate output for 446_2
+2026-01-14 06:35:06,052 - WARNING - No valid candidates generated
+2026-01-14 06:35:06,052 - WARNING - Failed to generate output for 710_2
+2026-01-14 06:49:15,157 - WARNING - No valid candidates generated
+2026-01-14 06:49:15,158 - WARNING - Failed to generate output for 368_1
+2026-01-14 07:19:07,074 - WARNING - No valid candidates generated
+2026-01-14 07:19:07,074 - WARNING - Failed to generate output for 975_2
+2026-01-14 07:19:07,076 - INFO - ======================================================================
+2026-01-14 07:19:07,076 - INFO - 处理完成!
+2026-01-14 07:19:07,076 - INFO - ======================================================================
+2026-01-14 07:19:07,077 - INFO - 统计信息:
+2026-01-14 07:19:07,077 - INFO -   总数: 236
+2026-01-14 07:19:07,077 - INFO -   成功: 135
+2026-01-14 07:19:07,077 - INFO -   失败: 101
+2026-01-14 07:19:07,077 - INFO -   平均置信度: 0.850
+2026-01-14 07:19:07,077 - INFO -   高置信度 (>0.6): 100
+2026-01-14 07:19:07,077 - INFO -   中置信度 (0.4-0.6): 31
+2026-01-14 07:19:07,077 - INFO -   低置信度 (<0.4): 4
+2026-01-14 07:19:07,077 - INFO -   输出文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/virtualhome_transition_modeling_sc5_outputs.json

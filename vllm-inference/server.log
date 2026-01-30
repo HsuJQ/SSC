@@ -1,0 +1,59 @@
+nohup: ignoring input
+INFO 11-30 15:33:36 [__init__.py:39] Available plugins for group vllm.platform_plugins:
+INFO 11-30 15:33:36 [__init__.py:41] - ascend -> vllm_ascend:register
+INFO 11-30 15:33:36 [__init__.py:44] All plugins in this group will be loaded. Set `VLLM_PLUGINS` to control which plugins to load.
+INFO 11-30 15:33:36 [__init__.py:235] Platform plugin ascend is activated
+WARNING 11-30 15:33:38 [_custom_ops.py:20] Failed to import from vllm._C with ImportError('/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/_C.abi3.so: undefined symbol: _ZN3c108ListType3getERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEENS_4Type24SingletonOrSharedTypePtrIS9_EE')
+INFO 11-30 15:33:41 [importing.py:63] Triton not installed or not compatible; certain GPU-related functions will not be available.
+WARNING 11-30 15:33:42 [registry.py:413] Model architecture DeepSeekMTPModel is already registered, and will be overwritten by the new model class vllm_ascend.models.deepseek_mtp:CustomDeepSeekMTP.
+WARNING 11-30 15:33:42 [registry.py:413] Model architecture Qwen2VLForConditionalGeneration is already registered, and will be overwritten by the new model class vllm_ascend.models.qwen2_vl:AscendQwen2VLForConditionalGeneration.
+WARNING 11-30 15:33:42 [registry.py:413] Model architecture Qwen2_5_VLForConditionalGeneration is already registered, and will be overwritten by the new model class vllm_ascend.models.qwen2_5_vl:AscendQwen2_5_VLForConditionalGeneration.
+WARNING 11-30 15:33:42 [registry.py:413] Model architecture DeepseekV2ForCausalLM is already registered, and will be overwritten by the new model class vllm_ascend.models.deepseek_v2:CustomDeepseekV2ForCausalLM.
+WARNING 11-30 15:33:42 [registry.py:413] Model architecture DeepseekV3ForCausalLM is already registered, and will be overwritten by the new model class vllm_ascend.models.deepseek_v2:CustomDeepseekV3ForCausalLM.
+WARNING 11-30 15:33:42 [registry.py:413] Model architecture Qwen3MoeForCausalLM is already registered, and will be overwritten by the new model class vllm_ascend.models.qwen3_moe:CustomQwen3MoeForCausalLM.
+INFO 11-30 15:33:43 [api_server.py:1395] vLLM API server version 0.9.2
+INFO 11-30 15:33:43 [cli_args.py:325] non-default args: {'host': '0.0.0.0', 'port': 1040, 'model': '/opt/pangu/openPangu-Embedded-7B-V1.1', 'tokenizer_mode': 'slow', 'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 16384, 'served_model_name': ['pangu_embedded_7b'], 'distributed_executor_backend': 'mp', 'tensor_parallel_size': 4, 'enable_prefix_caching': False, 'max_num_batched_tokens': 4096, 'max_num_seqs': 32, 'enable_chunked_prefill': False}
+INFO 11-30 15:33:58 [config.py:841] This model supports multiple tasks: {'generate', 'reward', 'classify', 'embed'}. Defaulting to 'generate'.
+INFO 11-30 15:33:58 [config.py:1472] Using max model len 16384
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/pangu/bin/vllm", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/entrypoints/cli/main.py", line 65, in main
+    args.dispatch_function(args)
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/entrypoints/cli/serve.py", line 55, in cmd
+    uvloop.run(run_server(args))
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/uvloop/__init__.py", line 105, in run
+    return runner.run(wrapper())
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pangu/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/uvloop/__init__.py", line 61, in wrapper
+    return await main
+           ^^^^^^^^^^
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/entrypoints/openai/api_server.py", line 1431, in run_server
+    await run_server_worker(listen_address, sock, args, **uvicorn_kwargs)
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/entrypoints/openai/api_server.py", line 1451, in run_server_worker
+    async with build_async_engine_client(args, client_config) as engine_client:
+  File "/root/miniconda3/envs/pangu/lib/python3.11/contextlib.py", line 204, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/entrypoints/openai/api_server.py", line 158, in build_async_engine_client
+    async with build_async_engine_client_from_engine_args(
+  File "/root/miniconda3/envs/pangu/lib/python3.11/contextlib.py", line 204, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/entrypoints/openai/api_server.py", line 180, in build_async_engine_client_from_engine_args
+    vllm_config = engine_args.create_engine_config(usage_context=usage_context)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/vllm/engine/arg_utils.py", line 1223, in create_engine_config
+    scheduler_config = SchedulerConfig(
+                       ^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pangu/lib/python3.11/site-packages/pydantic/_internal/_dataclasses.py", line 123, in __init__
+    s.__pydantic_validator__.validate_python(ArgsKwargs(args, kwargs), self_instance=s)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for SchedulerConfig
+  Value error, max_num_batched_tokens (4096) is smaller than max_model_len (16384). This effectively limits the maximum sequence length to max_num_batched_tokens and makes vLLM reject longer sequences. Please increase max_num_batched_tokens or decrease max_model_len. [type=value_error, input_value=ArgsKwargs((), {'runner_t..._cache_manager': False}), input_type=ArgsKwargs]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+[ERROR] 2025-11-30-15:33:58 (PID:1812316, Device:-1, RankID:-1) ERR99999 UNKNOWN applicaiton exception

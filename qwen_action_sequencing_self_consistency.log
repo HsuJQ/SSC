@@ -1,0 +1,27 @@
+2025-12-28 22:48:42,126 - INFO - ============================================================
+2025-12-28 22:48:42,126 - INFO - VirtualHome Action Sequencing - Self-Consistency (Qwen)
+2025-12-28 22:48:42,126 - INFO - ============================================================
+2025-12-28 22:48:42,126 - INFO - 配置:
+2025-12-28 22:48:42,126 - INFO -   模型: qwen2.5_7b_instruct
+2025-12-28 22:48:42,126 - INFO -   样本数: 5
+2025-12-28 22:48:42,126 - INFO -   Temperature: 0.7
+2025-12-28 22:48:42,126 - INFO -   Top-p: 0.95
+2025-12-28 22:48:42,127 - INFO -   投票策略: action_sequence
+2025-12-28 22:48:42,127 - INFO -   提示词文件: /opt/pangu/examples/vllm-inference/virtualhome/test/generate_prompts/action_sequencing/virtualhome_action_sequencing_prompts.json
+2025-12-28 22:48:42,127 - INFO -   输出目录: /opt/pangu/examples/vllm-inference/virtualhome/action_m
+2025-12-28 22:48:42,127 - INFO - ============================================================
+2025-12-28 22:48:42,141 - INFO - 读取到 342 条提示词
+2025-12-28 22:48:42,142 - INFO - 输出文件: /opt/pangu/examples/vllm-inference/virtualhome/action_m/virtualhome_action_sequencing_sc5_outputs.json
+2025-12-28 23:50:50,590 - INFO - ============================================================
+2025-12-28 23:50:50,591 - INFO - 处理完成!
+2025-12-28 23:50:50,591 - INFO - ============================================================
+2025-12-28 23:50:50,591 - INFO - 统计信息:
+2025-12-28 23:50:50,591 - INFO -   总数: 342
+2025-12-28 23:50:50,591 - INFO -   成功处理: 342
+2025-12-28 23:50:50,591 - INFO -   高置信度 (>0.6): 191
+2025-12-28 23:50:50,591 - INFO -   中置信度 (0.4-0.6): 143
+2025-12-28 23:50:50,591 - INFO -   低置信度 (<0.4): 8
+2025-12-28 23:50:50,591 - INFO -   失败: 0
+2025-12-28 23:50:50,591 - INFO -   平均置信度: 0.742
+2025-12-28 23:50:50,592 - INFO -   成功率: 100.0%
+2025-12-28 23:50:50,592 - INFO - 输出文件: /opt/pangu/examples/vllm-inference/virtualhome/action_m/virtualhome_action_sequencing_sc5_outputs.json

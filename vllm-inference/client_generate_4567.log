@@ -1,0 +1,20 @@
+2025-12-10 11:22:38,311 - INFO - [4567] - [pangu_embedded_7b] - 检测到 8 个 NPU 设备 (Client可见)
+2025-12-10 11:22:38,312 - INFO - [4567] - [pangu_embedded_7b] - Pangu 模型运行在 NPU: 4, 5, 6, 7
+2025-12-10 11:22:46,541 - INFO - [4567] - [pangu_embedded_7b] -   设备 4: Ascend910B2, 总显存: 60.97 GB
+2025-12-10 11:22:46,542 - INFO - [4567] - [pangu_embedded_7b] -   设备 5: Ascend910B2, 总显存: 60.97 GB
+2025-12-10 11:22:46,542 - INFO - [4567] - [pangu_embedded_7b] -   设备 6: Ascend910B2, 总显存: 60.97 GB
+2025-12-10 11:22:46,543 - INFO - [4567] - [pangu_embedded_7b] -   设备 7: Ascend910B2, 总显存: 60.97 GB
+2025-12-10 11:22:46,543 - INFO - [4567] - [pangu_embedded_7b] - Pangu 模型路径: /opt/pangu/openPangu-Embedded-7B-V1.1
+2025-12-10 11:22:46,544 - INFO - [4567] - [pangu_embedded_7b] - 正在处理文件: /opt/pangu/examples/vllm-inference/virtualhome_m/test/subgoal_decomposition/virtualhome_subgoal_decomposition.json
+2025-12-10 23:50:46,185 - INFO - [4567] - [pangu_embedded_7b] - 正在处理文件: /opt/pangu/examples/vllm-inference/virtualhome_m/test/llm_output/virtualhome_subgoal_decomposition_outputs.json
+2025-12-10 23:50:46,190 - INFO - [4567] - [pangu_embedded_7b] - 正在处理文件: /opt/pangu/examples/vllm-inference/virtualhome_m/test/transition_modeling/virtualhome_transition_modeling.json
+2025-12-12 02:08:44,492 - INFO - [4567] - [pangu_embedded_7b] - 所有任务完成。
+2025-12-20 14:39:06,251 - INFO - [4567] - [pangu_embedded_7b] - 检测到 8 个 NPU 设备 (Client可见)
+2025-12-20 14:39:06,252 - INFO - [4567] - [pangu_embedded_7b] - Pangu 模型运行在 NPU: 4, 5, 6, 7
+2025-12-20 14:39:14,438 - INFO - [4567] - [pangu_embedded_7b] -   设备 4: Ascend910B2, 总显存: 60.97 GB
+2025-12-20 14:39:14,439 - INFO - [4567] - [pangu_embedded_7b] -   设备 5: Ascend910B2, 总显存: 60.97 GB
+2025-12-20 14:39:14,439 - INFO - [4567] - [pangu_embedded_7b] -   设备 6: Ascend910B2, 总显存: 60.97 GB
+2025-12-20 14:39:14,439 - INFO - [4567] - [pangu_embedded_7b] -   设备 7: Ascend910B2, 总显存: 60.97 GB
+2025-12-20 14:39:14,440 - INFO - [4567] - [pangu_embedded_7b] - Pangu 模型路径: /opt/pangu/openPangu-Embedded-7B-V1.1
+2025-12-20 14:39:14,440 - INFO - [4567] - [pangu_embedded_7b] - 正在处理文件: /opt/pangu/examples/vllm-inference/virtualhome/a_test/generate_prompts/action_sequencing/virtualhome_action_sequencing_prompts.json
+2025-12-21 15:30:47,404 - INFO - [4567] - [pangu_embedded_7b] - 所有任务完成。

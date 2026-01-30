@@ -1,0 +1,53 @@
+2026-01-05 14:04:47 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <washing_machine> (1001) [1]
+2026-01-05 14:04:47 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <washing_machine> (1000) [1]
+2026-01-05 14:04:55 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <light> (245)
+2026-01-05 14:04:55 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <light> (245) [1]"
+2026-01-05 14:05:58 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <bathroom> (1)
+2026-01-05 14:05:58 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <bathroom> (1) [1]"
+2026-01-05 14:06:52 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dishwasher> (1000) [1]
+2026-01-05 14:06:52 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dishwasher> (1000) [1]
+2026-01-05 14:06:54 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dishwasher> (1000) [1]
+2026-01-05 14:06:59 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dishwasher> (1000) [1]
+2026-01-05 14:07:00 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dishwasher> (1000) [1]
+2026-01-05 14:07:01 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dishwasher> (1000) [1]
+2026-01-05 14:07:15 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [OPEN] <faucet> (43) [1]
+2026-01-05 14:07:42 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <laptop> (1000)
+2026-01-05 14:07:42 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <laptop> (1000) [1]"
+2026-01-05 14:07:47 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <home_office> (319)
+2026-01-05 14:07:47 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[WALK] <home_office> (319) [1]"
+2026-01-05 14:07:49 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <cd_player> (1000) [1]
+2026-01-05 14:07:50 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dvd_player> (1000) [1]
+2026-01-05 14:07:51 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:07:53 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:07:54 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:07:54 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:07:55 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dvd_player> (1001) [1]
+2026-01-05 14:07:57 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <cd_player> (1000) [1]
+2026-01-05 14:07:58 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:08:00 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:08:01 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:08:04 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:08:05 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:08:07 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-05 14:08:08 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <cd_player> (1001) [1]
+2026-01-05 14:08:17 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <television> (410)
+2026-01-05 14:08:17 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <television> (410) [1]"
+2026-01-05 14:08:43 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <couch> (352)
+2026-01-05 14:08:43 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[WALK] <couch> (352) [1]"
+2026-01-05 14:08:46 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <water_glass> (1001)
+2026-01-05 14:08:46 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <water_glass> (1001) [1]"
+2026-01-05 14:08:46 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <water_glass> (1001)
+2026-01-05 14:08:46 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <water_glass> (1001) [1]"
+2026-01-05 14:08:57 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <novel> (1000)
+2026-01-05 14:08:57 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <novel> (1000) [1]"
+2026-01-05 14:09:00 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <home_office> (319)
+2026-01-05 14:09:00 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[WALK] <home_office> (319) [1]"
+2026-01-05 14:09:13 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <novel> (1000)
+2026-01-05 14:09:13 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <novel> (1000) [1]"
+2026-01-05 14:09:13 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <oven> (295) [1]
+2026-01-05 14:09:55 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <phone> (1000)
+2026-01-05 14:09:55 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <phone> (1000) [1]"
+2026-01-05 14:09:57 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <phone> (247)
+2026-01-05 14:09:57 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <phone> (247) [1]"
+2026-01-05 14:10:15 - virtualhome_eval.evaluation.subgoal_decomposition.scripts.evaluate_results - Results saved to ./output/virtualhome/evaluate_results/subgoal_decomposition/virtualhome_subgoal_decomposition/error_info.json
+2026-01-05 14:10:16 - virtualhome_eval.evaluation.subgoal_decomposition.scripts.evaluate_results - Evaluate results of virtualhome_subgoal_decomposition saved to ./output/virtualhome/evaluate_results/subgoal_decomposition/virtualhome_subgoal_decomposition/summary.json

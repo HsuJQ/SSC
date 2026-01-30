@@ -1,0 +1,195 @@
+2026-01-11 18:46:07 - virtualhome_eval.evaluation.transition_modeling.scripts.evaluate_results - load llm response from /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/qwen/virtualhome/transition_modeling
+2026-01-11 18:46:07 - worker_3236420 - task name is Wash clothes
+2026-01-11 18:46:07 - worker_3236421 - task name is Wash clothes
+2026-01-11 18:46:07 - worker_3236420 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236421 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236422 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236422 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236423 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236423 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236424 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236424 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236425 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236425 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236426 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236426 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236427 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236427 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236428 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236428 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236429 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236429 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236430 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236430 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236431 - task name is Turn on light
+2026-01-11 18:46:07 - worker_3236431 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236432 - task name is Brush teeth
+2026-01-11 18:46:07 - worker_3236432 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236433 - task name is Put groceries in Fridge
+2026-01-11 18:46:07 - worker_3236433 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236434 - task name is Put groceries in Fridge
+2026-01-11 18:46:07 - worker_3236434 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236435 - task name is Go to toilet
+2026-01-11 18:46:07 - worker_3236435 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236436 - task name is Go to toilet
+2026-01-11 18:46:07 - worker_3236436 - category names are ['spatial_relations', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236437 - task name is Change TV channel
+2026-01-11 18:46:07 - worker_3236437 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236438 - task name is Work
+2026-01-11 18:46:07 - worker_3236438 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236439 - task name is Work
+2026-01-11 18:46:07 - worker_3236439 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236440 - task name is Work
+2026-01-11 18:46:07 - worker_3236440 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236441 - task name is Work
+2026-01-11 18:46:07 - worker_3236441 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236443 - task name is Work
+2026-01-11 18:46:07 - worker_3236443 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236442 - task name is Work
+2026-01-11 18:46:07 - worker_3236442 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236444 - task name is Work
+2026-01-11 18:46:07 - worker_3236444 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236445 - task name is Work
+2026-01-11 18:46:07 - worker_3236445 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236446 - task name is Wash dishes with dishwasher
+2026-01-11 18:46:07 - worker_3236446 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236447 - task name is Wash dishes with dishwasher
+2026-01-11 18:46:07 - worker_3236447 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236448 - task name is Wash dishes with dishwasher
+2026-01-11 18:46:07 - worker_3236448 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236449 - task name is Wash dishes with dishwasher
+2026-01-11 18:46:07 - worker_3236449 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236420 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236420 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236450 - task name is Go to sleep
+2026-01-11 18:46:07 - worker_3236450 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236451 - task name is Go to sleep
+2026-01-11 18:46:07 - worker_3236451 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236421 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236421 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236422 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236422 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236423 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236423 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236424 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236424 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236422 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236422 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236426 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236426 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236427 - task name is Pet cat
+2026-01-11 18:46:07 - worker_3236427 - category names are ['spatial_relations', 'object_states']
+2026-01-11 18:46:07 - worker_3236428 - task name is Browse internet
+2026-01-11 18:46:07 - worker_3236428 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236429 - task name is Wash teeth
+2026-01-11 18:46:07 - worker_3236429 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236430 - task name is Wash teeth
+2026-01-11 18:46:07 - worker_3236430 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236431 - task name is Listen to music
+2026-01-11 18:46:07 - worker_3236431 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236432 - task name is Listen to music
+2026-01-11 18:46:07 - worker_3236432 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236433 - task name is Listen to music
+2026-01-11 18:46:07 - worker_3236433 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236434 - task name is Listen to music
+2026-01-11 18:46:07 - worker_3236434 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236435 - task name is Listen to music
+2026-01-11 18:46:07 - worker_3236435 - category names are ['spatial_relations', 'non-spatial_relations']
+2026-01-11 18:46:07 - worker_3236436 - task name is Listen to music
+2026-01-11 18:46:07 - worker_3236436 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236437 - task name is Watch TV
+2026-01-11 18:46:07 - worker_3236437 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236438 - task name is Watch TV
+2026-01-11 18:46:07 - worker_3236438 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236439 - task name is Watch TV
+2026-01-11 18:46:07 - worker_3236439 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236440 - task name is Watch TV
+2026-01-11 18:46:07 - worker_3236440 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236441 - task name is Watch TV
+2026-01-11 18:46:07 - worker_3236441 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236443 - task name is Watch TV
+2026-01-11 18:46:07 - worker_3236443 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236444 - task name is Drink
+2026-01-11 18:46:07 - worker_3236442 - task name is Watch TV
+2026-01-11 18:46:07 - worker_3236444 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236442 - category names are ['object_states', 'object_orientation']
+2026-01-11 18:46:07 - worker_3236445 - task name is Drink
+2026-01-11 18:46:07 - worker_3236445 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236446 - task name is Drink
+2026-01-11 18:46:07 - worker_3236446 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236447 - task name is Drink
+2026-01-11 18:46:07 - worker_3236447 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236448 - task name is Drink
+2026-01-11 18:46:07 - worker_3236448 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236420 - task name is Drink
+2026-01-11 18:46:07 - worker_3236420 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:07 - worker_3236449 - task name is Drink
+2026-01-11 18:46:07 - worker_3236449 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:07 - worker_3236421 - task name is Drink
+2026-01-11 18:46:07 - worker_3236421 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236450 - task name is Read book
+2026-01-11 18:46:08 - worker_3236450 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236451 - task name is Read book
+2026-01-11 18:46:08 - worker_3236451 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236425 - task name is Read book
+2026-01-11 18:46:08 - worker_3236425 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236423 - task name is Read book
+2026-01-11 18:46:08 - worker_3236423 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236424 - task name is Read book
+2026-01-11 18:46:08 - worker_3236424 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236422 - task name is Read book
+2026-01-11 18:46:08 - worker_3236422 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236426 - task name is Read book
+2026-01-11 18:46:08 - worker_3236426 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236427 - task name is Read book
+2026-01-11 18:46:08 - worker_3236427 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236428 - task name is Cook some food
+2026-01-11 18:46:08 - worker_3236428 - category names are ['object_states', 'non-spatial_relations']
+2026-01-11 18:46:08 - worker_3236429 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236429 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236430 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236430 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236431 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236431 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236432 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236432 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236433 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236433 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236434 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236434 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236435 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236435 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236436 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236436 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236434 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236434 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236438 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236438 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236439 - task name is Relax on sofa
+2026-01-11 18:46:08 - worker_3236439 - category names are ['object_affordance', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236440 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236440 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236441 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236441 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236443 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236443 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236444 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236444 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236442 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236442 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236445 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236445 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236446 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236446 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236447 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236447 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236448 - task name is Pick up phone
+2026-01-11 18:46:08 - worker_3236448 - category names are ['non-spatial_relations', 'spatial_relations']
+2026-01-11 18:46:08 - worker_3236420 - task name is Make coffee
+2026-01-11 18:46:08 - worker_3236420 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:08 - worker_3236449 - task name is Make coffee
+2026-01-11 18:46:08 - worker_3236449 - category names are ['object_states', 'object_affordance']
+2026-01-11 18:46:08 - worker_3236421 - task name is Set up table
+2026-01-11 18:46:08 - worker_3236421 - category names are ['object_states', 'non-spatial_relations']
+2026-01-11 18:46:08 - worker_3236450 - task name is Take shower
+2026-01-11 18:46:08 - worker_3236450 - category names are ['spatial_relations', 'object_states']

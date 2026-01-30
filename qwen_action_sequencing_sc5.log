@@ -1,0 +1,454 @@
+2025-12-28 21:11:54,228 - INFO - Starting Qwen Self-Consistency (k=5) for Action Sequencing
+2025-12-28 21:11:54,244 - INFO - Loaded 342 prompts, already processed 0
+2025-12-28 21:11:54,244 - INFO - Processing 27_2
+2025-12-28 21:11:54,251 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/v1/chat/completions
+2025-12-28 21:12:00,644 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/v1/chat/completions
+2025-12-28 21:12:05,021 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/v1/chat/completions
+2025-12-28 21:12:05,221 - INFO - Processing 417_1
+2025-12-28 21:14:13,756 - INFO - Starting Qwen Self-Consistency (k=5) for Action Sequencing
+2025-12-28 21:14:13,773 - INFO - Loaded 342 prompts, already processed 1
+2025-12-28 21:14:13,773 - INFO - Processing 417_1
+2025-12-28 21:14:13,778 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:13,983 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:14,187 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:14,390 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:14,593 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:14,794 - INFO - Processing 850_1
+2025-12-28 21:14:14,796 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:15,000 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:15,203 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:15,406 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:15,609 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:15,810 - INFO - Processing 954_2
+2025-12-28 21:14:15,812 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:16,014 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:16,217 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:16,419 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:16,622 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:16,823 - INFO - Processing 11_1
+2025-12-28 21:14:16,826 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:17,029 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:17,232 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:17,434 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:17,637 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:17,837 - INFO - Processing 120_1
+2025-12-28 21:14:17,840 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:18,043 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:18,245 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:18,448 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:18,651 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:18,851 - INFO - Processing 125_2
+2025-12-28 21:14:18,853 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:19,056 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:19,258 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:19,460 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:19,663 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:19,864 - INFO - Processing 150_2
+2025-12-28 21:14:19,867 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:14:20,069 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1040/chat/completions
+2025-12-28 21:18:16,528 - INFO - Starting Qwen Self-Consistency (k=5) for Action Sequencing
+2025-12-28 21:18:16,545 - INFO - Loaded 342 prompts, already processed 7
+2025-12-28 21:18:16,545 - INFO - Processing 150_2
+2025-12-28 21:18:16,550 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:16,754 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:16,957 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:17,159 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:17,362 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:17,563 - INFO - Processing 160_1
+2025-12-28 21:18:17,565 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:17,768 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:17,971 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:18,173 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:18,376 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:18,577 - INFO - Processing 180_2
+2025-12-28 21:18:18,579 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:18,782 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:18,984 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:19,187 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:19,389 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:19,590 - INFO - Processing 205_1
+2025-12-28 21:18:19,592 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:19,795 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:19,997 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:20,200 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:20,402 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:20,603 - INFO - Processing 222_1
+2025-12-28 21:18:20,605 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:20,808 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:21,010 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:21,213 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:21,415 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:21,616 - INFO - Processing 232_2
+2025-12-28 21:18:21,618 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:21,821 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:22,023 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:22,226 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:22,428 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:22,629 - INFO - Processing 310_1
+2025-12-28 21:18:22,631 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:22,834 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:23,036 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:23,239 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:23,441 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:23,642 - INFO - Processing 311_1
+2025-12-28 21:18:23,644 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:23,847 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:24,049 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:24,251 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:24,454 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:24,655 - INFO - Processing 331_2
+2025-12-28 21:18:24,657 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:24,859 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:25,062 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:25,264 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:25,467 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:25,667 - INFO - Processing 339_1
+2025-12-28 21:18:25,670 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:25,872 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:26,075 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:26,277 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:26,479 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:26,680 - INFO - Processing 345_1
+2025-12-28 21:18:26,683 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:26,885 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:27,088 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:27,291 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:27,493 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:27,694 - INFO - Processing 392_1
+2025-12-28 21:18:27,697 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:27,900 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:28,102 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:28,305 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:28,507 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:28,708 - INFO - Processing 394_2
+2025-12-28 21:18:28,710 - WARNING - API call failed on sample 1/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:28,913 - WARNING - API call failed on sample 2/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:29,115 - WARNING - API call failed on sample 3/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:29,317 - WARNING - API call failed on sample 4/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:18:29,520 - WARNING - API call failed on sample 5/5: 404 Client Error: Not Found for url: http://127.0.0.1:1043/chat/completions
+2025-12-28 21:20:17,342 - INFO - Starting Qwen Self-Consistency (k=5) for Action Sequencing
+2025-12-28 21:20:17,356 - INFO - Loaded 342 prompts, already processed 19
+2025-12-28 21:20:17,357 - INFO - Processing 394_2
+2025-12-28 21:20:23,496 - INFO - Processing 432_1
+2025-12-28 21:20:29,715 - INFO - Processing 443_2
+2025-12-28 21:20:35,909 - INFO - Processing 445_1
+2025-12-28 21:20:45,217 - INFO - Processing 511_1
+2025-12-28 21:20:50,663 - INFO - Processing 585_1
+2025-12-28 21:21:04,584 - INFO - Processing 604_2
+2025-12-28 21:21:13,491 - INFO - Processing 616_1
+2025-12-28 21:21:18,611 - INFO - Processing 627_1
+2025-12-28 21:21:20,563 - INFO - Processing 705_1
+2025-12-28 21:21:26,701 - INFO - Processing 708_1
+2025-12-28 21:21:35,507 - INFO - Processing 715_2
+2025-12-28 21:21:41,612 - INFO - Processing 737_2
+2025-12-28 21:21:47,257 - INFO - Processing 780_1
+2025-12-28 21:21:59,444 - INFO - Processing 812_1
+2025-12-28 21:22:06,343 - INFO - Processing 835_2
+2025-12-28 21:22:12,455 - INFO - Processing 85_2
+2025-12-28 21:22:18,109 - INFO - Processing 874_2
+2025-12-28 21:22:23,586 - INFO - Processing 491_2
+2025-12-28 21:22:40,733 - INFO - Processing 696_1
+2025-12-28 21:22:53,089 - INFO - Processing 1003_2
+2025-12-28 21:23:09,356 - INFO - Processing 115_2
+2025-12-28 21:23:18,328 - INFO - Processing 407_1
+2025-12-28 21:23:28,501 - INFO - Processing 430_1
+2025-12-28 21:23:39,712 - INFO - Processing 481_2
+2025-12-28 21:24:05,504 - INFO - Processing 622_1
+2025-12-28 21:24:17,129 - INFO - Processing 699_1
+2025-12-28 21:24:28,303 - INFO - Processing 824_1
+2025-12-28 21:24:39,395 - INFO - Processing 87_2
+2025-12-28 21:24:50,264 - INFO - Processing 986_2
+2025-12-28 21:25:29,944 - INFO - Processing 996_2
+2025-12-28 21:25:41,476 - INFO - Processing 1004_2
+2025-12-28 21:25:50,121 - INFO - Processing 152_2
+2025-12-28 21:25:58,690 - INFO - Processing 298_2
+2025-12-28 21:26:07,258 - INFO - Processing 609_2
+2025-12-28 21:26:15,866 - INFO - Processing 703_2
+2025-12-28 21:26:24,402 - INFO - Processing 772_1
+2025-12-28 21:26:32,297 - INFO - Processing 837_2
+2025-12-28 21:26:47,353 - INFO - Processing 158_1
+2025-12-28 21:26:53,184 - INFO - Processing 323_2
+2025-12-28 21:26:58,407 - INFO - Processing 430_2
+2025-12-28 21:27:03,623 - INFO - Processing 478_1
+2025-12-28 21:27:08,784 - INFO - Processing 496_1
+2025-12-28 21:27:13,922 - INFO - Processing 624_2
+2025-12-28 21:27:22,354 - INFO - Processing 188_1
+2025-12-28 21:27:34,051 - INFO - Processing 803_2
+2025-12-28 21:27:43,123 - INFO - Processing 960_2
+2025-12-28 21:27:58,136 - INFO - Processing 101_2
+2025-12-28 21:28:03,439 - INFO - Processing 1068_1
+2025-12-28 21:28:08,748 - INFO - Processing 153_2
+2025-12-28 21:28:14,086 - INFO - Processing 196_2
+2025-12-28 21:28:19,438 - INFO - Processing 198_1
+2025-12-28 21:28:24,906 - INFO - Processing 201_2
+2025-12-28 21:28:30,367 - INFO - Processing 232_1
+2025-12-28 21:28:35,764 - INFO - Processing 234_1
+2025-12-28 21:28:41,269 - INFO - Processing 343_2
+2025-12-28 21:28:46,800 - INFO - Processing 373_1
+2025-12-28 21:28:52,195 - INFO - Processing 406_2
+2025-12-28 21:28:57,588 - INFO - Processing 409_2
+2025-12-28 21:29:02,973 - INFO - Processing 419_1
+2025-12-28 21:29:08,385 - INFO - Processing 433_1
+2025-12-28 21:29:13,813 - INFO - Processing 437_2
+2025-12-28 21:29:19,338 - INFO - Processing 440_1
+2025-12-28 21:29:24,760 - INFO - Processing 453_2
+2025-12-28 21:29:30,239 - INFO - Processing 46_1
+2025-12-28 21:29:35,837 - INFO - Processing 475_2
+2025-12-28 21:29:41,292 - INFO - Processing 503_1
+2025-12-28 21:29:46,810 - INFO - Processing 670_2
+2025-12-28 21:29:52,632 - INFO - Processing 719_2
+2025-12-28 21:29:58,113 - INFO - Processing 757_2
+2025-12-28 21:30:03,533 - INFO - Processing 787_2
+2025-12-28 21:30:08,963 - INFO - Processing 795_1
+2025-12-28 21:30:14,396 - INFO - Processing 819_1
+2025-12-28 21:30:19,762 - INFO - Processing 874_1
+2025-12-28 21:30:25,137 - INFO - Processing 910_1
+2025-12-28 21:30:30,519 - INFO - Processing 91_2
+2025-12-28 21:30:35,999 - INFO - Processing 93_2
+2025-12-28 21:30:41,400 - INFO - Processing 962_1
+2025-12-28 21:30:46,782 - INFO - Processing 190_1
+2025-12-28 21:31:16,252 - INFO - Processing 201_1
+2025-12-28 21:31:33,258 - INFO - Processing 223_2
+2025-12-28 21:31:50,049 - INFO - Processing 327_2
+2025-12-28 21:32:02,378 - INFO - Processing 383_1
+2025-12-28 21:32:19,517 - INFO - Processing 417_2
+2025-12-28 21:32:55,093 - INFO - Processing 487_1
+2025-12-28 21:33:31,157 - INFO - Processing 650_2
+2025-12-28 21:33:57,367 - INFO - Processing 783_1
+2025-12-28 21:34:29,732 - INFO - Processing 815_2
+2025-12-28 21:34:47,042 - INFO - Processing 826_1
+2025-12-28 21:34:56,435 - INFO - Processing 856_1
+2025-12-28 21:35:15,051 - INFO - Processing 911_1
+2025-12-28 21:35:45,449 - INFO - Processing 1027_2
+2025-12-28 21:35:54,150 - INFO - Processing 181_1
+2025-12-28 21:36:03,522 - INFO - Processing 244_2
+2025-12-28 21:36:11,705 - INFO - Processing 269_2
+2025-12-28 21:36:21,699 - INFO - Processing 509_2
+2025-12-28 21:36:28,573 - INFO - Processing 875_1
+2025-12-28 21:36:40,202 - INFO - Processing 102_1
+2025-12-28 21:36:48,257 - INFO - Processing 154_2
+2025-12-28 21:36:56,848 - INFO - Processing 176_1
+2025-12-28 21:37:05,281 - INFO - Processing 214_1
+2025-12-28 21:37:13,770 - INFO - Processing 258_2
+2025-12-28 21:37:22,436 - INFO - Processing 499_1
+2025-12-28 21:37:30,937 - INFO - Processing 517_1
+2025-12-28 21:37:39,500 - INFO - Processing 549_2
+2025-12-28 21:37:48,149 - INFO - Processing 562_1
+2025-12-28 21:38:03,695 - INFO - Processing 580_1
+2025-12-28 21:38:12,101 - INFO - Processing 657_1
+2025-12-28 21:38:21,088 - INFO - Processing 660_1
+2025-12-28 21:38:29,990 - INFO - Processing 672_1
+2025-12-28 21:38:39,070 - INFO - Processing 710_1
+2025-12-28 21:38:52,153 - INFO - Processing 741_1
+2025-12-28 21:39:00,958 - INFO - Processing 750_2
+2025-12-28 21:39:14,301 - INFO - Processing 805_1
+2025-12-28 21:39:22,986 - INFO - Processing 80_1
+2025-12-28 21:39:31,451 - INFO - Processing 813_2
+2025-12-28 21:39:40,011 - INFO - Processing 928_2
+2025-12-28 21:39:47,974 - INFO - Processing 995_2
+2025-12-28 21:39:56,808 - INFO - Processing 1035_1
+2025-12-28 21:40:07,985 - INFO - Processing 113_2
+2025-12-28 21:40:19,776 - INFO - Processing 12_2
+2025-12-28 21:40:31,787 - INFO - Processing 137_2
+2025-12-28 21:40:43,607 - INFO - Processing 203_2
+2025-12-28 21:40:54,678 - INFO - Processing 220_2
+2025-12-28 21:41:06,498 - INFO - Processing 242_1
+2025-12-28 21:41:18,507 - INFO - Processing 279_2
+2025-12-28 21:41:30,374 - INFO - Processing 287_1
+2025-12-28 21:41:42,229 - INFO - Processing 292_1
+2025-12-28 21:41:55,234 - INFO - Processing 297_1
+2025-12-28 21:42:07,751 - INFO - Processing 381_1
+2025-12-28 21:42:19,542 - INFO - Processing 388_2
+2025-12-28 21:42:32,072 - INFO - Processing 38_1
+2025-12-28 21:42:43,882 - INFO - Processing 429_1
+2025-12-28 21:42:56,993 - INFO - Processing 437_1
+2025-12-28 21:43:10,737 - INFO - Processing 451_1
+2025-12-28 21:43:23,003 - INFO - Processing 469_2
+2025-12-28 21:43:35,885 - INFO - Processing 479_2
+2025-12-28 21:43:48,168 - INFO - Processing 502_1
+2025-12-28 21:44:00,093 - INFO - Processing 612_1
+2025-12-28 21:44:13,000 - INFO - Processing 856_2
+2025-12-28 21:44:24,621 - INFO - Processing 384_1
+2025-12-28 21:44:35,829 - INFO - Processing 540_1
+2025-12-28 21:44:44,267 - INFO - Processing 60_1
+2025-12-28 21:44:53,650 - INFO - Processing 71_2
+2025-12-28 21:45:08,919 - INFO - Processing 7_1
+2025-12-28 21:45:19,575 - INFO - Processing 1070_1
+2025-12-28 21:45:32,813 - INFO - Processing 313_2
+2025-12-28 21:45:45,565 - INFO - Processing 689_1
+2025-12-28 21:45:55,570 - INFO - Processing 718_1
+2025-12-28 21:46:01,426 - INFO - Processing 1049_1
+2025-12-28 21:46:10,958 - INFO - Processing 113_1
+2025-12-28 21:46:19,469 - INFO - Processing 161_1
+2025-12-28 21:46:28,706 - INFO - Processing 173_1
+2025-12-28 21:46:37,820 - INFO - Processing 23_1
+2025-12-28 21:46:46,935 - INFO - Processing 263_1
+2025-12-28 21:46:56,029 - INFO - Processing 305_2
+2025-12-28 21:47:05,118 - INFO - Processing 363_2
+2025-12-28 21:47:11,731 - INFO - Processing 385_2
+2025-12-28 21:47:20,152 - INFO - Processing 403_1
+2025-12-28 21:47:28,775 - INFO - Processing 415_1
+2025-12-28 21:47:37,951 - INFO - Processing 462_2
+2025-12-28 21:47:47,197 - INFO - Processing 463_2
+2025-12-28 21:47:56,396 - INFO - Processing 503_2
+2025-12-28 21:48:05,621 - INFO - Processing 59_1
+2025-12-28 21:48:11,267 - INFO - Processing 737_1
+2025-12-28 21:48:20,421 - INFO - Processing 773_1
+2025-12-28 21:48:28,240 - INFO - Processing 910_2
+2025-12-28 21:48:37,519 - INFO - Processing 953_1
+2025-12-28 21:48:46,739 - INFO - Processing 1057_1
+2025-12-28 21:48:55,707 - INFO - Processing 117_1
+2025-12-28 21:49:04,347 - INFO - Processing 134_1
+2025-12-28 21:49:16,292 - INFO - Processing 170_1
+2025-12-28 21:49:25,169 - INFO - Processing 197_2
+2025-12-28 21:49:33,967 - INFO - Processing 21_2
+2025-12-28 21:49:42,823 - INFO - Processing 225_2
+2025-12-28 21:49:51,435 - INFO - Processing 259_1
+2025-12-28 21:50:00,317 - INFO - Processing 307_2
+2025-12-28 21:50:09,163 - INFO - Processing 329_1
+2025-12-28 21:50:18,019 - INFO - Processing 342_2
+2025-12-28 21:50:26,844 - INFO - Processing 377_2
+2025-12-28 21:50:35,651 - INFO - Processing 383_2
+2025-12-28 21:50:44,453 - INFO - Processing 411_1
+2025-12-28 21:50:53,289 - INFO - Processing 454_2
+2025-12-28 21:51:02,157 - INFO - Processing 459_1
+2025-12-28 21:51:11,052 - INFO - Processing 548_2
+2025-12-28 21:51:19,959 - INFO - Processing 595_1
+2025-12-28 21:51:28,812 - INFO - Processing 684_2
+2025-12-28 21:51:37,795 - INFO - Processing 74_1
+2025-12-28 21:51:46,578 - INFO - Processing 806_1
+2025-12-28 21:51:55,672 - INFO - Processing 98_1
+2025-12-28 21:52:04,420 - INFO - Processing 1064_1
+2025-12-28 21:52:20,758 - INFO - Processing 156_1
+2025-12-28 21:52:42,750 - INFO - Processing 171_2
+2025-12-28 21:53:04,049 - INFO - Processing 175_2
+2025-12-28 21:53:24,005 - INFO - Processing 181_2
+2025-12-28 21:53:44,456 - INFO - Processing 26_1
+2025-12-28 21:53:57,544 - INFO - Processing 286_2
+2025-12-28 21:54:24,179 - INFO - Processing 291_1
+2025-12-28 21:54:48,068 - INFO - Processing 317_2
+2025-12-28 21:55:07,940 - INFO - Processing 488_2
+2025-12-28 21:55:29,667 - INFO - Processing 510_1
+2025-12-28 21:55:46,688 - INFO - Processing 528_1
+2025-12-28 21:56:07,478 - INFO - Processing 532_1
+2025-12-28 21:56:33,344 - INFO - Processing 589_1
+2025-12-28 21:56:48,747 - INFO - Processing 600_1
+2025-12-28 21:57:11,000 - INFO - Processing 662_1
+2025-12-28 21:57:31,046 - INFO - Processing 688_1
+2025-12-28 21:57:39,329 - INFO - Processing 787_1
+2025-12-28 21:57:59,889 - INFO - Processing 788_1
+2025-12-28 21:58:29,442 - INFO - Processing 814_1
+2025-12-28 21:58:58,871 - INFO - Processing 850_2
+2025-12-28 21:59:17,925 - INFO - Processing 861_2
+2025-12-28 21:59:33,406 - INFO - Processing 878_2
+2025-12-28 21:59:52,552 - INFO - Processing 1073_1
+2025-12-28 22:00:00,107 - INFO - Processing 1088_1
+2025-12-28 22:00:07,749 - INFO - Processing 15_2
+2025-12-28 22:00:15,362 - INFO - Processing 163_1
+2025-12-28 22:00:22,094 - INFO - Processing 16_2
+2025-12-28 22:00:27,523 - INFO - Processing 192_1
+2025-12-28 22:00:34,315 - INFO - Processing 208_2
+2025-12-28 22:00:43,192 - INFO - Processing 221_2
+2025-12-28 22:00:48,521 - INFO - Processing 241_2
+2025-12-28 22:00:54,585 - INFO - Processing 341_1
+2025-12-28 22:01:07,179 - INFO - Processing 484_1
+2025-12-28 22:01:16,909 - INFO - Processing 504_2
+2025-12-28 22:01:22,308 - INFO - Processing 508_2
+2025-12-28 22:01:28,402 - INFO - Processing 544_1
+2025-12-28 22:01:35,184 - INFO - Processing 57_1
+2025-12-28 22:01:42,018 - INFO - Processing 617_2
+2025-12-28 22:01:51,952 - INFO - Processing 628_1
+2025-12-28 22:01:59,282 - INFO - Processing 688_2
+2025-12-28 22:02:06,919 - INFO - Processing 693_2
+2025-12-28 22:02:14,308 - INFO - Processing 821_1
+2025-12-28 22:02:20,439 - INFO - Processing 86_1
+2025-12-28 22:02:30,816 - INFO - Processing 896_2
+2025-12-28 22:02:37,764 - INFO - Processing 897_2
+2025-12-28 22:02:45,372 - INFO - Processing 1083_2
+2025-12-28 22:02:59,811 - INFO - Processing 392_2
+2025-12-28 22:03:18,608 - INFO - Processing 755_2
+2025-12-28 22:03:28,212 - INFO - Processing 124_1
+2025-12-28 22:04:37,638 - INFO - Processing 137_1
+2025-12-28 22:04:46,097 - INFO - Processing 204_2
+2025-12-28 22:04:54,822 - INFO - Processing 268_1
+2025-12-28 22:05:02,127 - INFO - Processing 297_2
+2025-12-28 22:05:17,626 - INFO - Processing 299_1
+2025-12-28 22:05:26,048 - INFO - Processing 300_1
+2025-12-28 22:05:34,277 - INFO - Processing 321_1
+2025-12-28 22:05:39,888 - INFO - Processing 332_2
+2025-12-28 22:05:48,157 - INFO - Processing 379_2
+2025-12-28 22:05:56,219 - INFO - Processing 387_1
+2025-12-28 22:06:04,904 - INFO - Processing 390_2
+2025-12-28 22:06:13,557 - INFO - Processing 3_1
+2025-12-28 22:06:22,194 - INFO - Processing 416_1
+2025-12-28 22:06:30,791 - INFO - Processing 438_1
+2025-12-28 22:06:39,393 - INFO - Processing 442_1
+2025-12-28 22:06:47,977 - INFO - Processing 447_2
+2025-12-28 22:06:56,261 - INFO - Processing 449_1
+2025-12-28 22:07:03,631 - INFO - Processing 455_1
+2025-12-28 22:07:11,560 - INFO - Processing 456_2
+2025-12-28 22:07:20,203 - INFO - Processing 473_1
+2025-12-28 22:07:32,990 - INFO - Processing 490_1
+2025-12-28 22:07:41,196 - INFO - Processing 563_1
+2025-12-28 22:07:49,245 - INFO - Processing 567_2
+2025-12-28 22:07:57,865 - INFO - Processing 570_1
+2025-12-28 22:08:06,476 - INFO - Processing 674_2
+2025-12-28 22:08:15,070 - INFO - Processing 6_1
+2025-12-28 22:08:23,222 - INFO - Processing 742_1
+2025-12-28 22:08:31,964 - INFO - Processing 762_2
+2025-12-28 22:08:39,789 - INFO - Processing 793_2
+2025-12-28 22:08:48,434 - INFO - Processing 798_2
+2025-12-28 22:08:57,068 - INFO - Processing 932_2
+2025-12-28 22:09:05,664 - INFO - Processing 941_2
+2025-12-28 22:09:13,580 - INFO - Processing 96_1
+2025-12-28 22:09:22,327 - INFO - Processing 976_1
+2025-12-28 22:09:30,675 - INFO - Processing 149_1
+2025-12-28 22:09:34,017 - INFO - Processing 154_1
+2025-12-28 22:09:39,478 - INFO - Processing 180_1
+2025-12-28 22:09:44,814 - INFO - Processing 195_1
+2025-12-28 22:09:50,291 - INFO - Processing 211_1
+2025-12-28 22:09:54,412 - INFO - Processing 241_1
+2025-12-28 22:09:58,873 - INFO - Processing 264_1
+2025-12-28 22:10:09,151 - INFO - Processing 265_2
+2025-12-28 22:10:14,632 - INFO - Processing 287_2
+2025-12-28 22:10:19,368 - INFO - Processing 352_1
+2025-12-28 22:10:24,504 - INFO - Processing 360_1
+2025-12-28 22:10:29,160 - INFO - Processing 388_1
+2025-12-28 22:10:33,809 - INFO - Processing 431_1
+2025-12-28 22:10:39,175 - INFO - Processing 436_1
+2025-12-28 22:10:44,545 - INFO - Processing 442_2
+2025-12-28 22:10:49,384 - INFO - Processing 474_2
+2025-12-28 22:10:53,537 - INFO - Processing 482_2
+2025-12-28 22:10:59,316 - INFO - Processing 497_1
+2025-12-28 22:11:13,811 - INFO - Processing 553_1
+2025-12-28 22:11:19,186 - INFO - Processing 601_2
+2025-12-28 22:11:24,805 - INFO - Processing 70_1
+2025-12-28 22:11:36,617 - INFO - Processing 864_2
+2025-12-28 22:11:48,800 - INFO - Processing 963_2
+2025-12-28 22:11:54,202 - INFO - Processing 974_1
+2025-12-28 22:11:58,879 - INFO - Processing 976_2
+2025-12-28 22:12:04,930 - INFO - Processing 99_2
+2025-12-28 22:12:09,508 - INFO - Processing 183_2
+2025-12-28 22:12:45,988 - INFO - Processing 229_1
+2025-12-28 22:13:21,203 - INFO - Processing 310_2
+2025-12-28 22:13:51,713 - INFO - Processing 721_2
+2025-12-28 22:14:25,755 - INFO - Processing 764_2
+2025-12-28 22:14:53,134 - INFO - Processing 419_2
+2025-12-28 22:15:13,641 - INFO - Processing 446_2
+2025-12-28 22:15:25,929 - INFO - Processing 710_2
+2025-12-28 22:15:36,323 - INFO - Processing 84_1
+2025-12-28 22:15:38,248 - INFO - Processing 93_1
+2025-12-28 22:15:40,171 - INFO - Processing 368_1
+2025-12-28 22:15:47,173 - INFO - Processing 729_2
+2025-12-28 22:15:52,350 - INFO - Processing 975_2
+2025-12-28 22:15:57,609 - INFO - Processing 231_2
+2025-12-28 22:16:18,711 - INFO - Processing 31_1
+2025-12-28 22:16:42,087 - INFO - Processing 349_1
+2025-12-28 22:17:03,824 - INFO - Processing 397_1
+2025-12-28 22:17:25,960 - INFO - Processing 429_2
+2025-12-28 22:17:45,672 - INFO - Processing 553_2
+2025-12-28 22:18:06,984 - INFO - Processing 594_2
+2025-12-28 22:18:28,733 - INFO - Processing 746_1
+2025-12-28 22:18:52,009 - INFO - Processing 961_1
+2025-12-28 22:19:14,149 - INFO - Processing 988_1
+2025-12-28 22:19:32,212 - INFO - All tasks completed. Saved to /opt/pangu/examples/vllm-inference/virtualhome/action_m/virtualhome_action_sequencing_prompts_sc5_outputs.json

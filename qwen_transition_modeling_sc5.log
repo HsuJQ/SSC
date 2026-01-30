@@ -1,0 +1,96 @@
+2026-01-10 23:56:20,824 - INFO - ======================================================================
+2026-01-10 23:56:20,824 - INFO - VirtualHome Transition Modeling - Qwen SSC
+2026-01-10 23:56:20,824 - INFO - ======================================================================
+2026-01-10 23:56:20,824 - INFO - 配置:
+2026-01-10 23:56:20,825 - INFO -   模型: qwen2.5_7b_instruct
+2026-01-10 23:56:20,825 - INFO -   样本数: 5
+2026-01-10 23:56:20,825 - INFO -   Temperature: 0.7
+2026-01-10 23:56:20,825 - INFO -   Top-p: 0.95
+2026-01-10 23:56:20,825 - INFO -   投票策略: skeleton
+2026-01-10 23:56:20,825 - INFO -   提示词文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/output/virtualhome/generate_prompts/transition_modeling/virtualhome_transition_modeling.json
+2026-01-10 23:56:20,825 - INFO -   输出目录: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/qwen
+2026-01-10 23:56:20,825 - INFO - ======================================================================
+2026-01-10 23:56:20,851 - INFO - 读取到 296 条提示词
+2026-01-10 23:56:20,851 - INFO - 输出文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/qwen/virtualhome_transition_modeling_qwen_sc5_outputs.json
+2026-01-11 00:39:36,482 - INFO - ======================================================================
+2026-01-11 00:39:36,482 - INFO - VirtualHome Transition Modeling - Qwen SSC
+2026-01-11 00:39:36,482 - INFO - ======================================================================
+2026-01-11 00:39:36,482 - INFO - 配置:
+2026-01-11 00:39:36,482 - INFO -   模型: qwen2.5_7b_instruct
+2026-01-11 00:39:36,482 - INFO -   样本数: 5
+2026-01-11 00:39:36,482 - INFO -   Temperature: 0.7
+2026-01-11 00:39:36,482 - INFO -   Top-p: 0.95
+2026-01-11 00:39:36,482 - INFO -   投票策略: skeleton
+2026-01-11 00:39:36,482 - INFO -   提示词文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/output/virtualhome/generate_prompts/transition_modeling/virtualhome_transition_modeling.json
+2026-01-11 00:39:36,482 - INFO -   输出目录: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/qwen
+2026-01-11 00:39:36,482 - INFO - ======================================================================
+2026-01-11 00:39:36,506 - INFO - 读取到 296 条提示词
+2026-01-11 00:39:36,506 - INFO - 输出文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/qwen/virtualhome_transition_modeling_qwen_sc5_outputs.json
+2026-01-11 01:25:06,325 - ERROR - API调用超时
+2026-01-11 01:30:06,425 - ERROR - API调用超时
+2026-01-11 01:35:06,525 - ERROR - API调用超时
+2026-01-11 01:42:50,565 - ERROR - API调用超时
+2026-01-11 01:47:50,665 - ERROR - API调用超时
+2026-01-11 01:52:50,765 - ERROR - API调用超时
+2026-01-11 01:57:50,865 - ERROR - API调用超时
+2026-01-11 02:02:50,965 - ERROR - API调用超时
+2026-01-11 02:07:51,065 - ERROR - API调用超时
+2026-01-11 02:12:51,167 - ERROR - API调用超时
+2026-01-11 02:17:51,269 - ERROR - API调用超时
+2026-01-11 02:17:51,269 - WARNING - No valid candidates generated
+2026-01-11 02:17:51,269 - WARNING - Failed to generate output for 960_2
+2026-01-11 02:22:51,369 - ERROR - API调用超时
+2026-01-11 02:27:51,469 - ERROR - API调用超时
+2026-01-11 02:32:51,569 - ERROR - API调用超时
+2026-01-11 02:37:51,669 - ERROR - API调用超时
+2026-01-11 02:42:51,769 - ERROR - API调用超时
+2026-01-11 02:42:51,769 - WARNING - No valid candidates generated
+2026-01-11 02:42:51,769 - WARNING - Failed to generate output for 101_2
+2026-01-11 02:47:51,869 - ERROR - API调用超时
+2026-01-11 02:52:51,969 - ERROR - API调用超时
+2026-01-11 02:57:52,071 - ERROR - API调用超时
+2026-01-11 03:02:52,173 - ERROR - API调用超时
+2026-01-11 03:07:52,273 - ERROR - API调用超时
+2026-01-11 03:07:52,273 - WARNING - No valid candidates generated
+2026-01-11 03:07:52,273 - WARNING - Failed to generate output for 1068_1
+2026-01-11 03:12:52,373 - ERROR - API调用超时
+2026-01-11 03:17:52,481 - ERROR - API调用超时
+2026-01-11 03:22:52,581 - ERROR - API调用超时
+2026-01-11 03:27:52,681 - ERROR - API调用超时
+2026-01-11 03:32:52,781 - ERROR - API调用超时
+2026-01-11 03:32:52,781 - WARNING - No valid candidates generated
+2026-01-11 03:32:52,781 - WARNING - Failed to generate output for 153_2
+2026-01-11 03:37:52,881 - ERROR - API调用超时
+2026-01-11 03:42:52,981 - ERROR - API调用超时
+2026-01-11 03:47:53,081 - ERROR - API调用超时
+2026-01-11 03:52:53,181 - ERROR - API调用超时
+2026-01-11 03:57:53,281 - ERROR - API调用超时
+2026-01-11 03:57:53,281 - WARNING - No valid candidates generated
+2026-01-11 03:57:53,281 - WARNING - Failed to generate output for 196_2
+2026-01-11 04:02:53,381 - ERROR - API调用超时
+2026-01-11 04:07:53,481 - ERROR - API调用超时
+2026-01-11 04:12:53,581 - ERROR - API调用超时
+2026-01-11 04:17:53,681 - ERROR - API调用超时
+2026-01-11 04:22:53,781 - ERROR - API调用超时
+2026-01-11 04:22:53,781 - WARNING - No valid candidates generated
+2026-01-11 04:22:53,781 - WARNING - Failed to generate output for 198_1
+2026-01-11 04:27:53,881 - ERROR - API调用超时
+2026-01-11 04:32:53,981 - ERROR - API调用超时
+2026-01-11 04:37:54,081 - ERROR - API调用超时
+2026-01-11 04:42:54,181 - ERROR - API调用超时
+2026-01-11 04:47:54,281 - ERROR - API调用超时
+2026-01-11 04:47:54,281 - WARNING - No valid candidates generated
+2026-01-11 04:47:54,281 - WARNING - Failed to generate output for 201_2
+2026-01-11 04:52:54,381 - ERROR - API调用超时
+2026-01-11 07:01:54,752 - INFO - ======================================================================
+2026-01-11 07:01:54,752 - INFO - 处理完成!
+2026-01-11 07:01:54,752 - INFO - ======================================================================
+2026-01-11 07:01:54,752 - INFO - 统计信息:
+2026-01-11 07:01:54,752 - INFO -   总数: 296
+2026-01-11 07:01:54,753 - INFO -   成功: 289
+2026-01-11 07:01:54,753 - INFO -   失败: 7
+2026-01-11 07:01:54,753 - INFO -   平均置信度: 0.890
+2026-01-11 07:01:54,753 - INFO -   高置信度 (>0.6): 237
+2026-01-11 07:01:54,753 - INFO -   中置信度 (0.4-0.6): 48
+2026-01-11 07:01:54,753 - INFO -   低置信度 (<0.4): 4
+2026-01-11 07:01:54,753 - INFO -   输出文件: /opt/pangu/examples/vllm-inference/virtualhome_m/transition_m/qwen/virtualhome_transition_modeling_qwen_sc5_outputs.json

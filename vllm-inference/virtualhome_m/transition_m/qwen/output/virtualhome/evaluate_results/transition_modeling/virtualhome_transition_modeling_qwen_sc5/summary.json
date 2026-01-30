@@ -1,0 +1,38 @@
+{
+    "object_states": {
+        "precision": 74.948,
+        "recall": 40.8962,
+        "f1": 52.9174,
+        "planner_success_rate": 0.0
+    },
+    "spatial_relations": {
+        "precision": 43.2905,
+        "recall": 29.4211,
+        "f1": 35.0331,
+        "planner_success_rate": 0.0
+    },
+    "object_affordance": {
+        "precision": 78.0822,
+        "recall": 72.766,
+        "f1": 75.3304,
+        "planner_success_rate": 0.0
+    },
+    "non-spatial_relations": {
+        "precision": 10.4895,
+        "recall": 4.9342,
+        "f1": 6.7114,
+        "planner_success_rate": 0.0
+    },
+    "object_orientation": {
+        "precision": 58.9744,
+        "recall": 74.1935,
+        "f1": 65.7143,
+        "planner_success_rate": 0.0
+    },
+    "overall": {
+        "precision": 57.591,
+        "recall": 35.9787,
+        "f1": 44.2889,
+        "planner_success_rate": 0.0
+    }
+}

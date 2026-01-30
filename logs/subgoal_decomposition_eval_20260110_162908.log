@@ -1,0 +1,19 @@
+2026-01-10 16:29:15 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <light> (245)
+2026-01-10 16:29:15 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <light> (245) [1]"
+2026-01-10 16:30:33 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [OPEN] <sink> (42) [1]
+2026-01-10 16:30:55 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <dvd_player> (1000) [1]
+2026-01-10 16:30:57 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <cd_player> (1000)
+2026-01-10 16:30:57 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <cd_player> (1000) [1]"
+2026-01-10 16:30:58 - virtualhome_eval.simulation.evolving_graph.execution - Openable check failed: [CLOSE] <stereo> (1000) [1]
+2026-01-10 16:31:19 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <television> (410)
+2026-01-10 16:31:19 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <television> (410) [1]"
+2026-01-10 16:31:43 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <cup> (1000)
+2026-01-10 16:31:43 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <cup> (1000) [1]"
+2026-01-10 16:31:58 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <novel> (1000)
+2026-01-10 16:31:58 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <novel> (1000) [1]"
+2026-01-10 16:32:31 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <table> (355)
+2026-01-10 16:32:31 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <table> (355) [1]"
+2026-01-10 16:32:32 - virtualhome_eval.simulation.evolving_graph.execution - Check walk failed: <phone> (247)
+2026-01-10 16:32:32 - virtualhome_eval.simulation.evolving_graph.execution - <character> (65) is sitting when executing "[FIND] <phone> (247) [1]"
+2026-01-10 16:32:59 - virtualhome_eval.evaluation.subgoal_decomposition.scripts.evaluate_results - Results saved to ./output/virtualhome/evaluate_results/subgoal_decomposition/virtualhome_subgoal_decomposition_sc5/error_info.json
+2026-01-10 16:32:59 - virtualhome_eval.evaluation.subgoal_decomposition.scripts.evaluate_results - Evaluate results of virtualhome_subgoal_decomposition_sc5 saved to ./output/virtualhome/evaluate_results/subgoal_decomposition/virtualhome_subgoal_decomposition_sc5/summary.json
