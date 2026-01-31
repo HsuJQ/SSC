@@ -1,6 +1,6 @@
 # README
-
-## 安装eai测评工具
+## 环境测试
+### 1. 安装eai测评工具
 
 1. **创建激活conda环境**:
    ```bash
@@ -27,7 +27,7 @@
     ```
     如果输出结果为 `Results: ['walk_towards character light', 'switch_on character light']`，则安装成功。否则，参考 `pddlgym_planners/` 目录下的 `BUILD.md` 文件。
 
-## 运行pangu模型并测试（由于晟腾已预配置pangu，故不再创建环境和下载模型）
+### 2. 运行pangu模型并测试（由于晟腾已预配置pangu，故不再创建环境和下载模型）
 
 0. 若无盘古模型，请按照下述方法安装
    
@@ -85,10 +85,80 @@ eai-eval --dataset virtualhome --eval-type goal_interpretation --mode evaluate_r
 eai-eval --dataset virtualhome --eval-type subgoal_decomposition --mode evaluate_results --llm-response-path /opt/pangu/examples/vllm-inference/virtualhome_m/test/llm_output
 eai-eval --dataset virtualhome --eval-type transition_modeling --mode evaluate_results --llm-response-path /opt/pangu/examples/vllm-inference/virtualhome_m/test/llm_output
 ```
-## 相关文件解释
+## SSC实验
 
-1. 调用大模型生成结果的日志为：`client_generate_0123.log`,`client_generate_4567.log`
+### 下载Qwen2.5-7B-Instrcut
+```bash
+git clone https://huggingface.co/Qwen/Qwen2.5-7B-Instruct
+```
+### Goal interpratation
+Qwen
+```bash
+cd vllm-inference/ssc/qwen/goal_interpretation
+```
+```python 
+python runner.py
+```
+Pangu
+```bash
+cd vllm-inference/ssc/pangu/goal_interpretation
+```
+```python 
+python runner.py
+```
 
-2. 测试结果的日志为：`/opt/pangu/examples/vllm-inference/virtualhome/test/logs/goal_interpretation_eval_20251212_154941.log`,`/opt/pangu/examples/vllm-inference/virtualhome/test/logs/action_sequencing_eval_20251212_160842.log`,`/opt/pangu/examples/vllm-inference/virtualhome_m/test/logs/subgoal_decomposition_eval_20251212_154908.log`,`/opt/pangu/examples/vllm-inference/virtualhome_m/test/logs/transition_model_eval_20251212_154917.log`
-
-3. 测试结果为：`/opt/pangu/examples/vllm-inference/virtualhome/test/output/virtualhome/evaluate_results/goal_interpretation`,`/opt/pangu/examples/vllm-inference/virtualhome/test/output/virtualhome/evaluate_results/action_sequencing`,`/opt/pangu/examples/vllm-inference/virtualhome_m/test/output/virtualhome/evaluate_results/subgoal_decomposition`,`/opt/pangu/examples/vllm-inference/virtualhome_m/test/output/virtualhome/evaluate_results/transition_modeling`
+### Action Sequencing
+Qwen
+```bash
+cd vllm-inference/ssc/qwen/action_sequencing
+```
+```python 
+python runner.py
+```
+Pangu
+```bash
+cd vllm-inference/ssc/pangu/action_sequencing
+```
+```python 
+python runner.py
+```
+### Subgoal Decomposition
+Qwen
+```bash
+cd vllm-inference/ssc/qwen/subgoal_decomposition
+```
+```python 
+python runner.py
+```
+Pangu
+```bash
+cd vllm-inference/ssc/pangu/subgoal_decomposition
+```
+```python 
+python runner.py
+```
+### Transition Modeling
+Qwen
+```bash
+cd vllm-inference/ssc/qwen/transition_modeling
+```
+```python 
+python runner.py
+```
+Pangu
+```bash
+cd vllm-inference/ssc/pangu/transition_modeling
+```
+```python 
+python runner.py
+```
+### Compare
+```bash
+conda activate eai-eval
+```
+```bash
+eai-eval --dataset virtualhome --eval-type action_sequencing --mode evaluate_results --llm-response-path your_path
+eai-eval --dataset virtualhome --eval-type goal_interpretation --mode evaluate_results --llm-response-path your_path
+eai-eval --dataset virtualhome --eval-type subgoal_decomposition --mode evaluate_results --llm-response-path your_path
+eai-eval --dataset virtualhome --eval-type transition_modeling --mode evaluate_results --llm-response-path your_path
+```
